@@ -1,0 +1,51 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{multicol}
+
+\usepackage{color}
+\definecolor{DESCred}{rgb}{0.63,0.00,0.20} % {#A10034}
+\usepackage[colorlinks,linkcolor=DESCred]{hyperref}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\usepackage{lmodern}
+\renewcommand{\familydefault}{\sfdefault}
+\makeatletter
+\newcommand{\miniscule}{\@setfontsize\miniscule{3}{4}}
+\makeatother
+
+\newcommand*{\name}[1]{\mbox{\bf #1}}
+\newcommand*{\entry}[4]{$\bullet$ ``\textit{#1},'' #2.\ \href{#4}{#3}}
+
+\newcommand*{\lt}{$<$}
+\newcommand*{\gt}{$>$}
+\renewcommand*{\ge}{$\ge$}
+\newcommand*{\nbsp}{~}
+\newcommand*{\ndash}{-}
+\newcommand*{\rarr}{$\rightarrow$}
+\newcommand*{\phiv}{$\phi$}
+\newcommand*{\macr}{$^-$}
+\newcommand*{\amp}{\&}
+\newcommand*{\upsih}{$\Upsilon$}
+\newcommand*{\emsp}[1]{~}
+\renewcommand*{\sim}{$\approx$}
+\newcommand*{\minus}{$-$}
+\renewcommand*{\surd}{$\sqrt$}
+\newcommand*{\orensen}{\o}
+
+\begin{document}
+
+\begin{multicols}{3}
+\miniscule
+\input{entries}
+\end{multicols}
+
+% All 463 papers published by KIPAC members between September 1, 2014 and August 20, 2015.
+% These papers received more than 92,000 ``reads'' by the community, and were cited by 5,925 other papers (at a mean citation rate of 20.5 per paper),
+% \href{http://labs.adsabs.harvard.edu/adsabs/search/?q=%2A%3A%2A&bigquery=9d338acd-b3d9-422e-bc81-fe8fc9c6aa29}{according to SAO/NASA ADS}.
+% KIPAC's $h$-index just for this year was 36 (meaning that we wrote 36 papers that had already received 36 citations by the end of August).
+% % For comparison,
+% % \href{http://labs.adsabs.harvard.edu/adsabs/search/?bibgr_f=HST&q=pubdate%3A%5B%222014-09-00%22+TO+%222015-08-99%22%5D}{over the same period the Hubble Space Telescope generated 718 papers},
+% % with a mean citation rate of 5.5 and an $h$-index of 25.
+
+\end{document}
