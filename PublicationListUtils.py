@@ -75,7 +75,7 @@ class Articles():
         self._exclude_proceedings = set(exclude_proceedings)
         self._exclude_titles = set(exclude_titles)
         self._affliation_shifts = affliation_shifts
-        self._query_constraints = query_constraints
+        self._query_constraints = ' '.join('{}:{}'.format(k, v) for k, v in query_constraints.iteritems())
         self._affliation_checker = affliation_checker
         self._ads_fields = list(ads_fields)
         self._d = {}
@@ -84,7 +84,7 @@ class Articles():
     def add(self, member):
         count = 0
         for query in member['q']:
-            search_query = ads.SearchQuery(q=query, fl=self._ads_fields, **self._query_constraints)
+            search_query = ads.SearchQuery(q='{} {}'.format(query, self._query_constraints), fl=self._ads_fields)
             search_query.execute()
             for entry in search_query:
                 if any(imap(entry.title[0].startswith, self._exclude_titles)) or entry.bibcode[4:9].strip('.') in self._exclude_proceedings:
