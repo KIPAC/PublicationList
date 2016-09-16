@@ -79,7 +79,7 @@ class Articles():
         self._affliation_checker = affliation_checker
         self._ads_fields = list(ads_fields)
         self._d = {}
-        self._bib = {}s
+        self._bib = {}
 
     def add(self, member):
         count = 0
