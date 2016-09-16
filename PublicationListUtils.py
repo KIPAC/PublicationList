@@ -84,7 +84,7 @@ class Articles():
     def add(self, member):
         count = 0
         for query in member['q']:
-            search_query = ads.SearchQuery(q='{} {}'.format(query, _self._query_constraints), fl=self._ads_fields)
+            search_query = ads.SearchQuery(q='{} {}'.format(query, self._query_constraints), fl=self._ads_fields)
             search_query.execute()
             for entry in search_query:
                 if any(imap(entry.title[0].startswith, self._exclude_titles)) or entry.bibcode[4:9].strip('.') in self._exclude_proceedings:
