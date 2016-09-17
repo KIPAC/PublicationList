@@ -1,1506 +1,1093 @@
+"The Concentration Dependence of the Galaxy-Halo Connection: Modeling Assembly Bias with Abundance Matching," Ben Lehmann, Yao-Yuan Mao, Matthew Becker, Sam Skillman, Risa Wechsler. arXiv.
 
+"α-attractors: Planck, LHC and dark energy," Carrasco, Renata Kallosh, Andrei Linde. JHEP.
 
-* "The Concentration Dependence of the Galaxy-Halo Connection:
-    Modeling Assembly Bias with Abundance Matching," BEN LEHMANN,
-    YAO-YUAN MAO, MATTHEW BECKER, SAM SKILLMAN, RISA WECHSLER.
-* "α-attractors: Planck, LHC and dark energy," Carrasco, RENATA
-    KALLOSH, ANDREI LINDE. JHEP
-* "redMaPPer - IV. Photometric membership identification of red
-    cluster galaxies with 1 per cent precision," Rozo et al., with ELI
-    RYKOFF, RISA WECHSLER. MNRAS
-* "Improved WIMP-search reach of the CDMS II germanium data," Agnese
-    et al., with MAKOTO ASAI, ANDERS BORGLAND, PAUL BRINK, BLAS CABRERA,
-    GARY GODFREY, RICHARD PARTRIDGE, KRISTI SCHNECK. PhRvD
-* "Directional detection of dark matter in universal bound states,"
-    RANJAN LAHA. PhRvD
-* "3C 273 with NuSTAR: Unveiling the Active Galactic Nucleus,"
-    Madsen et al., with KRZYSZTOF NALEWAJKO, GREG MADEJSKI. ApJ
-* "BICEP2/Keck Array V: Measurements of B-mode Polarization at Degree
-    Angular Scales and 150 GHz by the Keck Array," Ade et al., with
-    ZEESHAN AHMED, KENT IRWIN, SARAH KERNASOVSKIY, CHAO-LIN KUO, WALTER
-    OGBURN, KEITH THOMPSON, JAMIE TOLAN, KI WON YOON. ApJ
-* "Results from the first use of low radioactivity argon in a dark
-    matter search," The DarkSide Collaboration, with MARIA ELENA
-    MONZANI.
-* "Search for the associated production of the Higgs boson with a top
-    quark pair in multilepton final states with the ATLAS detector,"
-    Aad et al., with STEVE KAHN. PhLB
-* "Evidence for the kinematic Sunyaev-Ze\v{l}dovich effect with
-    ACTPol and velocity reconstruction from BOSS," Schaan et al., with
-    KENT IRWIN, DALE LI.
-* "Measuring Effective Equation of State of Diffuse Gas in Galaxy
-    Clusters: From Chandra to X-ray Surveyor," IRINA ZHURAVLEVA et al.,
-    with NORBERT WERNER. xrvw
-* "Concerning the variability of beta-decay measurements," PETER
-    STURROCK et al.
-* "Antenna-coupled TES Bolometers Used in BICEP2, Keck Array, and
-    Spider," Ade et al., with KENT IRWIN, SARAH KERNASOVSKIY, CHAO-LIN
-    KUO, WALTER OGBURN, JAMIE TOLAN, KI WON YOON. ApJ
-* "A Uniform Contribution of Core-collapse and Type Ia Supernovae to
-    the Chemical Enrichment Pattern in the Outskirts of the Virgo
-    Cluster," Simionescu et al., with NORBERT WERNER, ONDREJ URBAN,
-    STEVE ALLEN, IRINA ZHURAVLEVA. ApJ
-* "Supersymmetric dark matter in the harsh light of the Large Hadron
-    Collider," MICHAEL PESKIN. PNAS
-* "Measurement of exclusive γγ →ℓ+ℓ- production in proton-proton
-    collisions at √{ s} = 7 TeV with the ATLAS detector," Aad et al.,
-    with STEVE KAHN. PhLB
-* "The one-loop matter bispectrum in the Effective Field Theory of
-    Large Scale Structures," Angulo et al., with SIMON FOREMAN,
-    LEONARDO SENATORE. JCAP
-* "Search for Extended Gamma-Ray Emission from the Virgo Galaxy
-    Cluster with FERMI-LAT," Ackermann et al., with ANDREA ALBERT,
-    ELLIOTT BLOOM, EUGENIO BOTTACINI, ROB CAMERON, SETH DIGEL, WARREN
-    FOCKE, THOMAS GLANZMAN, GARY GODFREY, TONY JOHNSON, PETER MICHELSON,
-    MARIA ELENA MONZANI, IGOR MOSKALENKO, ELENA ORLANDO, VAHE PETROSIAN,
-    TROY PORTER, JANA THAYER, GIACOMO VIANELLO. ApJ
-* "The Massive and Distant Clusters of WISE Survey: MOO J1142+1527, a
-    10¹⁵ M☉ Galaxy Cluster at z = 1.19," Gonzalez et al., with ADAM
-    MANTZ. ApJ
-* "Non-Gaussian structure of B-mode polarization after delensing,"
-    TOSHIYA NAMIKAWA et al. JCAP
-* "Pure de Sitter supergravity," Bergshoeff et al., with RENATA
-    KALLOSH. PhRvD
-* "Magnetic Field Generation in Stars," Ferrario et al., with
-    JONATHAN ZRAKE. SSRv
-* "The Grism Lens-Amplified Survey from Space (GLASS). I. Survey
-    Overview and First Data Release," Treu et al., with ANJA VON DER
-    LINDEN. ApJ
-* "Experimental Searches for the Axion and Axion-Like Particles,"
-    PETER GRAHAM et al. ARNPS
-* "Measurements of the ion fraction and mobility of α - and β -decay
-    products in liquid xenon using the EXO-200 detector," Albert et
-    al., with GIORGIO GRATTA, JAMES RUSSELL. PhRvC
-* "Measurements of the atmospheric neutrino flux by Super-Kamiokande:
-    energy spectra, geomagnetic effects, and solar modulation," Richard
-    et al., with JI-HOON KIM.
-* "Study of the e+e-→K+K- reaction in the energy range from 2.6 to
-    8.0 GeV," Lees et al., with CONCETTA CARTARO, WALTER INNES, AARON
-    ROODMAN, RAFE SCHINDLER, PATRICIA BURCHAT. PhRvD
-* "Separation of electrons and protons in the GAMMA-400 gamma-ray
-    telescope," Leonov et al., with IGOR MOSKALENKO.
-    AdSpR
-* "Sub-kiloparsec Imaging of Cool Molecular Gas in Two Strongly
-    Lensed Dusty, Star-forming Galaxies," Spilker et al., with YASHAR
-    HEZAVEH. ApJ
-* "First low frequency all-sky search for continuous gravitational
-    wave signals," The LIGO Scientific Collaboration, with ROBERT BYER.
-* "High Energy Physics Forum for Computational Excellence: Working
-    Group Reports (I. Applications Software II. Software Libraries and
-    Tools III. Systems)," Habib et al., with ANDERS BORGLAND, MAKOTO
-    ASAI.
-* "Direct detection prospects of dark vectors with xenon-based dark
-    matter experiments," HONGJUN AN et al.
-* "Radio for hidden-photon dark matter detection," SAPTARSHI
-    CHAUDHURI et al., with PETER GRAHAM, KENT IRWIN. PhRvD
-* "A Likely Millisecond Pulsar Binary Counterpart for Fermi Source
-    2FGL J2039.6−5620," ROGER ROMANI. ApJ
-* "Cascaded half-harmonic generation of femtosecond frequency combs
-    in mid-IR," Marandi et al., with ROBERT BYER.
-* "The Q/U Imaging Experiment: Polarization Measurements of the
-    Galactic Plane at 43 and 95 GHz," Ruud et al., with KEITH THOMPSON.
-    ApJ
-* "Stellar Masses and Star Formation Rates of Lensed, Dusty,
-    Star-forming Galaxies from the SPT Survey," Ma et al., with YASHAR
-    HEZAVEH. ApJ
-* "Discovery and spectroscopy of the young jovian planet 51 Eri b
-    with the Gemini Planet Imager," BRUCE MACINTOSH et al., with KATE
-    FOLLETTE, JEAN-BAPTISTE RUFFIO. Sci
-* "Measurement of initial-state-final-state radiation interference in
-    the processes e+e-→μ+μ-γ and e+e-→π+π-γ," Lees et al., with
-    CONCETTA CARTARO, WALTER INNES, AARON ROODMAN, RAFE SCHINDLER,
-    PATRICIA BURCHAT. PhRvD
-* "Gemini Planet Imager Observations of the AU Microscopii Debris
-    Disk: Asymmetries within One Arcsecond," Wang et al., with BRUCE
-    MACINTOSH. ApJ
-* "First NuSTAR Observations of Mrk 501 within a Radio to TeV
-    Multi-Instrument Campaign," Furniss et al., with JIM CHIANG, GREG
-    MADEJSKI, KRZYSZTOF NALEWAJKO. ApJ
-* "X-ray Surveyor Discussion Session Results from the X-ray Vision
-    Workshop," Allured et al., with REBECCA CANNING, IRINA ZHURAVLEVA.
-    xrvw
-* "Designs for a Quantum Electron Microscope," Kruit et al., with
-    MARK KASEVICH.
-* "Diffuse Hot Gas in Galaxy Clusters at High Spatial and Spectral
-    Resolution," Churazov et al., with IRINA ZHURAVLEVA. xrvw
-* "Experimental Searches for the Axion and Axion-Like Particles,"
-    PETER GRAHAM et al. ARNPS
-* "Cosmological Relaxation of the Electroweak Scale," PETER GRAHAM
-    et al. PhRvL
-* "Testing long-distance modifications of gravity to 100 astronomical
-    units," Buscaino et al., with PETER GRAHAM, GIORGIO GRATTA.
-    PhRvD
-* "Bias in the effective field theory of large scale structures,"
-    LEONARDO SENATORE. JCAP
-* "Problems and Prospects from a Flood of Extragalactic TeV Neutrinos
-    in IceCube," MATTHEW KISTLER.
-* "Crowded Cluster Cores: An Algorithm for Deblending in Dark Energy
-    Survey Images," Zhang et al., with ELI RYKOFF. PASP
-* "The Gravity Probe B test of general relativity," Everitt et al.,
-    with RON ADLER, JOHN MESTER. CQGra
-* "Galaxy power spectrum in redshift space: Combining perturbation
-    theory with the halo model," Okumura et al., with ZVONIMIR VLAH.
-    PhRvD
-* "Beginning inflation in an inhomogeneous universe," WILLIAM EAST
-    et al., with LEONARDO SENATORE.
-* "The Dark Energy Camera," Flaugher et al., with KEVIN REIL, AARON
-    ROODMAN, RAFE SCHINDLER. AJ
-* "The Corona of the Broad-line Radio Galaxy 3C 390.3," Lohfink et
-    al., with GREG MADEJSKI. ApJ
-* "Combined Modeling of Acceleration, Transport, and Hydrodynamic
-    Response in Solar Flares. II. Inclusion of Radiative Transfer with
-    RADYN," FATIMA RUBIO DA COSTA et al., with VAHE PETROSIAN.
-    ApJ
-* "The IceCube Neutrino Observatory, the Pierre Auger Observatory and
-    the Telescope Array: Joint Contribution to the 34th International
-    Cosmic Ray Conference (ICRC 2015)," IceCube Collaboration, with
-    JI-HOON KIM.
-* "Effects of Large-scale Non-axisymmetric Perturbations in the
-    Mean-field Solar Dynamo.," Pipin, SASHA KOSOVICHEV.
-    ApJ
-* "de Sitter supergravity model building," RENATA KALLOSH et al.
-    PhRvD
-* "On the redshift distribution and physical properties of
-    ACT-selected DSFGs," Su et al., with MARCO VIERO.
-* "Direct Imaging of an Asymmetric Debris Disk in the HD 106906
-    Planetary System," Kalas et al., with BRUCE MACINTOSH, KATE
-    FOLLETTE, JEAN-BAPTISTE RUFFIO. ApJ
-* "Direct Search for Dark Matter with DarkSide," Agnes et al., with
-    MARIA ELENA MONZANI. JPhCS
-* "Eight Ultra-faint Galaxy Candidates Discovered in Year Two of the
-    Dark Energy Survey," Drlica-Wagner et al., with ELI RYKOFF,
-    YAO-YUAN MAO, RISA WECHSLER, DAVID BURKE, KEVIN REIL, AARON ROODMAN.
-    ApJ
-* "The CMS Beam Halo Monitor Detector System," KELLY STIFTER et al.
-* "Measurement of colour flow with the jet pull angle in t t bar
-    events using the ATLAS detector at √{ s} = 8 TeV," Aad et al., with
-    STEVE KAHN. PhLB
-* "Comparative Analysis of Brookhaven National Laboratory Nuclear
-    Decay Data and Super-Kamiokande Neutrino Data: Indication of a Solar
-    Connection," PETER STURROCK et al.
-* "On TeV Gamma Rays and the Search for Galactic Neutrinos," MATTHEW
-    KISTLER.
-* "Dynamical analysis of galaxy cluster merger Abell 2146," White et
-    al., with REBECCA CANNING. MNRAS
-* "Active Galactic Nuclei: The TeV Challenge," ROGER BLANDFORD et
-    al., with WILLIAM EAST, KRZYSZTOF NALEWAJKO, JONATHAN ZRAKE.
-* "RCS2 J232727.6-020437: An Efficient Cosmic Telescope at
-    z=0.6986," Hoag et al., with ANJA VON DER LINDEN. ApJ
-* "Gamma Rays, Electrons, Hard X-Rays, and the Central Parsec of the
-    Milky Way," MATTHEW KISTLER.
-* "Small-scale anisotropies of cosmic rays from relative diffusion,"
-    PHILIPP MERTSCH et al.
-* "High-resolution Chandra HETG Spectroscopy of V404 Cygni in
-    Outburst," ASHLEY KING et al., with WARREN MORNINGSTAR.
-    ApJ
-* "Acceleration of Thermal Protons by Generic Phenomenological
-    Mechanisms," VAHE PETROSIAN et al. ApJ
-* "Linear response to long wavelength fluctuations using curvature
-    simulations," Baldauf et al., with LEONARDO SENATORE.
-* "Accreting protoplanets in the LkCa 15 transition disk," Sallum et
-    al., with KATE FOLLETTE, BRUCE MACINTOSH. Natur
-* "Fermi-LAT Observations of 2014 May-July outburst from 3C 454.3,"
-    Britto et al., with EUGENIO BOTTACINI.
-* "An extremely bright gamma-ray pulsar in the Large Magellanic
-    Cloud," Fermi LAT Collaboration, with ANDREA ALBERT, EUGENIO
-    BOTTACINI, ROB CAMERON, JIM CHIANG, SETH DIGEL, GARY GODFREY, PETER
-    MICHELSON, MARIA ELENA MONZANI, IGOR MOSKALENKO, ELENA ORLANDO, TROY
-    PORTER, ROGER ROMANI, JANA THAYER, GIACOMO VIANELLO. Sci
-* "Evanescent Effects can Alter Ultraviolet Divergences in Quantum
-    Gravity without Physical Consequences," Bern et al., with LANCE
-    DIXON. PhRvL
-* "The Tully-Fisher and mass-size relations from halo abundance
-    matching," HARRY DESMOND, RISA WECHSLER. MNRAS
-* "Multiwavelength Evidence for Quasi-periodic Modulation in the
-    Gamma-Ray Blazar PG 1553+113," Ackermann et al., with ANDREA
-    ALBERT, ROGER BLANDFORD, ELLIOTT BLOOM, EUGENIO BOTTACINI, ROB
-    CAMERON, JIM CHIANG, WARREN FOCKE, GARY GODFREY, TONY JOHNSON, PETER
-    MICHELSON, MARIA ELENA MONZANI, IGOR MOSKALENKO, NICOLA OMODEI,
-    ELENA ORLANDO, VAHE PETROSIAN, TROY PORTER, JANA THAYER, GIACOMO
-    VIANELLO. ApJ
-* "A Tale of Two Pulsars and the Origin of TeV Gamma Rays from the
-    Galactic Center," MATTHEW KISTLER.
-* "Astrometric Confirmation and Preliminary Orbital Parameters of the
-    Young Exoplanet 51 Eridani b with the Gemini Planet Imager," De
-    Rosa et al., with VANESSA BAILEY, KATE FOLLETTE, BRUCE MACINTOSH,
-    JEAN-BAPTISTE RUFFIO. ApJ
-* "First combined search for neutrino point-sources in the Southern
-    Hemisphere with the ANTARES and IceCube neutrino telescopes,"
-    ANTARES Collaboration, with ANDREA ALBERT.
-* "The three-fold theoretical basis of the Gravity Probe B gyro
-    precession calculation," RON ADLER. CQGra
-* "Gravity Probe B cryogenic payload," Everitt et al., with JOHN
-    MESTER. CQGra
-* "Emergent space-time and the supersymmetric index," Benjamin et
-    al., with SHAMIT KACHRU.
-* "Constraints on the richness-mass relation and the optical-SZE
-    positional offset distribution for SZE-selected clusters," Saro et
-    al., with ELI RYKOFF, DAVID BURKE, AARON ROODMAN, ANJA VON DER
-    LINDEN, RISA WECHSLER. MNRAS
-* "String theory realizations of the nilpotent goldstino," RENATA
-    KALLOSH et al. JHEP
-* "Discovery of two gravitationally lensed quasars in the Dark Energy
-    Survey," Agnello et al., with PHIL MARSHALL, DAVID BURKE, KEVIN
-    REIL, AARON ROODMAN, RISA WECHSLER. MNRAS
-* "Inflation in string theory confronts data," EVA SILVERSTEIN.
-    CRPhy
-* "An extremal {N}=2 superconformal field theory," Benjamin et al.,
-    with SHAMIT KACHRU. JPhA
-* "Gamma-Rays from the Quasar PKS 1441+25: Story of an Escape,"
-    Abeysekara et al., with GREG MADEJSKI. ApJ
-* "Major mergers going Notts: challenges for modern halo finders,"
-    Behroozi et al., with YAO-YUAN MAO. MNRAS
-* "A brief history of the multiverse," ANDREI LINDE.
-* "Inflation in string theory confronts data/Les mod\`eles
-    d'inflation en th\'eorie des cordes face aux observations," EVA
-    SILVERSTEIN.
-* "BICEP2 III: Instrumental Systematics," BICEP2 Collaboration, with
-    KENT IRWIN, SARAH KERNASOVSKIY, CHAO-LIN KUO, WALTER OGBURN, JAMIE
-    TOLAN, KI WON YOON. ApJ
-* "Progress in Geant4 Electromagnetic Physics Modelling and
-    Validation," Apostolakis et al., with MAKOTO ASAI. JPhCS
-* "On the implications of recent observations of the inner knot in
-    the Crab nebula," YAJIE YUAN, ROGER BLANDFORD. MNRAS
-* "Status Report of the DPHEP Collaboration: A Global Effort for
-    Sustainable Data Preservation in High Energy Physics," DPHEP
-    Collaboration, with CONCETTA CARTARO.
-* "Ultrafast Time-Resolved Photoelectric Emission," Juffmann et al.,
-    with MARK KASEVICH. PhRvL
-* "The Difference Imaging Pipeline for the Transient Search in the
-    Dark Energy Survey," Kessler et al., with KEVIN REIL, AARON
-    ROODMAN. AJ
-* "Accounting for baryonic effects in cosmic shear tomography:
-    determining a minimal set of nuisance parameters using PCA," Eifler
-    et al., with ELISABETH KRAUSE. MNRAS
-* "Helioseismology with Solar Orbiter," Löptien et al., with PHIL
-    SCHERRER. SSRv
-* "Superdiffusive transport in laboratory and astrophysical
-    plasmas," Zimbardo et al., with FREDERIC EFFENBERGER. JPlPh
-* "Long-Baseline Neutrino Facility (LBNF) and Deep Underground
-    Neutrino Experiment (DUNE) Conceptual Design Report Volume 2: The
-    Physics Program for DUNE at LBNF," DUNE Collaboration, with LEON
-    ROCHESTER, TRACY USHER.
-* "Tritium calibration of the LUX dark matter experiment," LUX
-    Collaboration, with DAN AKERIB, TOMASZ BIESIADZINSKI, ROSEMARY
-    BRAMANTE, CHRISTINA IGNARRA, KIMBERLY JACKSON PALLADINO, TOM SHUTT,
-    THOMAS WHITIS.
-* "Extreme Imaging: Revealing the structure of debris disks on solar
-    systems scales with GPI," Kalas et al., with BRUCE MACINTOSH.
-* "Mirror symmetry and the half-filled Landau level," SHAMIT KACHRU
-    et al. PhRvB
-* "DES J0454-4448: discovery of the first luminous z ≥ 6 quasar from
-    the Dark Energy Survey," Reed et al., with AARON ROODMAN, ELI
-    RYKOFF, RISA WECHSLER. MNRAS
-* "Resolving the HD 106906 Disk with the Gemini Planet Imager,"
-    Rajan et al., with BRUCE MACINTOSH.
-* "Searching for Dark Matter Annihilation from Milky Way Dwarf
-    Spheroidal Galaxies with Six Years of Fermi Large Area Telescope
-    Data," Ackermann et al., with ANDREA ALBERT, ROGER BLANDFORD,
-    ELLIOTT BLOOM, EUGENIO BOTTACINI, ROB CAMERON, JIM CHIANG, SETH
-    DIGEL, WARREN FOCKE, THOMAS GLANZMAN, GARY GODFREY, PETER MICHELSON,
-    MARIA ELENA MONZANI, ELENA ORLANDO, TROY PORTER, JANA THAYER,
-    GIACOMO VIANELLO. PhRvL
-* "Measurement of the branching ratio Γ (Λb⁰ → ψ (2 S)Λ⁰) / Γ (Λb⁰ →
-    J / ψΛ⁰) with the ATLAS detector," Aad et al., with STEVE KAHN.
-    PhLB
-* "Quantum superposition at the half-metre scale," Kovachy et al.,
-    with MARK KASEVICH. Natur
-* "Escher in the Sky," RENATA KALLOSH, ANDREI LINDE.
-    CRPhy
-* "The properties of cosmic velocity fields," Hahn et al., with TOM
-    ABEL. MNRAS
-* "An Accreting Protoplanet: Confirmation and Characterization of
-    LkCa15b," Follette et al., with BRUCE MACINTOSH, VANESSA BAILEY.
-* "The Gemini Planet Imager Exoplanet Survey (GPIES) Campaign Initial
-    Results," Patience et al., with BRUCE MACINTOSH.
-* "Collins asymmetries in inclusive charged K K and K π pairs
-    produced in e+e- annihilation," Lees et al., with CONCETTA CARTARO,
-    WALTER INNES, AARON ROODMAN, RAFE SCHINDLER, PATRICIA BURCHAT.
-    PhRvD
-* "Very High Energy γ-Rays from the Universe's Middle Age: Detection
-    of the z = 0.940 Blazar PKS 1441+25 with MAGIC," Ahnen et al., with
-    ROGER BLANDFORD, ROB CAMERON, JIM CHIANG, MARIA ELENA MONZANI, IGOR
-    MOSKALENKO, NICOLA OMODEI, ELENA ORLANDO, TROY PORTER, JANA THAYER.
-    ApJ
-* "1 to 2.4 microns spectrum and orbital properties of the Giant
-    Planet Beta Pictoris b obtained with the Gemini Planet Imager,"
-    Pueyo et al., with BRUCE MACINTOSH.
-* "Astrometric Confirmation and Preliminary Orbital Parameters of the
-    Young Exoplanet 51 Eridani b with the Gemini Planet Imager,"
-    Nielsen et al., with BRUCE MACINTOSH.
-* "The Grism Lens-Amplified Survey from Space (Glass). V. Extent and
-    Spatial Distribution of Star Formation in Z ̃ 0.5 Cluster Galaxies,"
-    Vulcani et al., with ANJA VON DER LINDEN. ApJ
-* "First Scattered-light Image of the Debris Disk around HD 131835
-    with the Gemini Planet Imager," Hung et al., with BRUCE MACINTOSH.
-    ApJ
-* "On the EFT of Large Scale Structures in Redshift Space," MATTHEW
-    LEWANDOWSKI et al., with LEONARDO SENATORE.
-* "Optical gating and streaking of free-electrons with attosecond
-    precision," Kozak et al., with ROBERT BYER.
-* "Inflatino-less Cosmology," Carrasco, RENATA KALLOSH, ANDREI
-    LINDE.
-* "One-arm spiral instability in hypermassive neutron stars formed by
-    dynamical-capture binary neutron star mergers," Paschalidis et al.,
-    with WILLIAM EAST. PhRvD
-* "Boost Breaking in the EFT of Inflation," Delacretaz et al., with
-    LEONARDO SENATORE.
-* "On the Distribution of Particle Acceleration Sites in
-    Plasmoid-dominated Relativistic Magnetic Reconnection," KRZYSZTOF
-    NALEWAJKO et al. ApJ
-* "Magellan Adaptive Optics First-light Observations of the Exoplanet
-    β Pic b. II. 3-5 μm Direct Imaging with MagAO+Clio, and the
-    Empirical Bolometric Luminosity of a Self-luminous Giant Planet,"
-    Morzinski et al., with VANESSA BAILEY, KATE FOLLETTE.
-    ApJ
-* "A Brief Introduction to Modern Amplitude Methods," LANCE DIXON.
-    jtpf
-* "Journeys Through the Precision Frontier: Amplitudes for Colliders
-    (TASI 2014)," LANCE DIXON et al. jtpf
-* "Reconstruction of Solar Subsurfaces by Local Helioseismology,"
-    SASHA KOSOVICHEV et al. LNP
-* "A Degenerate Optical Parametric Oscillator Network for Coherent
-    Computation," Wang et al., with ROBERT BYER. LNP
-* "Detailed spectral and morphological analysis of the shell type SNR
-    RCW 86," H. E. S. S. Collaboration, with HIROKAZU ODAKA.
-* "SPACE WARPS- II. New gravitational lens candidates from the CFHTLS
-    discovered through citizen science," More et al., with PHIL
-    MARSHALL, CHRIS DAVIS. MNRAS
-* "Imaging the oblique propagation of electrons in germanium crystals
-    at low temperature and low electric field," Moffatt et al., with
-    BLAS CABRERA, PAUL BRINK. ApPhL
-* "Spitzer UltRa Faint SUrvey Program (SURFS UP). II. IRAC-detected
-    Lyman-Break Galaxies at 6 ≲ z ≲ 10 behind Strong-lensing Clusters,"
-    Huang et al., with ANJA VON DER LINDEN. ApJ
-* "2FHL: The Second Catalog of Hard Fermi-LAT Sources," Ackermann et
-    al., with ROGER BLANDFORD, ELLIOTT BLOOM, EUGENIO BOTTACINI, ROB
-    CAMERON, JIM CHIANG, MATTIA DI MAURO, WARREN FOCKE, THOMAS GLANZMAN,
-    GARY GODFREY, TONY JOHNSON, GREG MADEJSKI, PETER MICHELSON, MARIA
-    ELENA MONZANI, IGOR MOSKALENKO, NICOLA OMODEI, ELENA ORLANDO, VAHE
-    PETROSIAN, TROY PORTER, ROGER ROMANI, JANA THAYER, GIACOMO VIANELLO.
-    ApJS
-* "A possible relation between leptogenesis and PMNS phases," Covi
-    et al., with JI-HOON KIM.
-* "Dark Matter Velocity Spectroscopy," Speckhard et al., with RANJAN
-    LAHA. PhRvL
-* "Simulations of 3D Magnetic Merging: Resistive Scalings for Null
-    Point and QSL Reconnection," FREDERIC EFFENBERGER et al.
-    SoPh
-* "A new ATLAS muon CSC readout system with system on chip technology
-    on ATCA platform," Bartoldus et al., with JAMES RUSSELL.
-    JInst
-* "Observation of B ̄ →D(*) π+π-ℓ-ν ̄ Decays in e+e- Collisions at the
-    Υ (4 S ) Resonance," Lees et al., with CONCETTA CARTARO, WALTER
-    INNES, AARON ROODMAN, RAFE SCHINDLER, PATRICIA BURCHAT. PhRvL
-* "Constraints on dark matter annihilation to fermions and a
-    photon," Chowdhury et al., with RANJAN LAHA.
-* "Deep Chandra observation and numerical studies of the nearest
-    cluster cold front in the sky," NORBERT WERNER et al., with IRINA
-    ZHURAVLEVA, STEVE ALLEN. MNRAS
-* "Young and Millisecond Pulsar GeV Gamma-ray Fluxes from the
-    Galactic Center and Beyond," O'Leary et al., with MATTHEW KISTLER.
-* "Evidence of Halo Assembly Bias in Massive Clusters," Miyatake et
-    al., with ELI RYKOFF. PhRvL
-* "Collisional excitation of C II, O I and CO in massive
-    galaxies," REBECCA CANNING et al., with NORBERT WERNER.
-    MNRAS
-* "Planck intermediate results. XLII. Large-scale Galactic magnetic
-    fields," Planck Collaboration, with ELENA ORLANDO.
-* "Weak lensing by galaxy troughs in DES Science Verification data,"
-    Gruen et al., with ELISABETH KRAUSE, ELI RYKOFF, MATTHEW BECKER,
-    DAVID BURKE, KEVIN REIL, AARON ROODMAN, RISA WECHSLER.
-    MNRAS
-* "Relativistic simulations of eccentric binary neutron star mergers:
-    One-arm spiral instability and effects of neutron star spin,"
-    WILLIAM EAST et al. PhRvD
-* "Probing star formation in the dense environments of z ̃ 1 lensing
-    haloes aligned with dusty star-forming galaxies detected with the
-    South Pole Telescope," Welikala et al., with YASHAR HEZAVEH.
-    MNRAS
-* "Repetitive patterns in rapid optical variations in the nearby
-    black-hole binary V404 Cygni," Kimura et al., with STUART MARSHALL.
-    Natur
-* "A cryogenic rotation stage with a large clear aperture for the
-    half-wave plates in the Spider instrument," Bryan et al., with KENT
-    IRWIN. RScI
-* "Angular momentum fluxes caused by Lambda-effect and meridional
-    circulation structure of the Sun," Pipin, SASHA KOSOVICHEV.
-* "SPACE WARPS - I. Crowdsourcing the discovery of gravitational
-    lenses," PHIL MARSHALL et al., with CHRIS DAVIS, MICHAEL BAUMER.
-    MNRAS
-* "Science yield estimate with the Wide-Field Infrared Survey
-    Telescope coronagraph," Traub et al., with BRUCE MACINTOSH.
-    JATIS
-* "Simplex-in-cell technique for collisionless plasma simulations,"
-    Kates-Harbeck, SAM TOTORICA, JONATHAN ZRAKE, TOM ABEL.
-    JCoPh
-* "CosmoLike - Cosmological Likelihood Analyses for Photometric
-    Galaxy Surveys," ELISABETH KRAUSE et al.
-* "Measurement of the I =1 /2 K π S -wave amplitude from Dalitz plot
-    analyses of ηc→K K ̄π in two-photon interactions," Lees et al., with
-    CONCETTA CARTARO, WALTER INNES, AARON ROODMAN, PATRICIA BURCHAT.
-    PhRvD
-* "Galaxies in X-Ray Selected Clusters and Groups in Dark Energy
-    Survey Data. I. Stellar Mass Growth of Bright Central Galaxies since
-    z~1.2," Zhang et al., with DAVID BURKE, AARON ROODMAN, ELI RYKOFF.
-    ApJ
-* "Improved Constraints on Cosmology and Foregrounds from BICEP2 and
-    Keck Array Cosmic Microwave Background Data with Inclusion of 95 GHz
-    Band," BICEP2 Collaboration, with ZEESHAN AHMED, JAMES GRAYSON,
-    KENT IRWIN, ETHAN KARPEL, SARAH KERNASOVSKIY, CHAO-LIN KUO, WALTER
-    OGBURN, KEITH THOMPSON, JAMIE TOLAN, KIMMY WU, KI WON YOON.
-    PhRvL
-* "Long-Baseline Neutrino Facility (LBNF) and Deep Underground
-    Neutrino Experiment (DUNE) Conceptual Design Report Volume 1: The
-    LBNF and DUNE Projects," Acciarri et al., with LEON ROCHESTER,
-    TRACY USHER.
-* "Quantum state magnification," Hosten et al., with RAJIV
-    KRISHNAKUMAR, MARK KASEVICH.
-* "First Search for Lorentz and CPT Violation in Double Beta Decay
-    with EXO-200," EXO-200 Collaboration, with GIORGIO GRATTA, JAMES
-    RUSSELL.
-* "Sound of Dark Matter: Searching for Light Scalars with
-    Resonant-Mass Detectors," Arvanitaki et al., with SAVAS DIMOPOULOS.
-    PhRvL
-* "Measurement noise 100 times lower than the quantum-projection
-    limit using entangled atoms," Hosten et al., with RAJIV
-    KRISHNAKUMAR, MARK KASEVICH. Natur
-* "rf breakdown tests of mm-wave metallic accelerating structures,"
-    Dal Forno et al., with SAMI TANTAWI. PhRvS
-* "Serendipitous Discovery of an Extended X-Ray Jet without a Radio
-    Counterpart in a High-redshift Quasar," Simionescu et al., with
-    NORBERT WERNER. ApJ
-* "Long-Baseline Neutrino Facility (LBNF) and Deep Underground
-    Neutrino Experiment (DUNE) Conceptual Design Report, Volume 4 The
-    DUNE Detectors at LBNF," Acciarri et al., with LEON ROCHESTER,
-    TRACY USHER.
-* "Erratic Flaring of BL Lac in 2012-2013: Multiwavelength
-    Observations," Wehrle et al., with GREG MADEJSKI. ApJ
-* "From linear to nonlinear supersymmetry via functional
-    integration," RENATA KALLOSH et al. PhRvD
-* "On the Nature of X-Ray Surface Brightness Fluctuations in M87,"
-    Arévalo et al., with IRINA ZHURAVLEVA. ApJ
-* "Astrophysical Implications of the Binary Black-hole Merger
-    GW150914," Abbott et al., with ROBERT BYER. ApJ
-* "The GAMMA-400 gamma-ray telescope for precision gamma-ray emission
-    investigations," Topchiev et al., with IGOR MOSKALENKO.
-    JPhCS
-* "NuSTAR Observations of the Young, Energetic Radio Pulsar PSR
-    B1509-58," Chen et al., with HONGJUN AN. ApJ
-* "First low frequency all-sky search for continuous gravitational
-    wave signals," Aasi et al., with ROBERT BYER. PhRvD
-* "Chaos in classical D0-brane mechanics," Gur-Ari et al., with
-    STEPHEN SHENKER. JHEP
-* "Delensing cosmic microwave background B modes with the Square
-    Kilometre Array Radio Continuum Survey," TOSHIYA NAMIKAWA et al.
-    PhRvD
-* "Connecting CO Intensity Mapping to Molecular Gas and Star
-    Formation in the Epoch of Galaxy Assembly," TONY LI, RISA WECHSLER,
-    KIRUTHIKA DEVARAJ, SARAH CHURCH. ApJ
-* "Deep view of the Large Magellanic Cloud with six years of
-    Fermi-LAT observations," Ackermann et al., with ANDREA ALBERT,
-    ELLIOTT BLOOM, ROB CAMERON, JIM CHIANG, SETH DIGEL, WARREN FOCKE,
-    GARY GODFREY, PETER MICHELSON, MARIA ELENA MONZANI, ELENA ORLANDO,
-    TROY PORTER, ROGER ROMANI, JANA THAYER, GIACOMO VIANELLO.
-    A&A
-* "Conceptual design of a sapphire loaded coupler for superconducting
-    radio-frequency 1.3 GHz cavities," Xu, SAMI TANTAWI. PhRvS
-* "Observation of Two New L4 Neptune Trojans in the Dark Energy
-    Survey Supernova Fields," Gerdes et al., with DAVID BURKE, AARON
-    ROODMAN. AJ
-* "DES14X3taz: A Type I Superluminous Supernova Showing a Luminous,
-    Rapidly Cooling Initial Pre-peak Bump," Smith et al., with DANIEL
-    GRUEN, KEVIN REIL, AARON ROODMAN, ELI RYKOFF. ApJ
-* "Cosmology with orthogonal nilpotent superfields," Ferrara et al.,
-    with RENATA KALLOSH. PhRvD
-* "The Rate of Binary Black Hole Mergers Inferred from Advanced LIGO
-    Observations Surrounding GW150914," The LIGO Scientific
-    Collaboration, with ROBERT BYER.
-* "Search of the Orion spur for continuous gravitational waves using
-    a loosely coherent algorithm on data from LIGO interferometers,"
-    Aasi et al., with ROBERT BYER. PhRvD
-* "All-sky search for long-duration gravitational wave transients
-    with initial LIGO," Abbott et al., with ROBERT BYER.
-    PhRvD
-* "Construction of the de Sitter supergravity," Bergshoeff et al.,
-    with RENATA KALLOSH.
-* "Star-forming Brightest Cluster Galaxies at 0.25 〉 z 〉 1.25: A
-    Transitioning Fuel Supply," McDonald et al., with STEVE ALLEN.
-    ApJ
-* "The impact of intrinsic alignment on current and future cosmic
-    shear surveys," ELISABETH KRAUSE et al. MNRAS
-* "X-Ray Spectral Model of Reprocess by Smooth and Clumpy Molecular
-    Tori in Active Galactic Nuclei with the Framework MONACO," Furui et
-    al., with HIROKAZU ODAKA. ApJ
-* "Two Small Temperate Planets Transiting Nearby M Dwarfs in K2
-    Campaigns 0 and 1," Schlieder et al., with VANESSA BAILEY.
-    ApJ
-* "The 31 Deg² Release of the Stripe 82 X-Ray Survey: The Point
-    Source Catalog," LaMassa et al., with MARCO VIERO.
-    ApJ
-* "New Results from the Search for Low-Mass Weakly Interacting
-    Massive Particles with the CDMS Low Ionization Threshold
-    Experiment," Agnese et al., with TSUGIO ARAMAKI, MAKOTO ASAI,
-    ANDERS BORGLAND, PAUL BRINK, BLAS CABRERA, GARY GODFREY, RICHARD
-    PARTRIDGE, KRISTI SCHNECK. PhRvL
-* "The PDS 66 Circumstellar Disk as Seen in Polarized Light with the
-    Gemini Planet Imager," Wolff et al., with BRUCE MACINTOSH.
-    ApJ
-* "Search for mixing-induced C P violation using partial
-    reconstruction of B̄\ 0→D*+X ℓ-ν̄\ ℓ and kaon tagging," Lees et al.,
-    with CONCETTA CARTARO, WALTER INNES, AARON ROODMAN, RAFE SCHINDLER,
-    PATRICIA BURCHAT. PhRvD
-* "The LEECH Exoplanet Imaging Survey: Orbit and Component Masses of
-    the Intermediate-age, Late-type Binary NO UMa," Schlieder et al.,
-    with VANESSA BAILEY. ApJ
-* "Mapping the Gas Turbulence in the Coma Cluster: Predictions for
-    Astro-H," ZuHone et al., with IRINA ZHURAVLEVA. ApJ
-* "Discovery of a Stellar Overdensity in Eridanus-Phoenix in the Dark
-    Energy Survey," Li et al., with DAVID BURKE, KEVIN REIL, AARON
-    ROODMAN. ApJ
-* "Inhomogeneous Anisotropic Cosmology," Kleban, LEONARDO SENATORE.
-* "Perspectives of the GAMMA-400 space observatory for high-energy
-    gamma rays and cosmic rays measurements," Topchiev et al., with
-    IGOR MOSKALENKO. JPhCS
-* "Freely Decaying Turbulence in Force-free Electrodynamics,"
-    JONATHAN ZRAKE, WILLIAM EAST. ApJ
-* "Observation of Gravitational Waves from a Binary Black Hole
-    Merger," Abbott et al., with ROBERT BYER. PhRvL
-* "Quantum walk on spin network," Amaral et al., with KENT IRWIN.
-* "CHANG-ES - VI. Probing Supernova energy deposition in spiral
-    galaxies through multiwavelength relationships," Li et al., with
-    ELENA ORLANDO. MNRAS
-* "Galaxy clustering, photometric redshifts and diagnosis of
-    systematics in the DES Science Verification data," Crocce et al.,
-    with ELI RYKOFF, DAVID BURKE, RISA WECHSLER. MNRAS
-* "Time-dependent analysis of B⁰→KS⁰π-π+γ decays and studies of the
-    K+π-π+ system in B+→K+π-π+γ decays," Del Amo Sanchez et al., with
-    CONCETTA CARTARO, WALTER INNES, AARON ROODMAN, RAFE SCHINDLER,
-    PATRICIA BURCHAT. PhRvD
-* "The veto system of the DarkSide-50 experiment," Agnes et al.,
-    with MARIA ELENA MONZANI. JInst
-* "Nonthermal Electron Energization from Magnetic Reconnection in
-    Laser-Driven Plasmas," SAM TOTORICA et al., with TOM ABEL.
-    PhRvL
-* "Isotropic at the Break? 3D Kinematics of Milky Way Halo Stars in
-    the Foreground of M31," Cunningham et al., with ALIS DEASON.
-    ApJ
-* "Search for 2 ν β β decay of ¹³⁶Xe to the 0₁+ excited state of
-    ¹³⁶Ba with the EXO-200 liquid xenon detector," Albert et al., with
-    GIORGIO GRATTA, JAMES RUSSELL. PhRvC
-* "Cosmology and astrophysics from relaxed galaxy clusters - III.
-    Thermodynamic profiles and scaling relations," ADAM MANTZ et al.,
-    with STEVE ALLEN, GLENN MORRIS. MNRAS
-* "Optofluidic Temperature and Pressure Measurements with Fiber Bragg
-    Gratings Embedded in Microfluidic Devices," Cooksey, ZEESHAN AHMED.
-* "Disentangling redshift-space distortions and non-linear bias using
-    the 2D power spectrum," Jennings et al., with RISA WECHSLER, SAM
-    SKILLMAN. MNRAS
-* "Fermi-LAT Observations of High-Energy Gamma-Ray Emission toward
-    the Galactic Center," Ajello et al., with ANDREA ALBERT, ROGER
-    BLANDFORD, ELLIOTT BLOOM, EUGENIO BOTTACINI, ROB CAMERON, JIM
-    CHIANG, THOMAS GLANZMAN, GARY GODFREY, TONY JOHNSON, PETER
-    MICHELSON, MARIA ELENA MONZANI, IGOR MOSKALENKO, NICOLA OMODEI,
-    ELENA ORLANDO, TROY PORTER, JANA THAYER, GIACOMO VIANELLO.
-    ApJ
-* "Results from DROXO. IV. EXTraS discovery of an X-ray flare from
-    the Class I protostar candidate ISO-Oph 85," Pizzocaro et al., with
-    GIACOMO VIANELLO. A&A
-* "Fast Large Scale Structure Perturbation Theory using 1D FFTs,"
-    Schmittfull et al., with ZVONIMIR VLAH.
-* "ASCR/HEP Exascale Requirements Review Report," Habib et al., with
-    ANDERS BORGLAND.
-* "Contemporaneous Broadband Observations of Three High-redshift BL
-    LAC Objects," Ackermann et al., with HONGJUN AN, ROGER BLANDFORD,
-    ROB CAMERON, MATTIA DI MAURO, PETER MICHELSON, MARIA ELENA MONZANI,
-    IGOR MOSKALENKO, ELENA ORLANDO, TROY PORTER, ROGER ROMANI, JANA
-    THAYER, GIACOMO VIANELLO. ApJ
-* "Anisotropies of Gravitational-Wave Standard Sirens as a New
-    Cosmological Probe without Redshift Information," TOSHIYA NAMIKAWA
-    et al. PhRvL
-* "Cosmology with the Square Kilometre Array by SKA-Japan," Yamauchi
-    et al., with TOSHIYA NAMIKAWA.
-* "A very deep Chandra view of metals, sloshing and feedback in the
-    Centaurus cluster of galaxies," Sanders et al., with REBECCA
-    CANNING. MNRAS
-* "Deep Morphological and Spectral Study of the SNR RCW 86 with
-    Fermi-LAT," Ajello et al., with ELLIOTT BLOOM, EUGENIO BOTTACINI,
-    ROB CAMERON, MATTIA DI MAURO, WARREN FOCKE, THOMAS GLANZMAN, PETER
-    MICHELSON, MARIA ELENA MONZANI, IGOR MOSKALENKO, ELENA ORLANDO, TROY
-    PORTER, JANA THAYER, GIACOMO VIANELLO. ApJ
-* "Fourier band-power E/B-mode estimators for cosmic shear," MATTHEW
-    BECKER et al. MNRAS
-* "Next Generation High Brightness Electron Beams From Ultra-High
-    Field Cryogenic Radiofrequency Photocathode Sources," Rosenzweig et
-    al., with SAMI TANTAWI.
-* "Cosmological Constraints from Galaxy Clusters in the 2500
-    square-degree SPT-SZ Survey," de Haan et al., with STEVE ALLEN,
-    ANJA VON DER LINDEN, ADAM MANTZ, KYLE STORY.
-* "3D String Theory and Umbral Moonshine," SHAMIT KACHRU et al.
-* "No galaxy left behind: accurate measurements with the faintest
-    objects in the Dark Energy Survey," Suchyta et al., with ELI
-    RYKOFF, DAVID BURKE, AARON ROODMAN, RISA WECHSLER.
-    MNRAS
-* "Perturbation theory, effective field theory, and oscillations in
-    the power spectrum," ZVONIMIR VLAH et al. JCAP
-* "Search for Gamma-Ray Emission from the Coma Cluster with Six Years
-    of Fermi-LAT Data," Ackermann et al., with ANDREA ALBERT, ROGER
-    BLANDFORD, ELLIOTT BLOOM, EUGENIO BOTTACINI, ROB CAMERON, SETH
-    DIGEL, GARY GODFREY, GREG MADEJSKI, PETER MICHELSON, MARIA ELENA
-    MONZANI, IGOR MOSKALENKO, ELENA ORLANDO, VAHE PETROSIAN, TROY
-    PORTER, JANA THAYER, GIACOMO VIANELLO. ApJ
-* "The Phoenix Stream: A Cold Stream in the Southern Hemisphere,"
-    Balbinot et al., with DAVID BURKE. ApJ
-* "Measurement of angular asymmetries in the decays B →K*ℓ+ℓ-," Lees
-    et al., with CONCETTA CARTARO, WALTER INNES, AARON ROODMAN, RAFE
-    SCHINDLER, PATRICIA BURCHAT. PhRvD
-* "High power tests of an electroforming cavity operating at 11.424
-    GHz," Dolgashev et al., with SAMI TANTAWI. JInst
-* "Towards Photonics Enabled Quantum Metrology of Temperature,
-    Pressure and Vacuum," ZEESHAN AHMED et al.
-* "Galaxy-Galaxy Lensing in the DES Science Verification Data,"
-    Clampitt et al., with ELISABETH KRAUSE, ELI RYKOFF, RISA WECHSLER,
-    DANIEL GRUEN, MATTHEW BECKER, DAVID BURKE.
-* "Weak Lensing Measurement of the Mass--Richness Relation of SDSS
-    redMaPPer Clusters," Simet et al., with ELI RYKOFF, RISA WECHSLER.
-* "Six New Millisecond Pulsars from Arecibo Searches of Fermi
-    Gamma-Ray Sources," Cromartie et al., with PETER MICHELSON.
-    ApJ
-* "Sparse Modeling for Astronomical Data Analysis," Ikeda et al.,
-    with HIROKAZU ODAKA. JPhCS
-* "NuSTAR and XMM-Newton Observations of the Hard X-Ray Spectrum of
-    Centaurus A," Fürst et al., with GREG MADEJSKI. ApJ
-* "CMB lensing tomography with the DES Science Verification
-    galaxies," Giannantonio et al., with ELISABETH KRAUSE, DAVID BURKE,
-    AARON ROODMAN, ELI RYKOFF, RISA WECHSLER. MNRAS
-* "Measuring a Truncated Disk in Aquila X-1," ASHLEY KING et al.
-    ApJ
-* "Fiber Bragg Grating Based Thermometry," ZEESHAN AHMED et al.
-* "Orthogonal Nilpotent Superfields from Linear Models," RENATA
-    KALLOSH et al.
-* "Multiwavelength Study of Quiescent States of Mrk 421 with
-    Unprecedented Hard X-Ray Coverage Provided by NuSTAR in 2013,"
-    Baloković et al., with GREG MADEJSKI, JIM CHIANG, ROGER BLANDFORD.
-    ApJ
-* "Minimal supergravity inflation," Carrasco, RENATA KALLOSH, ANDREI
-    LINDE. PhRvD
-* "Cosmic Visions Dark Energy: Technology," Dodelson et al., with
-    AARON ROODMAN.
-* "The Extreme Gravitationally Redshifted Fe-line constraining the
-    Rotation of the Super-Massive Black Hole in Mrk 876," EUGENIO
-    BOTTACINI.
-* "Point Source Polarimetry with the Gemini Planet Imager:
-    Sensitivity Characterization with T5.5 Dwarf Companion HD 19467 B,"
-    Jensen-Clem et al., with BRUCE MACINTOSH. ApJ
-* "Measurement of the high-energy gamma-ray emission from the Moon
-    with the Fermi Large Area Telescope," Ackermann et al., with ANDREA
-    ALBERT, ROGER BLANDFORD, EUGENIO BOTTACINI, ROB CAMERON, JIM CHIANG,
-    SETH DIGEL, WARREN FOCKE, THOMAS GLANZMAN, GARY GODFREY, PETER
-    MICHELSON, MARIA ELENA MONZANI, NICOLA OMODEI, ELENA ORLANDO, VAHE
-    PETROSIAN, JANA THAYER, GIACOMO VIANELLO. PhRvD
-* "The Faber-Jackson relation and Fundamental Plane from halo
-    abundance matching," HARRY DESMOND, RISA WECHSLER.
-* "Observational Investigation of Energy Release in the Lower Solar
-    Atmosphere of a Solar Flare," Sharykin et al., with SASHA
-    KOSOVICHEV.
-* "Cosmogenic backgrounds to 0νββ in EXO-200," Albert et al., with
-    GIORGIO GRATTA, JAMES RUSSELL. JCAP
-* "Search for Gamma-ray Emission from Dark Matter Annihilation in the
-    Small Magellanic Cloud with the Fermi Large Area Telescope," Caputo
-    et al., with ERIC CHARLES, MATTHEW WOOD.
-* "Search for Screened Interactions Associated with Dark Energy Below
-    the 100 $\mathrm{\mu m}$ Length Scale," Rider et al., with GIORGIO
-    GRATTA.
-* "Black Hole Mergers and the QCD Axion at Advanced LIGO,"
-    Arvanitaki et al., with SAVAS DIMOPOULOS.
-* "Linear versus non-linear supersymmetry, in general," Ferrara et
-    al., with RENATA KALLOSH. JHEP
-* "Cosmology from large scale galaxy clustering and galaxy-galaxy
-    lensing with Dark Energy Survey Science Verification data," Kwan et
-    al., with MATTHEW BECKER, JOE DEROSE, DANIEL GRUEN, ELISABETH
-    KRAUSE, ELI RYKOFF, RISA WECHSLER, KEVIN REIL, AARON ROODMAN.
-* "Spin-powered Pulsars in the CTA Era," ROGER ROMANI.
-* "Cosmology and astrophysics from relaxed galaxy clusters - IV.
-    Robustly calibrating hydrostatic masses with weak lensing,"
-    Applegate et al., with ADAM MANTZ, STEVE ALLEN, GLENN MORRIS, DAVID
-    BURKE. MNRAS
-* "GW150914: Implications for the Stochastic Gravitational-Wave
-    Background from Binary Black Holes," Abbott et al., with ROBERT
-    BYER. PhRvL
-* "Dark matter direct detection with accelerometers," PETER GRAHAM
-    et al. PhRvD
-* "Detection of enhancement in number densities of background
-    galaxies due to magnification by massive galaxy clusters," Chiu et
-    al., with ANJA VON DER LINDEN. MNRAS
-* "Results on the Spin-Dependent Scattering of Weakly Interacting
-    Massive Particles on Nucleons from the Run 3 Data of the LUX
-    Experiment," DAN AKERIB et al., with TOMASZ BIESIADZINSKI, ROSEMARY
-    BRAMANTE, CHRISTINA IGNARRA, KIMBERLY JACKSON PALLADINO, TOM SHUTT,
-    THOMAS WHITIS. PhRvL
-* "The Eating Habits of Milky Way-mass Halos: Destroyed Dwarf
-    Satellites and the Metallicity Distribution of Accreted Stars,"
-    ALIS DEASON, YAO-YUAN MAO, RISA WECHSLER. ApJ
-* "First search for Lorentz and C P T violation in double beta decay
-    with EXO-200," Albert et al., with GIORGIO GRATTA, JAMES RUSSELL.
-    PhRvD
-* "Solar Energetic Particle transport along meandering interplanetary
-    magnetic field lines," Laitinen et al., with FREDERIC EFFENBERGER.
-* "CLASH: Joint Analysis of Strong-lensing, Weak-lensing Shear, and
-    Magnification Data for 20 Galaxy Clusters," Umetsu et al., with
-    DANIEL GRUEN. ApJ
-* "Elements of a dielectric laser accelerator," McNeur et al., with
-    ROBERT BYER.
-* "Galaxy Populations in Massive Galaxy Clusters to z=1.1: Color
-    Distribution, Concentration, Halo Occupation Number and Red Sequence
-    Fraction," Hennig et al., with DANIEL GRUEN, ELI RYKOFF.
-* "Star formation rates in luminous quasars at 2 〈 z 〈 3," Harris
-    et al., with MARCO VIERO. MNRAS
-* "NuSTAR observations of water megamaser AGN," Masini et al., with
-    GREG MADEJSKI. A&A
-* "Studying the nucleus of comet 9P/Tempel 1 using the structure of
-    the Deep Impact ejecta cloud at the early stages of its
-    development," Kolokolova et al., with ASHLEY KING.
-* "X-ray Polarization Probes of SNR and PWN," ROGER ROMANI.
-* "Improved Limits on Scattering of Weakly Interacting Massive
-    Particles from Reanalysis of 2013 LUX Data," DAN AKERIB et al.,
-    with TOMASZ BIESIADZINSKI, ROSEMARY BRAMANTE, CHRISTINA IGNARRA,
-    KIMBERLY JACKSON PALLADINO, TOM SHUTT, THOMAS WHITIS.
-    PhRvL
-* "Accretion driven outflows across the black hole mass scale,"
-    ASHLEY KING.
-* "Tritium calibration of the LUX dark matter experiment," DAN
-    AKERIB et al., with TOMASZ BIESIADZINSKI, ROSEMARY BRAMANTE,
-    CHRISTINA IGNARRA, KIMBERLY JACKSON PALLADINO, TOM SHUTT, THOMAS
-    WHITIS. PhRvD
-* "The 3D Space and Spin Velocities of a Gamma-ray Pulsar," ROGER
-    ROMANI.
-* "Galactic synchrotron radiation from radio to microwaves, and its
-    relation to cosmic-ray propagation models: past, present and
-    future," ELENA ORLANDO.
-* "Search for Spectral Irregularities due to
-    Photon-Axionlike-Particle Oscillations with the Fermi Large Area
-    Telescope," Ajello et al., with ANDREA ALBERT, ROGER BLANDFORD,
-    ELLIOTT BLOOM, EUGENIO BOTTACINI, ROB CAMERON, MATTIA DI MAURO,
-    WARREN FOCKE, THOMAS GLANZMAN, GARY GODFREY, GREG MADEJSKI, PETER
-    MICHELSON, MARIA ELENA MONZANI, IGOR MOSKALENKO, ELENA ORLANDO, TROY
-    PORTER, JANA THAYER. PhRvL
-* "Resolving the Extragalactic γ -Ray Background above 50 GeV with
-    the Fermi Large Area Telescope," Ackermann et al., with ANDREA
-    ALBERT, ROGER BLANDFORD, ELLIOTT BLOOM, ROB CAMERON, JIM CHIANG,
-    SETH DIGEL, MATTIA DI MAURO, GARY GODFREY, GREG MADEJSKI, PETER
-    MICHELSON, MARIA ELENA MONZANI, IGOR MOSKALENKO, NICOLA OMODEI,
-    ELENA ORLANDO, VAHE PETROSIAN, TROY PORTER, ROGER ROMANI, JANA
-    THAYER, GIACOMO VIANELLO. PhRvL
-* "Complexity, action, and black holes," Brown et al., with LEONARD
-    SUSSKIND. PhRvD
-* "Energy and flux measurements of ultra-high energy cosmic rays
-    observed during the first ANITA flight," Schoorlemmer et al., with
-    KEVIN REIL. APh
-* "The EFT of Large Scale Structures at all redshifts: analytical
-    predictions for lensing," SIMON FOREMAN, LEONARDO SENATORE.
-    JCAP
-* "Coupling the inflationary sector to matter," RENATA KALLOSH et
-    al., with ANDREI LINDE. JHEP
-* "GW150914: The Advanced LIGO Detectors in the Era of First
-    Discoveries," Abbott et al., with ROBERT BYER. PhRvL
-* "Kinetic study of radiation-reaction-limited particle acceleration
-    during the relaxation of unstable force-free equilibria," YAJIE
-    YUAN et al., with KRZYSZTOF NALEWAJKO, WILLIAM EAST.
-* "Results from the first use of low radioactivity argon in a dark
-    matter search," Agnes et al., with MARIA ELENA MONZANI.
-    PhRvD
-* "Deeply X-raying the Local Universe," EUGENIO BOTTACINI.
-* "Millimeter Transient Point Sources in the SPTpol 100 Square Degree
-    Survey," Whitehorn et al., with KENT IRWIN, KYLE STORY.
-* "The Sensitivity of the Advanced LIGO Detectors at the Beginning of
-    Gravitational Wave Astronomy," The LIGO Scientific Collaboration,
-    with ROBERT BYER, JI-HOON KIM.
-* "A Gibbs sampler for multivariate linear regression," ADAM MANTZ.
-    MNRAS
-* "Host Galaxy Identification for Supernova Surveys," Gupta et al.,
-    with DANIEL GRUEN.
-* "Non-linear Fields in Generalized Cosmologies," Fasiello, ZVONIMIR
-    VLAH.
-* "SPOKES: An end-to-end simulation facility for spectroscopic
-    cosmological surveys," Nord et al., with RISA WECHSLER.
-    A&C
-* "Cosmic Visions Dark Energy: Science," Dodelson et al., with AARON
-    ROODMAN.
-* "Cosmic rays and their modulation in the heliosphere by studying
-    gamma rays from the Sun with Fermi-LAT: updated models," ELENA
-    ORLANDO et al., with IGOR MOSKALENKO.
-* "Development of the Model of Galactic Interstellar Emission for
-    Standard Point-source Analysis of Fermi Large Area Telescope Data,"
-    Acero et al., with ANDREA ALBERT, ELLIOTT BLOOM, EUGENIO BOTTACINI,
-    ROB CAMERON, JIM CHIANG, SETH DIGEL, WARREN FOCKE, THOMAS GLANZMAN,
-    GARY GODFREY, PETER MICHELSON, MARIA ELENA MONZANI, NICOLA OMODEI,
-    ELENA ORLANDO, JANA THAYER, GIACOMO VIANELLO. ApJS
-* "Copenhagen vs Everett, Teleportation, and ER=EPR," LEONARD
-    SUSSKIND.
-* "Evidence for the kinematic Sunyaev-Zel'dovich effect with the
-    Atacama Cosmology Telescope and velocity reconstruction from the
-    Baryon Oscillation Spectroscopic Survey," Schaan et al., with KENT
-    IRWIN, DALE LI. PhRvD
-* "Vector dark matter from inflationary fluctuations," PETER GRAHAM
-    et al. PhRvD
-* "The Atacama Cosmology Telescope: The polarization-sensitive ACTPol
-    instrument," Thornton et al., with KENT IRWIN, DALE LI.
-* "Extreme asymmetry in the polarized disk of V1247 Orionis*," Ohta
-    et al., with KATE FOLLETTE. PASJ
-* "An M-dwarf star in the transition disk of Herbig HD 142527.
-    Physical parameters and orbital elements," Lacour et al., with
-    BRUCE MACINTOSH. A&A
-* "Multi-threaded Geant4 on the Xeon-Phi with Complex High-Energy
-    Physics Geometry," Farrell et al., with MAKOTO ASAI.
-* "Constraining higher-order parameters for primordial
-    non-Gaussianities from power spectra and bispectra of imaging
-    surveys," Hashimoto et al., with TOSHIYA NAMIKAWA.
-    PhRvD
-* "The DarkSide awakens," Davini et al., with MARIA ELENA MONZANI.
-    JPhCS
-* "Holographic Complexity Equals Bulk Action?," Brown et al., with
-    LEONARD SUSSKIND. PhRvL
-* "Massless and Massive Higher Spins from Anti-de Sitter Space
-    Waveguide," Gwak et al., with JI-HOON KIM.
-* "The Design of a Drag-Free CubeSat and the Housing for its
-    Gravitational Reference Sensor," Zanoni et al., with ROBERT BYER.
-* "A Comparison and Joint Analysis of Sunyaev-Zel'dovich Effect
-    Measurements from Planck and Bolocam for a set of 47 Massive Galaxy
-    Clusters," Sayers et al., with ADAM MANTZ.
-* "The Redshift Distribution of Dusty Star-forming Galaxies from the
-    SPT Survey," Strandet et al., with YASHAR HEZAVEH.
-    ApJ
-* "Fast large scale structure perturbation theory using
-    one-dimensional fast Fourier transforms," Schmittfull et al., with
-    ZVONIMIR VLAH. PhRvD
-* "Extending Geant4 Parallelism with External Libraries (MPI, TBB)
-    and Its Use on HPC Resources," Dotti et al., with MAKOTO ASAI.
-* "Fermi-LAT Observations of the LIGO Event GW150914," Ackermann et
-    al., with ANDREA ALBERT, ROGER BLANDFORD, ELLIOTT BLOOM, EUGENIO
-    BOTTACINI, ROB CAMERON, JIM CHIANG, SETH DIGEL, MATTIA DI MAURO,
-    RICHARD DUBOIS, THOMAS GLANZMAN, GARY GODFREY, GREG MADEJSKI, PETER
-    MICHELSON, MARIA ELENA MONZANI, IGOR MOSKALENKO, NICOLA OMODEI,
-    ELENA ORLANDO, TROY PORTER, LEON ROCHESTER, ROGER ROMANI, JANA
-    THAYER, GIACOMO VIANELLO. ApJ
-* "Cosmic rays from multi-wavelength observations of the Galactic
-    diffuse emission," ELENA ORLANDO. JPhCS
-* "Amplitudes of MHD Waves in Sunspots," Norton et al., with PHIL
-    SCHERRER.
-* "Single-shot simulations of dynamic quantum many-body systems,"
-    Sakmann, MARK KASEVICH. NatPh
-* "Fermi LAT Stacking Analysis of Swift Localized GRBs," Ackermann
-    et al., with EUGENIO BOTTACINI, ROB CAMERON, JIM CHIANG, WARREN
-    FOCKE, GARY GODFREY, PETER MICHELSON, MARIA ELENA MONZANI, NICOLA
-    OMODEI, ELENA ORLANDO, TROY PORTER, JANA THAYER, GIACOMO VIANELLO.
-    ApJ
-* "A First Targeted Search for Gravitational-Wave Bursts from
-    Core-Collapse Supernovae in Data of First-Generation Laser
-    Interferometer Detectors," Abbott et al., with ROBERT BYER.
-* "Is the gamma-ray source 3FGL J2212.5+0703 a dark matter
-    subhalo?," BRIDGET BERTONI et al. JCAP
-* "Time Delay Cosmography," Treu, PHIL MARSHALL.
-* "Elementary introduction to Moonshine," SHAMIT KACHRU.
-* "Direct Detection: Liquid Nobles," DAN AKERIB. JPhCS
-* "Deeply X-raying the high-energy sky," EUGENIO BOTTACINI et al.
-    JPhCS
-* "Constraints on the Architecture of the HD 95086 Planetary System
-    with the Gemini Planet Imager," Rameau et al., with BRUCE
-    MACINTOSH, VANESSA BAILEY. ApJ
-* "The connection between the host halo and the satellite galaxies of
-    the Milky Way," Lu et al., with YAO-YUAN MAO, RISA WECHSLER.
-* "On HMI's Mod-L Sequence: Test and Evaluation," Liu et al., with
-    PHIL SCHERRER.
-* "Chromatographic separation of radioactive noble gases from
-    xenon," LUX Collaboration, with DAN AKERIB, TOMASZ BIESIADZINSKI,
-    ROSEMARY BRAMANTE, CHRISTINA IGNARRA, KIMBERLY JACKSON PALLADINO,
-    TOM SHUTT, THOMAS WHITIS.
-* "Maps of the Magellanic Clouds from Combined South Pole Telescope
-    and Planck Data," Crawford et al., with KYLE STORY.
-* "The Processing of Observables Made by the HMI Instrument on SDO,"
-    Hoeksema et al., with PHIL SCHERRER.
-* "Crab Flares due to Turbulent Dissipation of the Pulsar Striped
-    Wind," JONATHAN ZRAKE. ApJ
-* "Measuring subhalo mass in redMaPPer clusters with CFHT Stripe 82
-    Survey," Li et al., with ELI RYKOFF. MNRAS
-* "FPGA-based trigger system for the LUX dark matter experiment,"
-    Akerib et al., with CHRISTINA IGNARRA, KIMBERLY JACKSON PALLADINO.
-    NIMPA
-* "Bringing* "The Moth" to Light: A Planet-Sculpting Scenario for the
-    HD 61005 Debris Disk," Esposito et al., with BRUCE MACINTOSH.
-* "The nature and energetics of AGN-driven perturbations in the hot
-    gas in the Perseus Cluster," IRINA ZHURAVLEVA et al., with STEVE
-    ALLEN, NORBERT WERNER. MNRAS
-* "Hard X-ray morphology of the X1.3 April 25, 2014 partially
-    occulted limb solar flare," FREDERIC EFFENBERGER, FATIMA RUBIO DA
-    COSTA, VAHE PETROSIAN.
-* "2-D and 3-D Models of Convective Turbulence and Oscillations in
-    Intermediate-Mass Main-Sequence Stars," Guzik et al., with SASHA
-    KOSOVICHEV.
-* "Cosmic Voids and Void Lensing in the Dark Energy Survey Science
-    Verification Data," Sánchez et al., with DANIEL GRUEN, JOE DEROSE,
-    ELI RYKOFF, RISA WECHSLER, ELISABETH KRAUSE, KEVIN REIL.
-* "Digging deeper into the Southern skies: a compact Milky Way
-    companion discovered in first-year Dark Energy Survey data," Luque
-    et al., with DAVID BURKE, AARON ROODMAN. MNRAS
-* "Matter-coupled de Sitter supergravity," RENATA KALLOSH.
-    TMP
-* "The Solar Solution: Tracking the Sun with Low Energy Neutrinos,"
-    NICOLE HARTMAN et al.
-* "Magellan AO System z′, Y S , and L′ Observations of the Very Wide
-    650 AU HD 106906 Planetary System," Wu et al., with VANESSA BAILEY,
-    KATE FOLLETTE. ApJ
-* "Evidence for the thermal Sunyaev-Zel'dovich effect associated with
-    quasar feedback," Crichton et al., with MARCO VIERO.
-    MNRAS
-* "Testing the mapping between redshift and cosmic scale factor,"
-    RADOSLAW WOJTAK et al. MNRAS
-* "Orthogonal nilpotent superfields from linear models," RENATA
-    KALLOSH et al. JHEP
-* "Optical-SZE Scaling Relations for DES Optically Selected Clusters
-    within the SPT-SZ Survey," Saro et al., with ELI RYKOFF, DAVID
-    BURKE, DANIEL GRUEN, KEVIN REIL.
-* "Multi-PeV Signals from a New Astrophysical Neutrino Flux Beyond
-    the Glashow Resonance," MATTHEW KISTLER, RANJAN LAHA.
-* "Emergent space-time and the supersymmetric index," Benjamin et
-    al., with SHAMIT KACHRU. JHEP
-* "Precision comparison of the power spectrum in the EFTofLSS with
-    simulations," SIMON FOREMAN et al., with LEONARDO SENATORE.
-    JCAP
-* "An External Shock Origin of GRB 141028A," Burgess et al., with
-    NICOLA OMODEI. ApJ
-* "Massive neutrinos in nonlinear large scale structure: A consistent
-    perturbation theory," Levi, ZVONIMIR VLAH.
-* "The RedMaPPer Galaxy Cluster Catalog From DES Science Verification
-    Data," ELI RYKOFF et al., with RISA WECHSLER, DAVID BURKE, DANIEL
-    GRUEN, KEVIN REIL. ApJS
-* "Experimental measurements of rf breakdowns and deflecting
-    gradients in mm-wave metallic accelerating structures," Dal Forno
-    et al., with SAMI TANTAWI. PhRvS
-* "The DarkSide-50 outer detectors," Westerdale et al., with MARIA
-    ELENA MONZANI. JPhCS
-* "Understanding the formation of the Mg II h&k lines during solar
-    flares," FATIMA RUBIO DA COSTA et al., with VAHE PETROSIAN.
-* "HMI Measured Doppler Velocity Contamination from the SDO Orbit
-    Velocity," PHIL SCHERRER et al.
-* "Detection of Lensing Substructure Using ALMA Observations of the
-    Dusty Galaxy SDP.81," YASHAR HEZAVEH et al., with YAO-YUAN MAO,
-    WARREN MORNINGSTAR, ROGER BLANDFORD, PHIL MARSHALL, RISA WECHSLER.
-    ApJ
-* "The First Fermi LAT Supernova Remnant Catalog," Acero et al.,
-    with ROGER BLANDFORD, ELLIOTT BLOOM, EUGENIO BOTTACINI, ROB CAMERON,
-    JIM CHIANG, SETH DIGEL, THOMAS GLANZMAN, GARY GODFREY, TONY JOHNSON,
-    PETER MICHELSON, MARIA ELENA MONZANI, IGOR MOSKALENKO, NICOLA
-    OMODEI, ELENA ORLANDO, VAHE PETROSIAN, TROY PORTER, JANA THAYER,
-    GIACOMO VIANELLO. ApJS
-* "Candidate Gravitationally Lensed Dusty Star-forming Galaxies in
-    the Herschel Wide Area Surveys," Nayyeri et al., with MARCO VIERO.
-    ApJ
-* "Voids in cosmological simulations over cosmic time," RADOSLAW
-    WOJTAK, DEVON POWELL, TOM ABEL. MNRAS
-* "Assessment of Systematic Chromatic Errors that Impact Sub-1%
-    Photometric Precision in Large-area Sky Surveys," Li et al., with
-    DAVID BURKE, ELI RYKOFF, DANIEL GRUEN, AARON ROODMAN.
-    AJ
-* "Efficient exploration of cosmology dependence in the EFT of LSS,"
-    Cataneo, SIMON FOREMAN, LEONARDO SENATORE.
-* "Binary Black Hole Mergers in the first Advanced LIGO Observing
-    Run," The LIGO Scientific Collaboration, with ROBERT BYER.
-* "A 750 GeV QCD axion," SAVAS DIMOPOULOS et al.
-* "Mapping the spatial distribution of star formation in cluster
-    galaxies at z ~0.5 with the Grism Lens-Amplified Survey from Space
-    (GLASS)," Vulcani et al., with ANJA VON DER LINDEN.
-* "Directly comparing GW150914 with numerical solutions of Einstein's
-    equations for binary black hole coalescence," The LIGO Scientific
-    Collaboration, with ROBERT BYER.
-* "Observing gravitational-wave transient GW150914 with minimal
-    assumptions," Abbott et al., with ROBERT BYER. PhRvD
-* "Searching the Gamma-ray Sky for Counterparts to Gravitational Wave
-    Sources: Fermi GBM and LAT Observations of LVT151012 and GW151226,"
-    Racusin et al., with ANDREA ALBERT, ROGER BLANDFORD, ELLIOTT BLOOM,
-    ROB CAMERON, JIM CHIANG, SETH DIGEL, MATTIA DI MAURO, WARREN FOCKE,
-    THOMAS GLANZMAN, PETER MICHELSON, IGOR MOSKALENKO, NICOLA OMODEI,
-    ELENA ORLANDO, TROY PORTER, JANA THAYER, GIACOMO VIANELLO.
-* "High-Precision Forward Modeling of Large-Scale Structure: An
-    open-source approach with Halotools," Hearin et al., with YAO-YUAN
-    MAO.
-* "A Resonant Mode for Gravitational Wave Detectors based on Atom
-    Interferometry," PETER GRAHAM et al., with MARK KASEVICH.
-* "Weighing the Giants V: Galaxy Cluster Scaling Relations," Mantz
-    et al., with STEVE ALLEN, GLENN MORRIS, ANJA VON DER LINDEN.
-* "Extended VHE gamma-ray emission towards SGR1806-20, LBV1806-20,
-    and stellar cluster Cl*1806-20," Abdalla et al., with HIROKAZU
-    ODAKA.
-* "CMB lensing bispectrum from nonlinear growth of the large scale
-    structure," TOSHIYA NAMIKAWA. PhRvD
-* "An improved analysis of GW150914 using a fully spin-precessing
-    waveform model," The LIGO Scientific Collaboration, with ROBERT
-    BYER.
-* "String Theory Origin of Constrained Multiplets," RENATA KALLOSH
-    et al.
-* "The XXL Survey. I. Scientific motivations - XMM-Newton observing
-    plan - Follow-up observations and simulation programme," Pierre et
-    al., with ELI RYKOFF. A&A
-* "Chemical enrichment in the hot intra-cluster medium seen with
-    XMM-Newton/EPIC," Mernier et al., with NORBERT WERNER.
-* "The Electronics and Data Acquisition System for the DarkSide-50
-    Veto Detectors," Agnes et al., with MARIA ELENA MONZANI.
-* "CHEERS: The Chemical Enrichment RGS Sample," de Plaa et al., with
-    NORBERT WERNER.
-* "TASI lectures on cosmological observables and string theory," EVA
-    SILVERSTEIN.
-* "A Dark Energy Camera Search for an Optical Counterpart to the
-    First Advanced LIGO Gravitational Wave Event GW150914,"
-    Soares-Santos et al., with DAVID BURKE, DANIEL GRUEN, AARON ROODMAN,
-    ELI RYKOFF, RAFE SCHINDLER, RISA WECHSLER. ApJ
-* "GW150914: First results from the search for binary black hole
-    coalescence with Advanced LIGO," Abbott et al., with ROBERT BYER.
-    PhRvD
-* "Perturbative approach to covariance matrix of the matter power
-    spectrum," Mohammed et al., with ZVONIMIR VLAH.
-* "Mass-to-Light-Ratios of the galaxy clusters and groups observed
-    with Suzaku," Sasaki et al., with NORBERT WERNER.
-* "Discovery of a z=0.65 Post-Starburst BAL Quasar in the DES
-    Supernova Fields," Mudd et al., with DANIEL GRUEN.
-* "Tests of General Relativity with GW150914," Abbott et al., with
-    ROBERT BYER. PhRvL
-* "High-energy neutrino follow-up search of gravitational wave event
-    GW150914 with ANTARES and IceCube," Adrián-Martínez et al., with
-    ROBERT BYER. PhRvD
-* "Minute-timescale 〉100 MeV γ-Ray Variability during the Giant
-    Outburst of Quasar 3C 279 Observed by Fermi-LAT in 2015 June,"
-    Ackermann et al., with RICHARD ANANTUA, ROGER BLANDFORD, ELLIOTT
-    BLOOM, EUGENIO BOTTACINI, ROB CAMERON, JIM CHIANG, SETH DIGEL,
-    MATTIA DI MAURO, GREG MADEJSKI, PETER MICHELSON, MARIA ELENA
-    MONZANI, IGOR MOSKALENKO, ELENA ORLANDO, TROY PORTER, JANA THAYER.
-    ApJ
-* "Cross-correlation of gravitational lensing from DES Science
-    Verification data with SPT and Planck lensing," Kirk et al., with
-    MATTHEW BECKER, DAVID BURKE, DANIEL GRUEN, AARON ROODMAN, ELI
-    RYKOFF, RISA WECHSLER. MNRAS
-* "Spectroscopic Characterization of HD 95086 b with the Gemini
-    Planet Imager," De Rosa et al., with BRUCE MACINTOSH.
-    ApJ
-* "A Dark Energy Camera Search for Missing Supergiants in the LMC
-    after the Advanced LIGO Gravitational-wave Event GW150914," Annis
-    et al., with DAVID BURKE, DANIEL GRUEN, AARON ROODMAN, ELI RYKOFF,
-    RAFE SCHINDLER, RISA WECHSLER. ApJ
-* "The Spitzer-HETDEX Exploratory Large-area Survey," Papovich et
-    al., with MARCO VIERO, RISA WECHSLER. ApJS
-* "BICEP2 / Keck Array VIII: Measurement of gravitational lensing
-    from large-scale B-mode polarization," Keck Array et al., with
-    ZEESHAN AHMED, JAMES GRAYSON, KENT IRWIN, ETHAN KARPEL, SARAH
-    KERNASOVSKIY, CHAO-LIN KUO, TOSHIYA NAMIKAWA, WALTER OGBURN, KEITH
-    THOMPSON, JAMIE TOLAN, KIMMY WU, KI WON YOON.
-* "Suzaku observations of a shock front tracing the western edge of
-    the giant radio halo in the Coma Cluster," Uchida et al., with
-    NORBERT WERNER, STEVE ALLEN, ONDREJ URBAN. PASJ
-* "Strong CMB Constraint On P-Wave Annihilating Dark Matter,"
-    HONGJUN AN et al.
-* "Productive Interactions: heavy particles and non-Gaussianity,"
-    Flauger et al., with LEONARDO SENATORE, EVA SILVERSTEIN.
-* "Solar energetic particle access to distant longitudes through
-    turbulent field-line meandering," Laitinen et al., with FREDERIC
-    EFFENBERGER. A&A
-* "Search for light scalar dark matter with atomic gravitational wave
-    detectors," Arvanitaki et al., with PETER GRAHAM.
-* "The Evolution of Active Galactic Nuclei in Clusters of Galaxies
-    from the Dark Energy Survey," Bufanda et al., with ELI RYKOFF,
-    DANIEL GRUEN.
-* "Quantum phase magnification," Hosten et al., with RAJIV
-    KRISHNAKUMAR, MARK KASEVICH. Sci
-* "Compact symmetric objects and supermassive binary black holes in
-    the VLBA Imaging and Polarimetry Survey," Tremblay et al., with
-    ROGER ROMANI. MNRAS
-* "The distribution of dark and luminous matter in the unique galaxy
-    cluster merger Abell 2146," King et al., with REBECCA CANNING.
-    MNRAS
-* "Properties of the Binary Black Hole Merger GW150914," Abbott et
-    al., with ROBERT BYER. PhRvL
-* "Conceptual design of X band waveguide dual circular polarizer,"
-    Xu et al., with SAMI TANTAWI. PhRvS
-* "Nulling Data Reduction and On-sky Performance of the Large
-    Binocular Telescope Interferometer," Defrère et al., with VANESSA
-    BAILEY. ApJ
-* "Sensitivity projections for dark matter searches with the Fermi
-    large area telescope," Charles et al., with MATTIA DI MAURO, ANDREA
-    ALBERT, ELLIOTT BLOOM, SETH DIGEL. PhR
-* "H0LiCOW I. H0 Lenses in COSMOGRAIL's Wellspring: Program
-    Overview," Suyu et al., with PHIL MARSHALL, ROGER BLANDFORD.
-* "Modeling the distribution of dark matter and its connection to
-    galaxies," YAO-YUAN MAO. PhDT
-* "Search for transient gravitational waves in coincidence with
-    short-duration radio transients during 2007-2013," Abbott et al.,
-    with ROBERT BYER. PhRvD
-* "Supplement: The Rate of Binary Black Hole Mergers Inferred from
-    Advanced LIGO Observations Surrounding GW150914," The LIGO
-    Scientific Collaboration, with ROBERT BYER.
-* "GW151226: Observation of Gravitational Waves from a 22-Solar-Mass
-    Binary Black Hole Coalescence," Abbott et al., with ROBERT BYER.
-    PhRvL
-* "Compact rf polarizer and its application to pulse compression
-    systems," Franzi et al., with SAMI TANTAWI. PhRvS
-* "Bayesian Analysis of Cosmic Ray Propagation: Evidence against
-    Homogeneous Diffusion," Jóhannesson et al., with IGOR MOSKALENKO,
-    ELENA ORLANDO, TROY PORTER. ApJ
-* "Cosmological attractors and asymptotic freedom of the inflaton
-    field," RENATA KALLOSH, ANDREI LINDE. JCAP
-* "Measurement of the neutral D meson mixing parameters in a
-    time-dependent amplitude analysis of the D⁰→π+π-π⁰ decay," Lees et
-    al., with CONCETTA CARTARO, WALTER INNES, AARON ROODMAN, PATRICIA
-    BURCHAT. PhRvD
-* "Science Impacts of the SPHEREx All-Sky Optical to Near-Infrared
-    Spectral Survey: Report of a Community Workshop Examining
-    Extragalactic, Galactic, Stellar and Planetary Science," Doré et
-    al., with ELISABETH KRAUSE, MARCO VIERO.
-* "Sussing merger trees: stability and convergence," Wang et al.,
-    with YAO-YUAN MAO. MNRAS
-* "Readout of two-kilopixel transition-edge sensor arrays for
-    Advanced ACTPol," Henderson et al., with SAPTARSHI CHAUDHURI, KENT
-    IRWIN, DALE LI.
-* "A search for very high-energy flares from the microquasars GRS
-    1915+105, Circinus X-1, and V4641 Sgr using contemporaneous H.E.S.S.
-    and RXTE observations," H. E. S. S. Collaboration, with HIROKAZU
-    ODAKA.
-* "Quasiparticle Transport in Thick Aluminum Films Coupled to
-    Tungsten Transition Edge Sensors," Yen et al., with BLAS CABRERA,
-    PAUL BRINK. JLTP
-* "Development of a Microwave SQUID-Multiplexed TES Array for
-    MUSTANG-2," Stanchfield et al., with KENT IRWIN. JLTP
-* "Simultaneous Constraints on Cosmology and Photometric Redshift
-    Bias from Weak Lensing and Galaxy Clustering," Samuroff et al.,
-    with ELISABETH KRAUSE.
-* "The DarkSide Program," Rossi et al., with MARIA ELENA MONZANI.
-    EPJWC
-* "Revision of the LHCb Limit on Majorana Neutrinos," Shuve, MICHAEL
-    PESKIN.
-* "Galaxy bias from the Dark Energy Survey Science Verification data:
-    combining galaxy density maps and weak lensing maps," Chang et al.,
-    with MATTHEW BECKER, DAVID BURKE, DANIEL GRUEN, KEVIN REIL, AARON
-    ROODMAN, ELI RYKOFF. MNRAS
-* "Optical Demonstration of THz, Dual-Polarization Sensitive
-    Microwave Kinetic Inductance Detectors," Dober et al., with KENT
-    IRWIN. JLTP
-* "Local Helioseismology of Emerging Active Regions: A Case Study,"
-    SASHA KOSOVICHEV et al.
-* "BICEP3 focal plane design and detector performance," Hui et al.,
-    with ZEESHAN AHMED, JAMES GRAYSON, KENT IRWIN, ETHAN KARPEL, SARAH
-    KERNASOVSKIY, CHAO-LIN KUO, TOSHIYA NAMIKAWA, WALTER OGBURN, KEITH
-    THOMPSON, JAMIE TOLAN, KIMMY WU, KI WON YOON.
-* "Implications of the 750 GeV gamma-gamma Resonance as a Case Study
-    for the International Linear Collider," Fujii et al., with MICHAEL
-    PESKIN.
-* "VDES J2325-5229 a z=2.7 gravitationally lensed quasar discovered
-    using morphology independent supervised machine learning,"
-    Ostrovski et al., with DANIEL GRUEN, KEVIN REIL.
-* "Polarization Sensitive Multi-Chroic MKIDs," Johnson et al., with
-    KENT IRWIN, SARAH KERNASOVSKIY, DALE LI.
-* "Detection of the pairwise kinematic Sunyaev-Zel'dovich effect with
-    BOSS DR11 and the Atacama Cosmology Telescope," De Bernardis et
-    al., with KENT IRWIN.
-* "Ground Testing and Flight Demonstration of Charge Management of
-    Insulated Test Masses Using UV LED Electron Photoemission," Saraf
-    et al., with ROBERT BYER.
-* "Theory of electromagnetic insertion devices and the corresponding
-    synchrotron radiation," Shumail, SAMI TANTAWI. PhRvS
-* "Developments in Time-Division Multiplexing of X-ray
-    Transition-Edge Sensors," Doriese et al., with KENT IRWIN.
-    JLTP
-* "Looking through the same lens: shear calibration for LSST, Euclid
-    & WFIRST with stage 4 CMB lensing," Schaan et al., with ELISABETH
-    KRAUSE.
-* "Fermi Large Area Telescope Detection of Extended Gamma-Ray
-    Emission from the Radio Galaxy Fornax A," Ackermann et al., with
-    ROGER BLANDFORD, ELLIOTT BLOOM, ROB CAMERON, SETH DIGEL, MATTIA DI
-    MAURO, WARREN FOCKE, GARY GODFREY, PETER MICHELSON, MARIA ELENA
-    MONZANI, IGOR MOSKALENKO, ELENA ORLANDO, TROY PORTER, JANA THAYER,
-    GIACOMO VIANELLO. ApJ
-* "Cosmology from cosmic shear with Dark Energy Survey Science
-    Verification data," Abbott et al., with MATTHEW BECKER, DAVID
-    BURKE, ELISABETH KRAUSE, AARON ROODMAN, ELI RYKOFF, RISA WECHSLER.
-    PhRvD
-* "An optimal energy estimator to reduce correlated noise for the
-    EXO-200 light readout," Davis et al., with GIORGIO GRATTA, JAMES
-    RUSSELL. JInst
-* "The quiescent intracluster medium in the core of the Perseus
-    cluster," Hitomi Collaboration, with STEVE ALLEN, ROGER BLANDFORD,
-    ASHLEY KING, GREG MADEJSKI, NORBERT WERNER, IRINA ZHURAVLEVA.
-    Natur
-* "Localization and Broadband Follow-up of the Gravitational-wave
-    Transient GW150914," Abbott et al., with ROBERT BYER, ELLIOTT
-    BLOOM, SETH DIGEL. ApJ
-* "197 Candidates and 104 Validated Planets in K2's First Five
-    Fields," Crossfield et al., with VANESSA BAILEY.
-* "Cosmic shear measurements with Dark Energy Survey Science
-    Verification data," MATTHEW BECKER et al., with ELISABETH KRAUSE,
-    ELI RYKOFF, RISA WECHSLER, DAVID BURKE, KEVIN REIL, AARON ROODMAN.
-    PhRvD
-* "Crowdsourcing quality control for Dark Energy Survey images,"
-    Melchior et al., with ELI RYKOFF. A&C
-* "On inflation, cosmological constant, and SUSY breaking," ANDREI
-    LINDE.
-* "Supplement: “Localization and Broadband Follow-up of the
-    Gravitational-wave Transient GW150914” (2016, ApJL, 826, L13),"
-    Abbott et al., with ROBERT BYER, ELLIOTT BLOOM, SETH DIGEL.
-    ApJS
-* "IC at IC: IceCube can constrain the intrinsic charm of the
-    proton," RANJAN LAHA et al.
-* "Searching for high-energy gamma-ray counterparts to Gravitational
-    Wave sources with Fermi-LAT: a needle in a haystack," GIACOMO
-    VIANELLO, NICOLA OMODEI, JIM CHIANG.
-* "All orders results for self-crossing Wilson loops mimicking double
-    parton scattering," LANCE DIXON et al. JHEP
-* "H0LiCOW IV. Lens mass model of HE 0435-1223 and blind measurement
-    of its time-delay distance for cosmology," Wong et al., with PHIL
-    MARSHALL.
-* "Optical Characterization of the BICEP3 CMB Polarimeter at the
-    South Pole," Karkare et al., with ZEESHAN AHMED, JAMES GRAYSON,
-    KENT IRWIN, ETHAN KARPEL, SARAH KERNASOVSKIY, CHAO-LIN KUO, TOSHIYA
-    NAMIKAWA, WALTER OGBURN, KEITH THOMPSON, JAMIE TOLAN, KIMMY WU, KI
-    WON YOON.
-* "Mechanical design and development of TES bolometer detector arrays
-    for the Advanced ACTPol experiment," Ward et al., with DALE LI.
-* "The International Deep Planet Survey II: The frequency of directly
-    imaged giant exoplanets with stellar mass," Galicher et al., with
-    BRUCE MACINTOSH.
-* "A statistical investigation of the mass discrepancy-acceleration
-    relation," HARRY DESMOND.
-* "Search for a muonic dark force at BaBar," Lees et al., with
-    CONCETTA CARTARO, WALTER INNES, AARON ROODMAN, PATRICIA BURCHAT.
-    PhRvD
-* "Hitomi constraints on the 3.5 keV line in the Perseus galaxy
-    cluster," Hitomi Collaboration, with STEVE ALLEN, ROGER BLANDFORD,
-    ASHLEY KING, GREG MADEJSKI, HIROKAZU ODAKA, NORBERT WERNER, IRINA
-    ZHURAVLEVA.
-* "Response to* "Verifying quantum superpositions at metre scales","
-    Kovachy et al., with MARK KASEVICH.
-* "Tests of C P T symmetry in B⁰-B̄\ 0 mixing and in B⁰→c c ̄K⁰
-    decays," Lees et al., with CONCETTA CARTARO, WALTER INNES, AARON
-    ROODMAN, PATRICIA BURCHAT. PhRvD
-* "Spacetime Dynamics of a Higgs Vacuum Instability During
-    Inflation," WILLIAM EAST et al.
-* "The Primordial Inflation Polarization Explorer (PIPER)," Gandilo
-    et al., with KENT IRWIN.
-* "BICEP3 performance overview and planned Keck Array upgrade,"
-    JAMES GRAYSON et al., with ZEESHAN AHMED, KENT IRWIN, ETHAN KARPEL,
-    SARAH KERNASOVSKIY, CHAO-LIN KUO, TOSHIYA NAMIKAWA, WALTER OGBURN,
-    KEITH THOMPSON, JAMIE TOLAN, KIMMY WU, KI WON YOON.
-* "Characterization of transient noise in Advanced LIGO relevant to
-    gravitational wave signal GW150914," Abbott et al., with ROBERT
-    BYER. CQGra
-* "Exploring the Sensitivity of Next Generation Gravitational Wave
-    Detectors," Abbott et al., with ROBERT BYER.
-* "Binary Black Holes, Gas Sloshing, and Cold Fronts in the X-Ray
-    Halo Hosting 4C+37.11," Andrade-Santos et al., with ROGER ROMANI.
-    ApJ
-* "TARGET 5: a new multi-channel digitizer with triggering
-    capabilities for gamma-ray atmospheric Cherenkov telescopes,"
-    ANDREA ALBERT et al.
-* "H0LiCOW V. New COSMOGRAIL time delays of HE0435-1223: $H0$ to
-    3.8% precision from strong lensing in a flat $\Lambda$CDM model,"
-    Bonvin et al., with PHIL MARSHALL.
-* "H0LiCOW III. Quantifying the effect of mass along the line of
-    sight to the gravitational lens HE 0435-1223 through weighted galaxy
-    counts," Rusu et al., with PHIL MARSHALL.
-* "Off-Diagonal Deformations of Kerr Metrics and Black Ellipsoids in
-    Heterotic Supergravity," Vacaru, KENT IRWIN.
-* "Upper limits on the rates of binary neutron star and
-    neutron-star--black-hole mergers from Advanced LIGO's first
-    observing run," The LIGO Scientific Collaboration, with ROBERT
-    BYER.
-* "Detecting black-hole binary clustering via the second-generation
-    gravitational-wave detectors," TOSHIYA NAMIKAWA et al.
-    PhRvD
-* "Charged-particle distributions in √{ s} = 13 TeVpp interactions
-    measured with the ATLAS detector at the LHC," Aad et al., with
-    STEVE KAHN. PhLB
-* "Search for dark matter annihilations towards the inner Galactic
-    halo from 10 years of observations with H.E.S.S," H. E. S. S.
-    Collaboration, with HIROKAZU ODAKA.
-* "Detection of the Splashback Radius and Halo Assembly Bias of
-    Massive Galaxy Clusters," More et al., with ELI RYKOFF.
-    ApJ
-* "NuSTAR, Swift, and GROND Observations of the Flaring MeV Blazar
-    PMN J0641−0320," Ajello et al., with GREG MADEJSKI.
-    ApJ
-* "RHAPSODY-G simulations - II. Baryonic growth and metal enrichment
-    in massive galaxy clusters," Martizzi et al., with RISA WECHSLER.
-    MNRAS
-* "AlMn Transition Edge Sensors for Advanced ACTPol," DALE LI et al.
-    JLTP
-* "Search for continuous gravitational waves from neutron stars in
-    globular cluster NGC 6544," Abbott et al., with ROBERT BYER.
-* "Sneutrino Inflation with $\alpha$-attractors," RENATA KALLOSH et
-    al., with ANDREI LINDE.
-* "The Orbit and Transit Prospects for $\beta$ Pictoris b constrained
-    with One Milliarcsecond Astrometry," Wang et al., with
-    JEAN-BAPTISTE RUFFIO, VANESSA BAILEY, KATE FOLLETTE, BRUCE
-    MACINTOSH.
-* "H0LiCOW II. Spectroscopic survey and galaxy-group identification
-    of the strong gravitational lens system HE0435-1223," Sluse et al.,
-    with PHIL MARSHALL.
-* "Optical modeling and polarization calibration for CMB measurements
-    with ACTPol and Advanced ACTPol," Koopman et al., with KENT IRWIN,
-    DALE LI.
-* "Sensitivity of the Fe K-alpha Compton shoulder to the geometry and
-    variability of the X-ray illumination of cosmic objects," HIROKAZU
-    ODAKA et al.
-* "BICEP2/Keck Array. VII. Matrix Based E/B Separation Applied to
-    Bicep2 and the Keck Array," BICEP2 Collaboration, with ZEESHAN
-    AHMED, JAMES GRAYSON, KENT IRWIN, ETHAN KARPEL, CHAO-LIN KUO,
-    TOSHIYA NAMIKAWA, WALTER OGBURN, KEITH THOMPSON, JAMIE TOLAN, KIMMY
-    WU, KI WON YOON. ApJ
-* "On a New Approach for Constructing Wormholes in
-    Einstein-Born-Infeld Gravity," JI-HOON KIM et al.
-* "Quantum Complexity and Negative Curvature," Brown et al., with
-    LEONARD SUSSKIND.
-* "The evolution in the stellar mass of brightest cluster galaxies
-    over the past 10 billion years," Bellstedt et al., with NOAH
-    KURINSKY. MNRAS
-* "Updated baseline for a staged Compact Linear Collider," CLIC et
-    al., with SAMI TANTAWI.
-* "The DES Science Verification weak lensing shear catalogues,"
-    Jarvis et al., with MATTHEW BECKER, ELI RYKOFF, DAVID BURKE, KEVIN
-    REIL, AARON ROODMAN, RISA WECHSLER. MNRAS
-* "Tidal stripping as a test of satellite quenching in redMaPPer
-    clusters," Fang et al., with ELI RYKOFF. MNRAS
-* "Cosmology constraints from shear peak statistics in Dark Energy
-    Survey Science Verification data," Kacprzak et al., with MATTHEW
-    BECKER, ELISABETH KRAUSE, DAVID BURKE, AARON ROODMAN, ELI RYKOFF.
-    MNRAS
-* "Dark Sectors 2016 Workshop: Community Report," Alexander et al.,
-    with DAN AKERIB, HONGJUN AN, CONCETTA CARTARO, SAPTARSHI CHAUDHURI,
-    KENT IRWIN, NOAH KURINSKY, RANJAN LAHA, DALE LI, MARIA ELENA
-    MONZANI, MICHAEL PESKIN.
-* "Observables Processing for the Helioseismic and Magnetic Imager
-    Instrument on the Solar Dynamics Observatory," Couvidat et al.,
-    with PHIL SCHERRER. SoPh
-* "Testing statistics of the CMB B -mode polarization toward
-    unambiguously establishing quantum fluctuation of the vacuum,"
-    Shiraishi et al., with TOSHIYA NAMIKAWA. PhRvD
-* "Search for Neutrinos in Super-Kamiokande associated with
-    Gravitational Wave Events GW150914 and GW151226," Abe et al., with
-    JI-HOON KIM.
-* "SPIDERS: the spectroscopic follow-up of X-ray selected clusters of
-    galaxies in SDSS-IV," Clerc et al., with ELI RYKOFF.
-* "Discovery of a Substellar Companion to the Nearby Debris Disk Host
-    HR 2562," Konopacky et al., with VANESSA BAILEY, KATE FOLLETTE,
-    BRUCE MACINTOSH.
-* "Characteristics of Four Upward-Pointing Cosmic-Ray-like Events
-    Observed with ANITA," Gorham et al., with KEVIN REIL.
-    PhRvL
-* "Origin of central abundances in the hot intra-cluster medium - II.
-    Chemical enrichment and supernova yield models," Mernier et al.,
-    with NORBERT WERNER.
-* "Astrometric Monitoring of the HR 8799 Planets: Orbit Constraints
-    from Self-consistent Measurements," Konopacky et al., with BRUCE
-    MACINTOSH. AJ
-* "Universal bounds on charged states in 2d CFT and 3d gravity,"
-    Benjamin et al., with SHAMIT KACHRU. JHEP
-* "Comprehensive all-sky search for periodic gravitational waves in
-    the sixth science run LIGO data," Abbott et al., with ROBERT BYER.
-    PhRvD
-* "Supernova Physics at DUNE," Ankowski et al., with RANJAN LAHA.
-* "Performance of Backshort-Under-Grid Kilopixel TES Arrays for
-    HAWC+," Staguhn et al., with KENT IRWIN. JLTP
-* "The faint end of the 250 μm luminosity function at z 〈 0.5,"
-    Wang et al., with MARCO VIERO. A&A
-* "Data-driven Radiative Hydrodynamic Modeling of the 2014 March 29
-    X1.0 Solar Flare," FATIMA RUBIO DA COSTA et al., with VAHE
-    PETROSIAN. ApJ
-* "LiteBIRD: Mission Overview and Focal Plane Layout," Matsumura et
-    al., with KENT IRWIN, CHAO-LIN KUO. JLTP
-* "The Dark Energy Survey: more than dark energy - an overview,"
-    Dark Energy Survey Collaboration, with DAVID BURKE, DANIEL GRUEN,
-    AARON ROODMAN, ELI RYKOFF, RISA WECHSLER. MNRAS
-* "The Dark Energy Survey view of the Sagittarius stream: Discovery
-    of two faint stellar system candidates," Luque et al., with DAVID
-    BURKE, DANIEL GRUEN.
-* "Extreme asymmetry in the polarized disk of V1247 Orionis*," Ohta
-    et al., with KATE FOLLETTE. PASJ
-* "Search for charged Higgs bosons produced in association with a top
-    quark and decaying via H± → τν using pp collision data recorded at
-    √{ s} = 13 TeV by the ATLAS detector," Aaboud et al., with STEVE
-    KAHN. PhLB
-* "Calibrating the Planck Cluster Mass Scale with CLASH," Penna-Lima
-    et al., with ELI RYKOFF.
-* "The Peculiar Debris Disk of HD 111520 as Resolved by the Gemini
-    Planet Imager," Draper et al., with KATE FOLLETTE, BRUCE MACINTOSH.
-    ApJ
-* "Observation and Confirmation of Six Strong-lensing Systems in the
-    Dark Energy Survey Science Verification Data," Nord et al., with
-    MANDEEP S. S. GILL, ELI RYKOFF, DAVID BURKE. ApJ
-* "Inference from the small scales of cosmic shear with current and
-    future Dark Energy Survey data," MacCrann et al., with RISA
-    WECHSLER, DAVID BURKE, DANIEL GRUEN, ELISABETH KRAUSE, ELI RYKOFF.
-* "SDSS-IV eBOSS emission-line galaxy pilot survey," Comparat et
-    al., with KEVIN REIL, AARON ROODMAN, ELI RYKOFF. A&A
-* "The basic physics of the binary black hole merger GW150914," The
-    LIGO Scientific Collaboration, with ROBERT BYER.
-* "Radio Detection Prospects for a Bulge Population of Millisecond
-    Pulsars as Suggested by Fermi-LAT Observations of the Inner
-    Galaxy," Calore et al., with MATTIA DI MAURO. ApJ
-* "Discrete knot ejection from the jet in a nearby low-luminosity
-    active galactic nucleus, M81*," ASHLEY KING et al. NatPh
-* "Results from a search for dark matter in LUX with 332 live days of
-    exposure," DAN AKERIB et al., with TOMASZ BIESIADZINSKI, ROSEMARY
-    BRAMANTE, CHRISTINA IGNARRA, KIMBERLY JACKSON PALLADINO, TOM SHUTT,
-    THOMAS WHITIS.
-* "Instrumental performance and results from testing of the BLAST-TNG
-    receiver, submillimeter optics, and MKID arrays," Galitzki et al.,
-    with KENT IRWIN, DALE LI.
-* "Kinetic Simulations of the Lowest-order Unstable Mode of
-    Relativistic Magnetostatic Equilibria," KRZYSZTOF NALEWAJKO,
-    JONATHAN ZRAKE, YAJIE YUAN, WILLIAM EAST, ROGER BLANDFORD.
-    ApJ
-* "Origin of central abundances in the hot intra-cluster medium. I.
-    Individual and average abundance ratios from XMM-Newton EPIC,"
-    Mernier et al., with NORBERT WERNER. A&A
-* "ALMA Imaging and Gravitational Lens Models of South Pole
-    Telescope—Selected Dusty, Star-Forming Galaxies at High Redshifts,"
-    Spilker et al., with YASHAR HEZAVEH. ApJ
-* "Comparing Dark Energy Survey and HST-CLASH observations of the
-    galaxy cluster RXC J2248.7-4431: implications for stellar mass
-    versus dark matter," Palmese et al., with DANIEL GRUEN, ELI RYKOFF,
-    DAVID BURKE, AARON ROODMAN. MNRAS
-* "Testing the lognormality of the galaxy and weak lensing
-    convergence distributions from Dark Energy Survey maps," Clerkin et
-    al., with DAVID BURKE, AARON ROODMAN. MNRAS
-* "Superconducting Pathways Through Kilopixel Backshort-Under-Grid
-    Arrays," Jhabvala et al., with KENT IRWIN. JLTP
-* "Spectral analysis of four 'hypervariable' AGN: a micro-needle in
-    the haystack?," Bruce et al., with PHIL MARSHALL.
-* "Initial Performance of Bicep3: A Degree Angular Scale 95 GHz Band
-    Polarimeter," KIMMY WU et al., with ZEESHAN AHMED, JAMES GRAYSON,
-    KENT IRWIN, ETHAN KARPEL, SARAH KERNASOVSKIY, CHAO-LIN KUO, WALTER
-    OGBURN, KEITH THOMPSON, JAMIE TOLAN, KI WON YOON. JLTP
-* "Arithmetic with X-ray images of galaxy clusters: effective
-    equation of state for small-scale perturbations in the ICM,"
-    Churazov et al., with IRINA ZHURAVLEVA. MNRAS
-* "Galaxy cluster mass estimation from stacked spectroscopic
-    analysis," Farahi et al., with ELI RYKOFF, RISA WECHSLER.
-    MNRAS
-* "A NuSTAR Observation of the Reflection Spectrum of the Low-mass
-    X-Ray Binary 4U 1728-34," Sleator et al., with ASHLEY KING.
-    ApJ
-* "High fidelity point-spread function retrieval in the presence of
-    electrostatic, hysteretic pixel response," ANDREW RASMUSSEN et al.,
-    with KIRK GILMORE.
-* "Statistical Analysis of Acoustic Wave Parameters Near Solar Active
-    Regions," Rabello-Soares et al., with PHIL SCHERRER.
-    ApJ
-* "A DECam Search for an Optical Counterpart to the LIGO
-    Gravitational-wave Event GW151226," Cowperthwaite et al., with
-    MANDEEP S. S. GILL, DAVID BURKE, DANIEL GRUEN, ELISABETH KRAUSE,
-    KEVIN REIL. ApJ
-* "The SuperCDMS SNOLAB Detector Tower," TSUGIO ARAMAKI. JLTP
-* "Advanced ACTPol Cryogenic Detector Arrays and Readout," Henderson
-    et al., with KENT IRWIN. JLTP
-* "Low-energy (0.7-74 keV) nuclear recoil calibration of the LUX dark
-    matter experiment using D-D neutron scattering kinematics," LUX
-    Collaboration, with DAN AKERIB, TOMASZ BIESIADZINSKI, ROSEMARY
-    BRAMANTE, CHRISTINA IGNARRA, KIMBERLY JACKSON PALLADINO, TOM SHUTT,
-    THOMAS WHITIS.
-* "Bosonization and Mirror Symmetry," SHAMIT KACHRU et al.
-* "Deep Chandra study of the truncated cool core of the Ophiuchus
-    cluster," NORBERT WERNER et al., with IRINA ZHURAVLEVA, REBECCA
-    CANNING, STEVE ALLEN, GLENN MORRIS. MNRAS
+"redMaPPer - IV. Photometric membership identification of red cluster galaxies with 1 per cent precision," Rozo et al., with Eli Rykoff, Risa Wechsler. MNRAS.
+
+"Improved WIMP-search reach of the CDMS II germanium data," Agnese et al., with Makoto Asai, Anders Borgland, Paul Brink, Blas Cabrera, Gary Godfrey, Richard Partridge, Kristi Schneck. PhRvD.
+
+"Directional detection of dark matter in universal bound states," Ranjan Laha. PhRvD.
+
+"3C 273 with NuSTAR: Unveiling the Active Galactic Nucleus," Madsen et al., with Krzysztof Nalewajko, Greg Madejski. ApJ.
+
+"BICEP2/Keck Array V: Measurements of B-mode Polarization at Degree Angular Scales and 150 GHz by the Keck Array," Ade et al., with Zeeshan Ahmed, Kent Irwin, Sarah Kernasovskiy, Chao-Lin Kuo, Walter Ogburn, Keith Thompson, Jamie Tolan, Ki Won Yoon. ApJ.
+
+"Results from the first use of low radioactivity argon in a dark matter search," The DarkSide Collaboration, with Maria Elena Monzani. arXiv.
+
+"Search for the associated production of the Higgs boson with a top quark pair in multilepton final states with the ATLAS detector," Aad et al., with Steve Kahn. PhLB.
+
+"Evidence for the kinematic Sunyaev-Ze\v{l}dovich effect with ACTPol and velocity reconstruction from BOSS," Schaan et al., with Kent Irwin, Dale Li. arXiv.
+
+"Measuring Effective Equation of State of Diffuse Gas in Galaxy Clusters: From Chandra to X-ray Surveyor," Irina Zhuravleva et al., with Norbert Werner. xrvw.
+
+"Concerning the variability of beta-decay measurements," Peter Sturrock et al. arXiv.
+
+"Antenna-coupled TES Bolometers Used in BICEP2, Keck Array, and Spider," BICEP2 Collaboration, with Kent Irwin, Sarah Kernasovskiy, Chao-Lin Kuo, Walter Ogburn, Jamie Tolan, Ki Won Yoon. ApJ.
+
+"A Uniform Contribution of Core-collapse and Type Ia Supernovae to the Chemical Enrichment Pattern in the Outskirts of the Virgo Cluster," Simionescu et al., with Norbert Werner, Ondrej Urban, Steve Allen, Irina Zhuravleva. ApJ.
+
+"Supersymmetric dark matter in the harsh light of the Large Hadron Collider," Michael Peskin. PNAS.
+
+"Measurement of exclusive γγ →ℓ+ℓ- production in proton-proton collisions at √{ s} = 7 TeV with the ATLAS detector," Aad et al., with Steve Kahn. PhLB.
+
+"The one-loop matter bispectrum in the Effective Field Theory of Large Scale Structures," Angulo et al., with Simon Foreman, Leonardo Senatore. JCAP.
+
+"Search for Extended Gamma-Ray Emission from the Virgo Galaxy Cluster with FERMI-LAT," Ackermann et al., with Andrea Albert, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Seth Digel, Warren Focke, Thomas Glanzman, Gary Godfrey, Tony Johnson, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Elena Orlando, Vahe Petrosian, Troy Porter, Jana Thayer, Giacomo Vianello. ApJ.
+
+"The Massive and Distant Clusters of WISE Survey: MOO J1142+1527, a 1015 M☉ Galaxy Cluster at z = 1.19," Gonzalez et al., with Adam Mantz. ApJ.
+
+"Non-Gaussian structure of B-mode polarization after delensing," Toshiya Namikawa et al. JCAP.
+
+"Pure de Sitter supergravity," Bergshoeff et al., with Renata Kallosh. PhRvD.
+
+"Magnetic Field Generation in Stars," Ferrario et al., with Jonathan Zrake. SSRv.
+
+"The Grism Lens-Amplified Survey from Space (GLASS). I. Survey Overview and First Data Release," Treu et al., with Anja von der Linden. ApJ.
+
+"Experimental Searches for the Axion and Axion-Like Particles," Peter Graham et al. ARNPS.
+
+"Measurements of the ion fraction and mobility of α - and β -decay products in liquid xenon using the EXO-200 detector," Albert et al., with Giorgio Gratta, James Russell. PhRvC.
+
+"Measurements of the atmospheric neutrino flux by Super-Kamiokande: energy spectra, geomagnetic effects, and solar modulation," Richard et al., with Ji-Hoon Kim. arXiv.
+
+"Study of the e+e-→K+K- reaction in the energy range from 2.6 to 8.0 GeV," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+
+"Separation of electrons and protons in the GAMMA-400 gamma-ray telescope," Leonov et al., with Igor Moskalenko. AdSpR.
+
+"Sub-kiloparsec Imaging of Cool Molecular Gas in Two Strongly Lensed Dusty, Star-forming Galaxies," Spilker et al., with Yashar Hezaveh. ApJ.
+
+"First low frequency all-sky search for continuous gravitational wave signals," The LIGO Scientific Collaboration, with Robert Byer. arXiv.
+
+"High Energy Physics Forum for Computational Excellence: Working Group Reports (I. Applications Software II. Software Libraries and Tools III. Systems)," Habib et al., with Anders Borgland, Makoto Asai. arXiv.
+
+"Direct detection prospects of dark vectors with xenon-based dark matter experiments," Hongjun An et al. arXiv.
+
+"Radio for hidden-photon dark matter detection," Saptarshi Chaudhuri et al., with Peter Graham, Kent Irwin. PhRvD.
+
+"A Likely Millisecond Pulsar Binary Counterpart for Fermi Source 2FGL J2039.6−5620," Roger Romani. ApJ.
+
+"Cascaded half-harmonic generation of femtosecond frequency combs in mid-IR," Marandi et al., with Robert Byer. arXiv.
+
+"The Q/U Imaging Experiment: Polarization Measurements of the Galactic Plane at 43 and 95 GHz," Ruud et al., with Keith Thompson. ApJ.
+
+"Stellar Masses and Star Formation Rates of Lensed, Dusty, Star-forming Galaxies from the SPT Survey," Ma et al., with Yashar Hezaveh. ApJ.
+
+"Discovery and spectroscopy of the young jovian planet 51 Eri b with the Gemini Planet Imager," Bruce Macintosh et al., with Kate Follette, Jean-Baptiste Ruffio. Sci.
+
+"Measurement of initial-state-final-state radiation interference in the processes e+e-→μ+μ-γ and e+e-→π+π-γ," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+
+"Gemini Planet Imager Observations of the AU Microscopii Debris Disk: Asymmetries within One Arcsecond," Wang et al., with Bruce Macintosh. ApJ.
+
+"First NuSTAR Observations of Mrk 501 within a Radio to TeV Multi-Instrument Campaign," Furniss et al., with Jim Chiang, Greg Madejski, Krzysztof Nalewajko. ApJ.
+
+"X-ray Surveyor Discussion Session Results from the X-ray Vision Workshop," Allured et al., with Rebecca Canning, Irina Zhuravleva. xrvw.
+
+"Designs for a Quantum Electron Microscope," Kruit et al., with Mark Kasevich. arXiv.
+
+"Diffuse Hot Gas in Galaxy Clusters at High Spatial and Spectral Resolution," Churazov et al., with Irina Zhuravleva. xrvw.
+
+"Experimental Searches for the Axion and Axion-Like Particles," Peter Graham et al. ARNPS.
+
+"Cosmological Relaxation of the Electroweak Scale," Peter Graham et al. PhRvL.
+
+"Testing long-distance modifications of gravity to 100 astronomical units," Buscaino et al., with Peter Graham, Giorgio Gratta. PhRvD.
+
+"Bias in the effective field theory of large scale structures," Leonardo Senatore. JCAP.
+
+"Problems and Prospects from a Flood of Extragalactic TeV Neutrinos in IceCube," Matthew Kistler. arXiv.
+
+"Crowded Cluster Cores: An Algorithm for Deblending in Dark Energy Survey Images," Zhang et al., with Eli Rykoff. PASP.
+
+"The Gravity Probe B test of general relativity," Everitt et al., with Ron Adler, John Mester. CQGra.
+
+"Galaxy power spectrum in redshift space: Combining perturbation theory with the halo model," Okumura et al., with Zvonimir Vlah. PhRvD.
+
+"Beginning inflation in an inhomogeneous universe," William East et al., with Leonardo Senatore. arXiv.
+
+"The Dark Energy Camera," Flaugher et al., with Kevin Reil, Aaron Roodman, Rafe Schindler. AJ.
+
+"The Corona of the Broad-line Radio Galaxy 3C 390.3," Lohfink et al., with Greg Madejski. ApJ.
+
+"Combined Modeling of Acceleration, Transport, and Hydrodynamic Response in Solar Flares. II. Inclusion of Radiative Transfer with RADYN," Fatima Rubio da Costa et al., with Vahe Petrosian. ApJ.
+
+"The IceCube Neutrino Observatory, the Pierre Auger Observatory and the Telescope Array: Joint Contribution to the 34th International Cosmic Ray Conference (ICRC 2015)," IceCube Collaboration, with Ji-Hoon Kim. arXiv.
+
+"Effects of Large-scale Non-axisymmetric Perturbations in the Mean-field Solar Dynamo.," Pipin, Sasha Kosovichev. ApJ.
+
+"de Sitter supergravity model building," Renata Kallosh et al. PhRvD.
+
+"On the redshift distribution and physical properties of ACT-selected DSFGs," Su et al., with Marco Viero. arXiv.
+
+"Direct Imaging of an Asymmetric Debris Disk in the HD 106906 Planetary System," Kalas et al., with Bruce Macintosh, Kate Follette, Jean-Baptiste Ruffio. ApJ.
+
+"Direct Search for Dark Matter with DarkSide," Agnes et al., with Maria Elena Monzani. JPhCS.
+
+"Eight Ultra-faint Galaxy Candidates Discovered in Year Two of the Dark Energy Survey," Drlica-Wagner et al., with Eli Rykoff, Yao-Yuan Mao, Risa Wechsler, David Burke, Kevin Reil, Aaron Roodman. ApJ.
+
+"The CMS Beam Halo Monitor Detector System," Kelly Stifter et al. arXiv.
+
+"Measurement of colour flow with the jet pull angle in t t bar events using the ATLAS detector at √{ s} = 8 TeV," Aad et al., with Steve Kahn. PhLB.
+
+"Comparative Analysis of Brookhaven National Laboratory Nuclear Decay Data and Super-Kamiokande Neutrino Data: Indication of a Solar Connection," Peter Sturrock et al. arXiv.
+
+"On TeV Gamma Rays and the Search for Galactic Neutrinos," Matthew Kistler. arXiv.
+
+"Dynamical analysis of galaxy cluster merger Abell 2146," White et al., with Rebecca Canning. MNRAS.
+
+"Active Galactic Nuclei: The TeV Challenge," Roger Blandford et al., with William East, Krzysztof Nalewajko, Jonathan Zrake. arXiv.
+
+"RCS2 J232727.6-020437: An Efficient Cosmic Telescope at z=0.6986," Hoag et al., with Anja von der Linden. ApJ.
+
+"Gamma Rays, Electrons, Hard X-Rays, and the Central Parsec of the Milky Way," Matthew Kistler. arXiv.
+
+"Small-scale anisotropies of cosmic rays from relative diffusion," Philipp Mertsch et al. arXiv.
+
+"High-resolution Chandra HETG Spectroscopy of V404 Cygni in Outburst," Ashley King et al., with Warren Morningstar. ApJ.
+
+"Acceleration of Thermal Protons by Generic Phenomenological Mechanisms," Vahe Petrosian et al. ApJ.
+
+"Linear response to long wavelength fluctuations using curvature simulations," Baldauf et al., with Leonardo Senatore. arXiv.
+
+"Accreting protoplanets in the LkCa 15 transition disk," Sallum et al., with Kate Follette, Bruce Macintosh. Natur.
+
+"Fermi-LAT Observations of 2014 May-July outburst from 3C 454.3," Britto et al., with Eugenio Bottacini. arXiv.
+
+"An extremely bright gamma-ray pulsar in the Large Magellanic Cloud," Fermi LAT Collaboration, with Andrea Albert, Eugenio Bottacini, Rob Cameron, Jim Chiang, Seth Digel, Gary Godfrey, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Elena Orlando, Troy Porter, Roger Romani, Jana Thayer, Giacomo Vianello. Sci.
+
+"Evanescent Effects can Alter Ultraviolet Divergences in Quantum Gravity without Physical Consequences," Bern et al., with Lance Dixon. PhRvL.
+
+"The Tully-Fisher and mass-size relations from halo abundance matching," Harry Desmond, Risa Wechsler. MNRAS.
+
+"Multiwavelength Evidence for Quasi-periodic Modulation in the Gamma-Ray Blazar PG 1553+113," Ackermann et al., with Andrea Albert, Roger Blandford, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Jim Chiang, Warren Focke, Gary Godfrey, Tony Johnson, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Nicola Omodei, Elena Orlando, Vahe Petrosian, Troy Porter, Jana Thayer, Giacomo Vianello. ApJ.
+
+"A Tale of Two Pulsars and the Origin of TeV Gamma Rays from the Galactic Center," Matthew Kistler. arXiv.
+
+"Astrometric Confirmation and Preliminary Orbital Parameters of the Young Exoplanet 51 Eridani b with the Gemini Planet Imager," De Rosa et al., with Vanessa Bailey, Kate Follette, Bruce Macintosh, Jean-Baptiste Ruffio. ApJ.
+
+"First combined search for neutrino point-sources in the Southern Hemisphere with the ANTARES and IceCube neutrino telescopes," ANTARES Collaboration, with Andrea Albert. arXiv.
+
+"The three-fold theoretical basis of the Gravity Probe B gyro precession calculation," Ron Adler. CQGra.
+
+"Gravity Probe B cryogenic payload," Everitt et al., with John Mester. CQGra.
+
+"Emergent space-time and the supersymmetric index," Benjamin et al., with Shamit Kachru. arXiv.
+
+"Constraints on the richness-mass relation and the optical-SZE positional offset distribution for SZE-selected clusters," Saro et al., with Eli Rykoff, David Burke, Aaron Roodman, Anja von der Linden, Risa Wechsler. MNRAS.
+
+"String theory realizations of the nilpotent goldstino," Renata Kallosh et al. JHEP.
+
+"Discovery of two gravitationally lensed quasars in the Dark Energy Survey," Agnello et al., with Phil Marshall, David Burke, Kevin Reil, Aaron Roodman, Risa Wechsler. MNRAS.
+
+"Inflation in string theory confronts data," Eva Silverstein. CRPhy.
+
+"An extremal {N}=2 superconformal field theory," Benjamin et al., with Shamit Kachru. JPhA.
+
+"Gamma-Rays from the Quasar PKS 1441+25: Story of an Escape," Abeysekara et al., with Greg Madejski. ApJ.
+
+"Major mergers going Notts: challenges for modern halo finders," Behroozi et al., with Yao-Yuan Mao. MNRAS.
+
+"A brief history of the multiverse," Andrei Linde. arXiv.
+
+"Inflation in string theory confronts data/Les mod\`eles d'inflation en th\'eorie des cordes face aux observations," Eva Silverstein. arXiv.
+
+"BICEP2 III: Instrumental Systematics," BICEP2 Collaboration, with Kent Irwin, Sarah Kernasovskiy, Chao-Lin Kuo, Walter Ogburn, Jamie Tolan, Ki Won Yoon. ApJ.
+
+"Progress in Geant4 Electromagnetic Physics Modelling and Validation," Apostolakis et al., with Makoto Asai. JPhCS.
+
+"On the implications of recent observations of the inner knot in the Crab nebula," Yajie Yuan, Roger Blandford. MNRAS.
+
+"Status Report of the DPHEP Collaboration: A Global Effort for Sustainable Data Preservation in High Energy Physics," DPHEP Collaboration, with Concetta Cartaro. arXiv.
+
+"Ultrafast Time-Resolved Photoelectric Emission," Juffmann et al., with Mark Kasevich. PhRvL.
+
+"The Difference Imaging Pipeline for the Transient Search in the Dark Energy Survey," Kessler et al., with Kevin Reil, Aaron Roodman. AJ.
+
+"Accounting for baryonic effects in cosmic shear tomography: determining a minimal set of nuisance parameters using PCA," Eifler et al., with Elisabeth Krause. MNRAS.
+
+"Helioseismology with Solar Orbiter," Löptien et al., with Phil Scherrer. SSRv.
+
+"Superdiffusive transport in laboratory and astrophysical plasmas," Zimbardo et al., with Frederic Effenberger. JPlPh.
+
+"Long-Baseline Neutrino Facility (LBNF) and Deep Underground Neutrino Experiment (DUNE) Conceptual Design Report Volume 2: The Physics Program for DUNE at LBNF," DUNE Collaboration, with Leon Rochester, Tracy Usher. arXiv.
+
+"Tritium calibration of the LUX dark matter experiment," LUX Collaboration, with Dan Akerib, Tomasz Biesiadzinski, Rosemary Bramante, Christina Ignarra, Kimberly Jackson Palladino, Tom Shutt, Thomas Whitis. arXiv.
+
+"Extreme Imaging: Revealing the structure of debris disks on solar systems scales with GPI," Kalas et al., with Bruce Macintosh. ESS.
+
+"Mirror symmetry and the half-filled Landau level," Shamit Kachru et al. PhRvB.
+
+"DES J0454-4448: discovery of the first luminous z ≥ 6 quasar from the Dark Energy Survey," Reed et al., with Aaron Roodman, Eli Rykoff, Risa Wechsler. MNRAS.
+
+"Resolving the HD 106906 Disk with the Gemini Planet Imager," Rajan et al., with Bruce Macintosh. ESS.
+
+"Searching for Dark Matter Annihilation from Milky Way Dwarf Spheroidal Galaxies with Six Years of Fermi Large Area Telescope Data," Ackermann et al., with Andrea Albert, Roger Blandford, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Jim Chiang, Seth Digel, Warren Focke, Thomas Glanzman, Gary Godfrey, Peter Michelson, Maria Elena Monzani, Elena Orlando, Troy Porter, Jana Thayer, Giacomo Vianello. PhRvL.
+
+"Measurement of the branching ratio Γ (Λb0 → ψ (2 S)Λ0) / Γ (Λb0 → J / ψΛ0) with the ATLAS detector," Aad et al., with Steve Kahn. PhLB.
+
+"Quantum superposition at the half-metre scale," Kovachy et al., with Mark Kasevich. Natur.
+
+"Escher in the Sky," Renata Kallosh, Andrei Linde. CRPhy.
+
+"The properties of cosmic velocity fields," Hahn et al., with Tom Abel. MNRAS.
+
+"An Accreting Protoplanet: Confirmation and Characterization of LkCa15b," Follette et al., with Bruce Macintosh, Vanessa Bailey. ESS.
+
+"The Gemini Planet Imager Exoplanet Survey (GPIES) Campaign Initial Results," Patience et al., with Bruce Macintosh. ESS.
+
+"Collins asymmetries in inclusive charged K K and K π pairs produced in e+e- annihilation," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+
+"Very High Energy γ-Rays from the Universe's Middle Age: Detection of the z = 0.940 Blazar PKS 1441+25 with MAGIC," Ahnen et al., with Roger Blandford, Rob Cameron, Jim Chiang, Maria Elena Monzani, Igor Moskalenko, Nicola Omodei, Elena Orlando, Troy Porter, Jana Thayer. ApJ.
+
+"1 to 2.4 microns spectrum and orbital properties of the Giant Planet Beta Pictoris b obtained with the Gemini Planet Imager," Pueyo et al., with Bruce Macintosh. ESS.
+
+"Astrometric Confirmation and Preliminary Orbital Parameters of the Young Exoplanet 51 Eridani b with the Gemini Planet Imager," Nielsen et al., with Bruce Macintosh. ESS.
+
+"The Grism Lens-Amplified Survey from Space (Glass). V. Extent and Spatial Distribution of Star Formation in Z ̃ 0.5 Cluster Galaxies," Vulcani et al., with Anja von der Linden. ApJ.
+
+"First Scattered-light Image of the Debris Disk around HD 131835 with the Gemini Planet Imager," Hung et al., with Bruce Macintosh. ApJ.
+
+"On the EFT of Large Scale Structures in Redshift Space," Matthew Lewandowski et al., with Leonardo Senatore. arXiv.
+
+"Optical gating and streaking of free-electrons with attosecond precision," Kozak et al., with Robert Byer. arXiv.
+
+"Inflatino-less Cosmology," Carrasco, Renata Kallosh, Andrei Linde. arXiv.
+
+"One-arm spiral instability in hypermassive neutron stars formed by dynamical-capture binary neutron star mergers," Paschalidis et al., with William East. PhRvD.
+
+"Boost Breaking in the EFT of Inflation," Delacretaz et al., with Leonardo Senatore. arXiv.
+
+"On the Distribution of Particle Acceleration Sites in Plasmoid-dominated Relativistic Magnetic Reconnection," Krzysztof Nalewajko et al. ApJ.
+
+"Magellan Adaptive Optics First-light Observations of the Exoplanet β Pic b. II. 3-5 μm Direct Imaging with MagAO+Clio, and the Empirical Bolometric Luminosity of a Self-luminous Giant Planet," Morzinski et al., with Vanessa Bailey, Kate Follette. ApJ.
+
+"A Brief Introduction to Modern Amplitude Methods," Lance Dixon. jtpf.
+
+"Journeys Through the Precision Frontier: Amplitudes for Colliders (TASI 2014)," Lance Dixon et al. jtpf.
+
+"Reconstruction of Solar Subsurfaces by Local Helioseismology," Sasha Kosovichev et al. LNP.
+
+"A Degenerate Optical Parametric Oscillator Network for Coherent Computation," Wang et al., with Robert Byer. LNP.
+
+"Detailed spectral and morphological analysis of the shell type SNR RCW 86," H. E. S. S. Collaboration, with Hirokazu Odaka. arXiv.
+
+"SPACE WARPS- II. New gravitational lens candidates from the CFHTLS discovered through citizen science," More et al., with Phil Marshall, Chris Davis. MNRAS.
+
+"Imaging the oblique propagation of electrons in germanium crystals at low temperature and low electric field," Moffatt et al., with Blas Cabrera, Paul Brink. ApPhL.
+
+"Spitzer UltRa Faint SUrvey Program (SURFS UP). II. IRAC-detected Lyman-Break Galaxies at 6 ≲ z ≲ 10 behind Strong-lensing Clusters," Huang et al., with Anja von der Linden. ApJ.
+
+"2FHL: The Second Catalog of Hard Fermi-LAT Sources," Ackermann et al., with Roger Blandford, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Jim Chiang, Mattia di Mauro, Warren Focke, Thomas Glanzman, Gary Godfrey, Tony Johnson, Greg Madejski, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Nicola Omodei, Elena Orlando, Vahe Petrosian, Troy Porter, Roger Romani, Jana Thayer, Giacomo Vianello. ApJS.
+
+"A possible relation between leptogenesis and PMNS phases," Covi et al., with Ji-Hoon Kim. arXiv.
+
+"Dark Matter Velocity Spectroscopy," Speckhard et al., with Ranjan Laha. PhRvL.
+
+"Simulations of 3D Magnetic Merging: Resistive Scalings for Null Point and QSL Reconnection," Frederic Effenberger et al. SoPh.
+
+"A new ATLAS muon CSC readout system with system on chip technology on ATCA platform," Bartoldus et al., with James Russell. JInst.
+
+"Observation of B ̄ →D(*) π+π-ℓ-ν ̄ Decays in e+e- Collisions at the Υ (4 S ) Resonance," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvL.
+
+"Constraints on dark matter annihilation to fermions and a photon," Chowdhury et al., with Ranjan Laha. arXiv.
+
+"Deep Chandra observation and numerical studies of the nearest cluster cold front in the sky," Norbert Werner et al., with Irina Zhuravleva, Steve Allen. MNRAS.
+
+"Young and Millisecond Pulsar GeV Gamma-ray Fluxes from the Galactic Center and Beyond," O'Leary et al., with Matthew Kistler. arXiv.
+
+"Evidence of Halo Assembly Bias in Massive Clusters," Miyatake et al., with Eli Rykoff. PhRvL.
+
+"Collisional excitation of [C II], [O I] and CO in massive galaxies," Rebecca Canning et al., with Norbert Werner. MNRAS.
+
+"Planck intermediate results. XLII. Large-scale Galactic magnetic fields," Planck Collaboration, with Elena Orlando. arXiv.
+
+"Weak lensing by galaxy troughs in DES Science Verification data," Gruen et al., with Elisabeth Krause, Eli Rykoff, Matthew Becker, David Burke, Kevin Reil, Aaron Roodman, Risa Wechsler. MNRAS.
+
+"Relativistic simulations of eccentric binary neutron star mergers: One-arm spiral instability and effects of neutron star spin," William East et al. PhRvD.
+
+"Probing star formation in the dense environments of z ̃ 1 lensing haloes aligned with dusty star-forming galaxies detected with the South Pole Telescope," Welikala et al., with Yashar Hezaveh. MNRAS.
+
+"Repetitive patterns in rapid optical variations in the nearby black-hole binary V404 Cygni," Kimura et al., with Stuart Marshall. Natur.
+
+"A cryogenic rotation stage with a large clear aperture for the half-wave plates in the Spider instrument," Bryan et al., with Kent Irwin. RScI.
+
+"Angular momentum fluxes caused by Lambda-effect and meridional circulation structure of the Sun," Pipin, Sasha Kosovichev. arXiv.
+
+"SPACE WARPS - I. Crowdsourcing the discovery of gravitational lenses," Phil Marshall et al., with Chris Davis, Michael Baumer. MNRAS.
+
+"Science yield estimate with the Wide-Field Infrared Survey Telescope coronagraph," Traub et al., with Bruce Macintosh. JATIS.
+
+"Simplex-in-cell technique for collisionless plasma simulations," Kates-Harbeck, Sam Totorica, Jonathan Zrake, Tom Abel. JCoPh.
+
+"CosmoLike - Cosmological Likelihood Analyses for Photometric Galaxy Surveys," Elisabeth Krause et al. arXiv.
+
+"Measurement of the I =1 /2 K π S -wave amplitude from Dalitz plot analyses of ηc→K K ̄π in two-photon interactions," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Patricia Burchat. PhRvD.
+
+"Galaxies in X-Ray Selected Clusters and Groups in Dark Energy Survey Data. I. Stellar Mass Growth of Bright Central Galaxies since z~1.2," Zhang et al., with David Burke, Aaron Roodman, Eli Rykoff. ApJ.
+
+"Improved Constraints on Cosmology and Foregrounds from BICEP2 and Keck Array Cosmic Microwave Background Data with Inclusion of 95 GHz Band," BICEP2 Collaboration, with Zeeshan Ahmed, James Grayson, Kent Irwin, Ethan Karpel, Sarah Kernasovskiy, Chao-Lin Kuo, Walter Ogburn, Keith Thompson, Jamie Tolan, Kimmy Wu, Ki Won Yoon. PhRvL.
+
+"Long-Baseline Neutrino Facility (LBNF) and Deep Underground Neutrino Experiment (DUNE) Conceptual Design Report Volume 1: The LBNF and DUNE Projects," Acciarri et al., with Leon Rochester, Tracy Usher. arXiv.
+
+"Quantum state magnification," Hosten et al., with Rajiv Krishnakumar, Mark Kasevich. arXiv.
+
+"First Search for Lorentz and CPT Violation in Double Beta Decay with EXO-200," EXO-200 Collaboration, with Giorgio Gratta, James Russell. arXiv.
+
+"Sound of Dark Matter: Searching for Light Scalars with Resonant-Mass Detectors," Arvanitaki et al., with Savas Dimopoulos. PhRvL.
+
+"Measurement noise 100 times lower than the quantum-projection limit using entangled atoms," Hosten et al., with Rajiv Krishnakumar, Mark Kasevich. Natur.
+
+"rf breakdown tests of mm-wave metallic accelerating structures," Dal Forno et al., with Sami Tantawi. PhRvS.
+
+"Serendipitous Discovery of an Extended X-Ray Jet without a Radio Counterpart in a High-redshift Quasar," Simionescu et al., with Norbert Werner. ApJ.
+
+"Long-Baseline Neutrino Facility (LBNF) and Deep Underground Neutrino Experiment (DUNE) Conceptual Design Report, Volume 4 The DUNE Detectors at LBNF," Acciarri et al., with Leon Rochester, Tracy Usher. arXiv.
+
+"Erratic Flaring of BL Lac in 2012-2013: Multiwavelength Observations," Wehrle et al., with Greg Madejski. ApJ.
+
+"From linear to nonlinear supersymmetry via functional integration," Renata Kallosh et al. PhRvD.
+
+"On the Nature of X-Ray Surface Brightness Fluctuations in M87," Arévalo et al., with Irina Zhuravleva. ApJ.
+
+"Astrophysical Implications of the Binary Black-hole Merger GW150914," Abbott et al., with Robert Byer. ApJ.
+
+"The GAMMA-400 gamma-ray telescope for precision gamma-ray emission investigations," Topchiev et al., with Igor Moskalenko. JPhCS.
+
+"NuSTAR Observations of the Young, Energetic Radio Pulsar PSR B1509-58," Chen et al., with Hongjun An. ApJ.
+
+"First low frequency all-sky search for continuous gravitational wave signals," Aasi et al., with Robert Byer. PhRvD.
+
+"Chaos in classical D0-brane mechanics," Gur-Ari et al., with Stephen Shenker. JHEP.
+
+"Delensing cosmic microwave background B modes with the Square Kilometre Array Radio Continuum Survey," Toshiya Namikawa et al. PhRvD.
+
+"Connecting CO Intensity Mapping to Molecular Gas and Star Formation in the Epoch of Galaxy Assembly," Tony Li, Risa Wechsler, Kiruthika Devaraj, Sarah Church. ApJ.
+
+"Deep view of the Large Magellanic Cloud with six years of Fermi-LAT observations," Ackermann et al., with Andrea Albert, Elliott Bloom, Rob Cameron, Jim Chiang, Seth Digel, Warren Focke, Gary Godfrey, Peter Michelson, Maria Elena Monzani, Elena Orlando, Troy Porter, Roger Romani, Jana Thayer, Giacomo Vianello. A&amp;A.
+
+"Conceptual design of a sapphire loaded coupler for superconducting radio-frequency 1.3 GHz cavities," Xu, Sami Tantawi. PhRvS.
+
+"Observation of Two New L4 Neptune Trojans in the Dark Energy Survey Supernova Fields," Gerdes et al., with David Burke, Aaron Roodman. AJ.
+
+"DES14X3taz: A Type I Superluminous Supernova Showing a Luminous, Rapidly Cooling Initial Pre-peak Bump," Smith et al., with Daniel Gruen, Kevin Reil, Aaron Roodman, Eli Rykoff. ApJ.
+
+"Cosmology with orthogonal nilpotent superfields," Ferrara et al., with Renata Kallosh. PhRvD.
+
+"The Rate of Binary Black Hole Mergers Inferred from Advanced LIGO Observations Surrounding GW150914," The LIGO Scientific Collaboration, with Robert Byer. arXiv.
+
+"Search of the Orion spur for continuous gravitational waves using a loosely coherent algorithm on data from LIGO interferometers," Aasi et al., with Robert Byer. PhRvD.
+
+"All-sky search for long-duration gravitational wave transients with initial LIGO," Abbott et al., with Robert Byer. PhRvD.
+
+"Construction of the de Sitter supergravity," Bergshoeff et al., with Renata Kallosh. arXiv.
+
+"Star-forming Brightest Cluster Galaxies at 0.25 〉 z 〉 1.25: A Transitioning Fuel Supply," McDonald et al., with Steve Allen. ApJ.
+
+"The impact of intrinsic alignment on current and future cosmic shear surveys," Elisabeth Krause et al. MNRAS.
+
+"X-Ray Spectral Model of Reprocess by Smooth and Clumpy Molecular Tori in Active Galactic Nuclei with the Framework MONACO," Furui et al., with Hirokazu Odaka. ApJ.
+
+"Two Small Temperate Planets Transiting Nearby M Dwarfs in K2 Campaigns 0 and 1," Schlieder et al., with Vanessa Bailey. ApJ.
+
+"The 31 Deg2 Release of the Stripe 82 X-Ray Survey: The Point Source Catalog," LaMassa et al., with Marco Viero. ApJ.
+
+"New Results from the Search for Low-Mass Weakly Interacting Massive Particles with the CDMS Low Ionization Threshold Experiment," Agnese et al., with Tsugio Aramaki, Makoto Asai, Anders Borgland, Paul Brink, Blas Cabrera, Gary Godfrey, Richard Partridge, Kristi Schneck. PhRvL.
+
+"The PDS 66 Circumstellar Disk as Seen in Polarized Light with the Gemini Planet Imager," Wolff et al., with Bruce Macintosh. ApJ.
+
+"Search for mixing-induced C P violation using partial reconstruction of B̄ 0→D*+X ℓ-ν̄ ℓ and kaon tagging," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+
+"The LEECH Exoplanet Imaging Survey: Orbit and Component Masses of the Intermediate-age, Late-type Binary NO UMa," Schlieder et al., with Vanessa Bailey. ApJ.
+
+"Mapping the Gas Turbulence in the Coma Cluster: Predictions for Astro-H," ZuHone et al., with Irina Zhuravleva. ApJ.
+
+"Discovery of a Stellar Overdensity in Eridanus-Phoenix in the Dark Energy Survey," Li et al., with David Burke, Kevin Reil, Aaron Roodman. ApJ.
+
+"Inhomogeneous Anisotropic Cosmology," Kleban, Leonardo Senatore. arXiv.
+
+"Perspectives of the GAMMA-400 space observatory for high-energy gamma rays and cosmic rays measurements," Topchiev et al., with Igor Moskalenko. JPhCS.
+
+"Freely Decaying Turbulence in Force-free Electrodynamics," Jonathan Zrake, William East. ApJ.
+
+"Observation of Gravitational Waves from a Binary Black Hole Merger," Abbott et al., with Robert Byer. PhRvL.
+
+"Quantum walk on spin network," Amaral et al., with Kent Irwin. arXiv.
+
+"CHANG-ES - VI. Probing Supernova energy deposition in spiral galaxies through multiwavelength relationships," Li et al., with Elena Orlando. MNRAS.
+
+"Galaxy clustering, photometric redshifts and diagnosis of systematics in the DES Science Verification data," Crocce et al., with Eli Rykoff, David Burke, Risa Wechsler. MNRAS.
+
+"Time-dependent analysis of B0→KS0π-π+γ decays and studies of the K+π-π+ system in B+→K+π-π+γ decays," Del Amo Sanchez et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+
+"The veto system of the DarkSide-50 experiment," Agnes et al., with Maria Elena Monzani. JInst.
+
+"Nonthermal Electron Energization from Magnetic Reconnection in Laser-Driven Plasmas," Sam Totorica et al., with Tom Abel. PhRvL.
+
+"Isotropic at the Break? 3D Kinematics of Milky Way Halo Stars in the Foreground of M31," Cunningham et al., with Alis Deason. ApJ.
+
+"Search for 2 ν β β decay of 136Xe to the 01+ excited state of 136Ba with the EXO-200 liquid xenon detector," Albert et al., with Giorgio Gratta, James Russell. PhRvC.
+
+"Cosmology and astrophysics from relaxed galaxy clusters - III. Thermodynamic profiles and scaling relations," Adam Mantz et al., with Steve Allen, Glenn Morris. MNRAS.
+
+"Optofluidic Temperature and Pressure Measurements with Fiber Bragg Gratings Embedded in Microfluidic Devices," Cooksey, Zeeshan Ahmed. arXiv.
+
+"Disentangling redshift-space distortions and non-linear bias using the 2D power spectrum," Jennings et al., with Risa Wechsler, Sam Skillman. MNRAS.
+
+"Fermi-LAT Observations of High-Energy Gamma-Ray Emission toward the Galactic Center," Ajello et al., with Andrea Albert, Roger Blandford, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Jim Chiang, Thomas Glanzman, Gary Godfrey, Tony Johnson, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Nicola Omodei, Elena Orlando, Troy Porter, Jana Thayer, Giacomo Vianello. ApJ.
+
+"Results from DROXO. IV. EXTraS discovery of an X-ray flare from the Class I protostar candidate ISO-Oph 85," Pizzocaro et al., with Giacomo Vianello. A&amp;A.
+
+"Fast Large Scale Structure Perturbation Theory using 1D FFTs," Schmittfull et al., with Zvonimir Vlah. arXiv.
+
+"ASCR/HEP Exascale Requirements Review Report," Habib et al., with Anders Borgland. arXiv.
+
+"Contemporaneous Broadband Observations of Three High-redshift BL LAC Objects," Ackermann et al., with Hongjun An, Roger Blandford, Rob Cameron, Mattia di Mauro, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Elena Orlando, Troy Porter, Roger Romani, Jana Thayer, Giacomo Vianello. ApJ.
+
+"Anisotropies of Gravitational-Wave Standard Sirens as a New Cosmological Probe without Redshift Information," Toshiya Namikawa et al. PhRvL.
+
+"Search for new phenomena in dijet mass and angular distributions from pp collisions at √{ s} = 13 TeV with the ATLAS detector," Aad et al., with Steve Kahn. PhLB.
+
+"Cosmology with the Square Kilometre Array by SKA-Japan," Yamauchi et al., with Toshiya Namikawa. arXiv.
+
+"A very deep Chandra view of metals, sloshing and feedback in the Centaurus cluster of galaxies," Sanders et al., with Rebecca Canning. MNRAS.
+
+"Deep Morphological and Spectral Study of the SNR RCW 86 with Fermi-LAT," Ajello et al., with Elliott Bloom, Eugenio Bottacini, Rob Cameron, Mattia di Mauro, Warren Focke, Thomas Glanzman, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Elena Orlando, Troy Porter, Jana Thayer, Giacomo Vianello. ApJ.
+
+"Fourier band-power E/B-mode estimators for cosmic shear," Matthew Becker et al. MNRAS.
+
+"Next Generation High Brightness Electron Beams From Ultra-High Field Cryogenic Radiofrequency Photocathode Sources," Rosenzweig et al., with Sami Tantawi. arXiv.
+
+"Cosmological Constraints from Galaxy Clusters in the 2500 square-degree SPT-SZ Survey," de Haan et al., with Steve Allen, Anja von der Linden, Adam Mantz, Kyle Story. arXiv.
+
+"3D String Theory and Umbral Moonshine," Shamit Kachru et al. arXiv.
+
+"No galaxy left behind: accurate measurements with the faintest objects in the Dark Energy Survey," Suchyta et al., with Eli Rykoff, David Burke, Aaron Roodman, Risa Wechsler. MNRAS.
+
+"Perturbation theory, effective field theory, and oscillations in the power spectrum," Zvonimir Vlah et al. JCAP.
+
+"Search for Gamma-Ray Emission from the Coma Cluster with Six Years of Fermi-LAT Data," Ackermann et al., with Andrea Albert, Roger Blandford, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Seth Digel, Gary Godfrey, Greg Madejski, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Elena Orlando, Vahe Petrosian, Troy Porter, Jana Thayer, Giacomo Vianello. ApJ.
+
+"The Phoenix Stream: A Cold Stream in the Southern Hemisphere," Balbinot et al., with David Burke. ApJ.
+
+"Measurement of angular asymmetries in the decays B →K*ℓ+ℓ-," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+
+"High power tests of an electroforming cavity operating at 11.424 GHz," Dolgashev et al., with Sami Tantawi. JInst.
+
+"Towards Photonics Enabled Quantum Metrology of Temperature, Pressure and Vacuum," Zeeshan Ahmed et al. arXiv.
+
+"Galaxy-Galaxy Lensing in the DES Science Verification Data," Clampitt et al., with Elisabeth Krause, Eli Rykoff, Risa Wechsler, Daniel Gruen, Matthew Becker, David Burke. arXiv.
+
+"Weak Lensing Measurement of the Mass--Richness Relation of SDSS redMaPPer Clusters," Simet et al., with Eli Rykoff, Risa Wechsler. arXiv.
+
+"Six New Millisecond Pulsars from Arecibo Searches of Fermi Gamma-Ray Sources," Cromartie et al., with Peter Michelson. ApJ.
+
+"Sparse Modeling for Astronomical Data Analysis," Ikeda et al., with Hirokazu Odaka. JPhCS.
+
+"NuSTAR and XMM-Newton Observations of the Hard X-Ray Spectrum of Centaurus A," Fürst et al., with Greg Madejski. ApJ.
+
+"CMB lensing tomography with the DES Science Verification galaxies," Giannantonio et al., with Elisabeth Krause, David Burke, Aaron Roodman, Eli Rykoff, Risa Wechsler. MNRAS.
+
+"Measuring a Truncated Disk in Aquila X-1," Ashley King et al. ApJ.
+
+"Fiber Bragg Grating Based Thermometry," Zeeshan Ahmed et al. arXiv.
+
+"Orthogonal Nilpotent Superfields from Linear Models," Renata Kallosh et al. arXiv.
+
+"Multiwavelength Study of Quiescent States of Mrk 421 with Unprecedented Hard X-Ray Coverage Provided by NuSTAR in 2013," Baloković et al., with Greg Madejski, Jim Chiang, Roger Blandford. ApJ.
+
+"Minimal supergravity inflation," Carrasco, Renata Kallosh, Andrei Linde. PhRvD.
+
+"Cosmic Visions Dark Energy: Technology," Dodelson et al., with Aaron Roodman. arXiv.
+
+"The Extreme Gravitationally Redshifted Fe-line constraining the Rotation of the Super-Massive Black Hole in Mrk 876," Eugenio Bottacini. HEAD.
+
+"Point Source Polarimetry with the Gemini Planet Imager: Sensitivity Characterization with T5.5 Dwarf Companion HD 19467 B," Jensen-Clem et al., with Bruce Macintosh. ApJ.
+
+"Measurement of the high-energy gamma-ray emission from the Moon with the Fermi Large Area Telescope," Ackermann et al., with Andrea Albert, Roger Blandford, Eugenio Bottacini, Rob Cameron, Jim Chiang, Seth Digel, Warren Focke, Thomas Glanzman, Gary Godfrey, Peter Michelson, Maria Elena Monzani, Nicola Omodei, Elena Orlando, Vahe Petrosian, Jana Thayer, Giacomo Vianello. PhRvD.
+
+"The Faber-Jackson relation and Fundamental Plane from halo abundance matching," Harry Desmond, Risa Wechsler. arXiv.
+
+"Observational Investigation of Energy Release in the Lower Solar Atmosphere of a Solar Flare," Sharykin et al., with Sasha Kosovichev. arXiv.
+
+"Cosmogenic backgrounds to 0νββ in EXO-200," Albert et al., with Giorgio Gratta, James Russell. JCAP.
+
+"Search for Gamma-ray Emission from Dark Matter Annihilation in the Small Magellanic Cloud with the Fermi Large Area Telescope," Caputo et al., with Eric Charles, Matthew Wood. HEAD.
+
+"Search for Screened Interactions Associated with Dark Energy Below the 100 $\mathrm{\mu m}$ Length Scale," Rider et al., with Giorgio Gratta. arXiv.
+
+"Black Hole Mergers and the QCD Axion at Advanced LIGO," Arvanitaki et al., with Savas Dimopoulos. arXiv.
+
+"Linear versus non-linear supersymmetry, in general," Ferrara et al., with Renata Kallosh. JHEP.
+
+"Cosmology from large scale galaxy clustering and galaxy-galaxy lensing with Dark Energy Survey Science Verification data," Kwan et al., with Matthew Becker, Joe DeRose, Daniel Gruen, Elisabeth Krause, Eli Rykoff, Risa Wechsler, Kevin Reil, Aaron Roodman. arXiv.
+
+"Spin-powered Pulsars in the CTA Era," Roger Romani. HEAD.
+
+"Cosmology and astrophysics from relaxed galaxy clusters - IV. Robustly calibrating hydrostatic masses with weak lensing," Applegate et al., with Adam Mantz, Steve Allen, Glenn Morris, David Burke. MNRAS.
+
+"GW150914: Implications for the Stochastic Gravitational-Wave Background from Binary Black Holes," Abbott et al., with Robert Byer. PhRvL.
+
+"Dark matter direct detection with accelerometers," Peter Graham et al. PhRvD.
+
+"Detection of enhancement in number densities of background galaxies due to magnification by massive galaxy clusters," Chiu et al., with Anja von der Linden. MNRAS.
+
+"Results on the Spin-Dependent Scattering of Weakly Interacting Massive Particles on Nucleons from the Run 3 Data of the LUX Experiment," Dan Akerib et al., with Tomasz Biesiadzinski, Rosemary Bramante, Christina Ignarra, Kimberly Jackson Palladino, Tom Shutt, Thomas Whitis. PhRvL.
+
+"The Eating Habits of Milky Way-mass Halos: Destroyed Dwarf Satellites and the Metallicity Distribution of Accreted Stars," Alis Deason, Yao-Yuan Mao, Risa Wechsler. ApJ.
+
+"First search for Lorentz and C P T violation in double beta decay with EXO-200," Albert et al., with Giorgio Gratta, James Russell. PhRvD.
+
+"Solar Energetic Particle transport along meandering interplanetary magnetic field lines," Laitinen et al., with Frederic Effenberger. EGUGA.
+
+"CLASH: Joint Analysis of Strong-lensing, Weak-lensing Shear, and Magnification Data for 20 Galaxy Clusters," Umetsu et al., with Daniel Gruen. ApJ.
+
+"Elements of a dielectric laser accelerator," McNeur et al., with Robert Byer. arXiv.
+
+"Galaxy Populations in Massive Galaxy Clusters to z=1.1: Color Distribution, Concentration, Halo Occupation Number and Red Sequence Fraction," Hennig et al., with Daniel Gruen, Eli Rykoff. arXiv.
+
+"Star formation rates in luminous quasars at 2 〈 z 〈 3," Harris et al., with Marco Viero. MNRAS.
+
+"Combination of searches for WW, WZ, and ZZ resonances in pp collisions at √{ s} = 8 TeV with the ATLAS detector," Aad et al., with Steve Kahn. PhLB.
+
+"NuSTAR observations of water megamaser AGN," Masini et al., with Greg Madejski. A&amp;A.
+
+"Studying the nucleus of comet 9P/Tempel 1 using the structure of the Deep Impact ejecta cloud at the early stages of its development," Kolokolova et al., with Ashley King. arXiv.
+
+"X-ray Polarization Probes of SNR and PWN," Roger Romani. HEAD.
+
+"Improved Limits on Scattering of Weakly Interacting Massive Particles from Reanalysis of 2013 LUX Data," Dan Akerib et al., with Tomasz Biesiadzinski, Rosemary Bramante, Christina Ignarra, Kimberly Jackson Palladino, Tom Shutt, Thomas Whitis. PhRvL.
+
+"Accretion driven outflows across the black hole mass scale," Ashley King. HEAD.
+
+"Tritium calibration of the LUX dark matter experiment," Dan Akerib et al., with Tomasz Biesiadzinski, Rosemary Bramante, Christina Ignarra, Kimberly Jackson Palladino, Tom Shutt, Thomas Whitis. PhRvD.
+
+"The 3D Space and Spin Velocities of a Gamma-ray Pulsar," Roger Romani. HEAD.
+
+"Galactic synchrotron radiation from radio to microwaves, and its relation to cosmic-ray propagation models: past, present and future," Elena Orlando. HEAD.
+
+"Search for Spectral Irregularities due to Photon-Axionlike-Particle Oscillations with the Fermi Large Area Telescope," Ajello et al., with Andrea Albert, Roger Blandford, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Mattia di Mauro, Warren Focke, Thomas Glanzman, Gary Godfrey, Greg Madejski, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Elena Orlando, Troy Porter, Jana Thayer. PhRvL.
+
+"Resolving the Extragalactic γ -Ray Background above 50 GeV with the Fermi Large Area Telescope," Ackermann et al., with Andrea Albert, Roger Blandford, Elliott Bloom, Rob Cameron, Jim Chiang, Seth Digel, Mattia di Mauro, Gary Godfrey, Greg Madejski, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Nicola Omodei, Elena Orlando, Vahe Petrosian, Troy Porter, Roger Romani, Jana Thayer, Giacomo Vianello. PhRvL.
+
+"Complexity, action, and black holes," Brown et al., with Leonard Susskind. PhRvD.
+
+"Energy and flux measurements of ultra-high energy cosmic rays observed during the first ANITA flight," Schoorlemmer et al., with Kevin Reil. APh.
+
+"The EFT of Large Scale Structures at all redshifts: analytical predictions for lensing," Simon Foreman, Leonardo Senatore. JCAP.
+
+"Coupling the inflationary sector to matter," Renata Kallosh et al., with Andrei Linde. JHEP.
+
+"GW150914: The Advanced LIGO Detectors in the Era of First Discoveries," Abbott et al., with Robert Byer. PhRvL.
+
+"Kinetic study of radiation-reaction-limited particle acceleration during the relaxation of unstable force-free equilibria," Yajie Yuan, Krzysztof Nalewajko, Jonathan Zrake, William East, Roger Blandford. arXiv.
+
+"Results from the first use of low radioactivity argon in a dark matter search," Agnes et al., with Maria Elena Monzani. PhRvD.
+
+"Deeply X-raying the Local Universe," Eugenio Bottacini. HEAD.
+
+"Millimeter Transient Point Sources in the SPTpol 100 Square Degree Survey," Whitehorn et al., with Kent Irwin, Kyle Story. arXiv.
+
+"The Sensitivity of the Advanced LIGO Detectors at the Beginning of Gravitational Wave Astronomy," The LIGO Scientific Collaboration, with Robert Byer, Ji-Hoon Kim. arXiv.
+
+"A Gibbs sampler for multivariate linear regression," Adam Mantz. MNRAS.
+
+"Host Galaxy Identification for Supernova Surveys," Gupta et al., with Daniel Gruen. arXiv.
+
+"Non-linear Fields in Generalized Cosmologies," Fasiello, Zvonimir Vlah. arXiv.
+
+"SPOKES: An end-to-end simulation facility for spectroscopic cosmological surveys," Nord et al., with Risa Wechsler. A&amp;C.
+
+"Cosmic Visions Dark Energy: Science," Dodelson et al., with Aaron Roodman. arXiv.
+
+"Cosmic rays and their modulation in the heliosphere by studying gamma rays from the Sun with Fermi-LAT: updated models," Elena Orlando et al., with Igor Moskalenko. HEAD.
+
+"Development of the Model of Galactic Interstellar Emission for Standard Point-source Analysis of Fermi Large Area Telescope Data," Acero et al., with Andrea Albert, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Jim Chiang, Seth Digel, Warren Focke, Thomas Glanzman, Gary Godfrey, Peter Michelson, Maria Elena Monzani, Nicola Omodei, Elena Orlando, Jana Thayer, Giacomo Vianello. ApJS.
+
+"Copenhagen vs Everett, Teleportation, and ER=EPR," Leonard Susskind. arXiv.
+
+"Evidence for the kinematic Sunyaev-Zel'dovich effect with the Atacama Cosmology Telescope and velocity reconstruction from the Baryon Oscillation Spectroscopic Survey," Schaan et al., with Kent Irwin, Dale Li. PhRvD.
+
+"Vector dark matter from inflationary fluctuations," Peter Graham et al. PhRvD.
+
+"The Atacama Cosmology Telescope: The polarization-sensitive ACTPol instrument," Thornton et al., with Kent Irwin, Dale Li. arXiv.
+
+"Extreme asymmetry in the polarized disk of V1247 Orionis*," Ohta et al., with Kate Follette. PASJ.
+
+"An M-dwarf star in the transition disk of Herbig HD 142527. Physical parameters and orbital elements," Lacour et al., with Bruce Macintosh. A&amp;A.
+
+"Multi-threaded Geant4 on the Xeon-Phi with Complex High-Energy Physics Geometry," Farrell et al., with Makoto Asai. arXiv.
+
+"Constraining higher-order parameters for primordial non-Gaussianities from power spectra and bispectra of imaging surveys," Hashimoto et al., with Toshiya Namikawa. PhRvD.
+
+"The DarkSide awakens," Davini et al., with Maria Elena Monzani. JPhCS.
+
+"Holographic Complexity Equals Bulk Action?," Brown et al., with Leonard Susskind. PhRvL.
+
+"Massless and Massive Higher Spins from Anti-de Sitter Space Waveguide," Gwak et al., with Ji-Hoon Kim. arXiv.
+
+"The Design of a Drag-Free CubeSat and the Housing for its Gravitational Reference Sensor," Zanoni et al., with Robert Byer. arXiv.
+
+"A Comparison and Joint Analysis of Sunyaev-Zel'dovich Effect Measurements from Planck and Bolocam for a set of 47 Massive Galaxy Clusters," Sayers et al., with Adam Mantz. arXiv.
+
+"The Redshift Distribution of Dusty Star-forming Galaxies from the SPT Survey," Strandet et al., with Yashar Hezaveh. ApJ.
+
+"Measurement of the charge asymmetry in highly boosted top-quark pair production in √{ s} = 8 TeVpp collision data collected by the ATLAS experiment," Aad et al., with Steve Kahn. PhLB.
+
+"Fast large scale structure perturbation theory using one-dimensional fast Fourier transforms," Schmittfull et al., with Zvonimir Vlah. PhRvD.
+
+"Extending Geant4 Parallelism with External Libraries (MPI, TBB) and Its Use on HPC Resources," Dotti et al., with Makoto Asai. arXiv.
+
+"Fermi-LAT Observations of the LIGO Event GW150914," Ackermann et al., with Andrea Albert, Roger Blandford, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Jim Chiang, Seth Digel, Mattia di Mauro, Richard Dubois, Thomas Glanzman, Gary Godfrey, Greg Madejski, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Nicola Omodei, Elena Orlando, Troy Porter, Leon Rochester, Roger Romani, Jana Thayer, Giacomo Vianello. ApJ.
+
+"Cosmic rays from multi-wavelength observations of the Galactic diffuse emission," Elena Orlando. JPhCS.
+
+"Amplitudes of MHD Waves in Sunspots," Norton et al., with Phil Scherrer. SPD.
+
+"Single-shot simulations of dynamic quantum many-body systems," Sakmann, Mark Kasevich. NatPh.
+
+"Fermi LAT Stacking Analysis of Swift Localized GRBs," Ackermann et al., with Eugenio Bottacini, Rob Cameron, Jim Chiang, Warren Focke, Gary Godfrey, Peter Michelson, Maria Elena Monzani, Nicola Omodei, Elena Orlando, Troy Porter, Jana Thayer, Giacomo Vianello. ApJ.
+
+"A First Targeted Search for Gravitational-Wave Bursts from Core-Collapse Supernovae in Data of First-Generation Laser Interferometer Detectors," Abbott et al., with Robert Byer. arXiv.
+
+"Is the gamma-ray source 3FGL J2212.5+0703 a dark matter subhalo?," Bridget Bertoni et al. JCAP.
+
+"Time Delay Cosmography," Treu, Phil Marshall. arXiv.
+
+"Elementary introduction to Moonshine," Shamit Kachru. arXiv.
+
+"Direct Detection: Liquid Nobles," Dan Akerib. JPhCS.
+
+"Deeply X-raying the high-energy sky," Eugenio Bottacini et al. JPhCS.
+
+"Constraints on the Architecture of the HD 95086 Planetary System with the Gemini Planet Imager," Rameau et al., with Bruce Macintosh, Vanessa Bailey. ApJ.
+
+"The connection between the host halo and the satellite galaxies of the Milky Way," Lu et al., with Yao-Yuan Mao, Risa Wechsler. arXiv.
+
+"On HMI's Mod-L Sequence: Test and Evaluation," Liu et al., with Phil Scherrer. SPD.
+
+"Chromatographic separation of radioactive noble gases from xenon," LUX Collaboration, with Dan Akerib, Tomasz Biesiadzinski, Rosemary Bramante, Christina Ignarra, Kimberly Jackson Palladino, Tom Shutt, Thomas Whitis. arXiv.
+
+"Maps of the Magellanic Clouds from Combined South Pole Telescope and Planck Data," Crawford et al., with Kyle Story. arXiv.
+
+"The Processing of Observables Made by the HMI Instrument on SDO," Hoeksema et al., with Phil Scherrer. SPD.
+
+"Crab Flares due to Turbulent Dissipation of the Pulsar Striped Wind," Jonathan Zrake. ApJ.
+
+"Measuring subhalo mass in redMaPPer clusters with CFHT Stripe 82 Survey," Li et al., with Eli Rykoff. MNRAS.
+
+"FPGA-based trigger system for the LUX dark matter experiment," Akerib et al., with Christina Ignarra, Kimberly Jackson Palladino. NIMPA.
+
+"Bringing "The Moth" to Light: A Planet-Sculpting Scenario for the HD 61005 Debris Disk," Esposito et al., with Bruce Macintosh. arXiv.
+
+"The nature and energetics of AGN-driven perturbations in the hot gas in the Perseus Cluster," Irina Zhuravleva et al., with Steve Allen, Norbert Werner. MNRAS.
+
+"Hard X-ray morphology of the X1.3 April 25, 2014 partially occulted limb solar flare," Frederic Effenberger, Fatima Rubio da Costa, Vahe Petrosian. arXiv.
+
+"2-D and 3-D Models of Convective Turbulence and Oscillations in Intermediate-Mass Main-Sequence Stars," Guzik et al., with Sasha Kosovichev. arXiv.
+
+"Cosmic Voids and Void Lensing in the Dark Energy Survey Science Verification Data," Sánchez et al., with Daniel Gruen, Joe DeRose, Eli Rykoff, Risa Wechsler, Elisabeth Krause, Kevin Reil. arXiv.
+
+"Digging deeper into the Southern skies: a compact Milky Way companion discovered in first-year Dark Energy Survey data," Luque et al., with David Burke, Aaron Roodman. MNRAS.
+
+"Matter-coupled de Sitter supergravity," Renata Kallosh. TMP.
+
+"The Solar Solution: Tracking the Sun with Low Energy Neutrinos," Nicole Hartman et al. arXiv.
+
+"Magellan AO System z′, Y  S , and L′ Observations of the Very Wide 650 AU HD 106906 Planetary System," Wu et al., with Vanessa Bailey, Kate Follette. ApJ.
+
+"Evidence for the thermal Sunyaev-Zel'dovich effect associated with quasar feedback," Crichton et al., with Marco Viero. MNRAS.
+
+"Testing the mapping between redshift and cosmic scale factor," Radoslaw Wojtak et al. MNRAS.
+
+"Orthogonal nilpotent superfields from linear models," Renata Kallosh et al. JHEP.
+
+"Optical-SZE Scaling Relations for DES Optically Selected Clusters within the SPT-SZ Survey," Saro et al., with Eli Rykoff, David Burke, Daniel Gruen, Kevin Reil. arXiv.
+
+"Multi-PeV Signals from a New Astrophysical Neutrino Flux Beyond the Glashow Resonance," Matthew Kistler, Ranjan Laha. arXiv.
+
+"Emergent space-time and the supersymmetric index," Benjamin et al., with Shamit Kachru. JHEP.
+
+"Precision comparison of the power spectrum in the EFTofLSS with simulations," Simon Foreman et al., with Leonardo Senatore. JCAP.
+
+"An External Shock Origin of GRB 141028A," Burgess et al., with Nicola Omodei. ApJ.
+
+"Massive neutrinos in nonlinear large scale structure: A consistent perturbation theory," Levi, Zvonimir Vlah. arXiv.
+
+"The RedMaPPer Galaxy Cluster Catalog From DES Science Verification Data," Eli Rykoff et al., with Risa Wechsler, David Burke, Daniel Gruen, Kevin Reil. ApJS.
+
+"Experimental measurements of rf breakdowns and deflecting gradients in mm-wave metallic accelerating structures," Dal Forno et al., with Sami Tantawi. PhRvS.
+
+"The DarkSide-50 outer detectors," Westerdale et al., with Maria Elena Monzani. JPhCS.
+
+"Understanding the formation of the Mg II h&k lines during solar flares," Fatima Rubio da Costa et al., with Vahe Petrosian. SPD.
+
+"HMI Measured Doppler Velocity Contamination from the SDO Orbit Velocity," Phil Scherrer et al. SPD.
+
+"Detection of Lensing Substructure Using ALMA Observations of the Dusty Galaxy SDP.81," Yashar Hezaveh et al., with Yao-Yuan Mao, Warren Morningstar, Roger Blandford, Phil Marshall, Risa Wechsler. ApJ.
+
+"The First Fermi LAT Supernova Remnant Catalog," Acero et al., with Roger Blandford, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Jim Chiang, Seth Digel, Thomas Glanzman, Gary Godfrey, Tony Johnson, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Nicola Omodei, Elena Orlando, Vahe Petrosian, Troy Porter, Jana Thayer, Giacomo Vianello. ApJS.
+
+"Candidate Gravitationally Lensed Dusty Star-forming Galaxies in the Herschel Wide Area Surveys," Nayyeri et al., with Marco Viero. ApJ.
+
+"Voids in cosmological simulations over cosmic time," Radoslaw Wojtak, Devon Powell, Tom Abel. MNRAS.
+
+"Assessment of Systematic Chromatic Errors that Impact Sub-1% Photometric Precision in Large-area Sky Surveys," Li et al., with David Burke, Eli Rykoff, Daniel Gruen, Aaron Roodman. AJ.
+
+"Efficient exploration of cosmology dependence in the EFT of LSS," Cataneo, Simon Foreman, Leonardo Senatore. arXiv.
+
+"Binary Black Hole Mergers in the first Advanced LIGO Observing Run," The LIGO Scientific Collaboration, with Robert Byer. arXiv.
+
+"A 750 GeV QCD axion," Savas Dimopoulos et al. arXiv.
+
+"Mapping the spatial distribution of star formation in cluster galaxies at z ~0.5 with the Grism Lens-Amplified Survey from Space (GLASS)," Vulcani et al., with Anja von der Linden. ilgp.
+
+"Directly comparing GW150914 with numerical solutions of Einstein's equations for binary black hole coalescence," The LIGO Scientific Collaboration, with Robert Byer. arXiv.
+
+"Observing gravitational-wave transient GW150914 with minimal assumptions," Abbott et al., with Robert Byer. PhRvD.
+
+"Searching the Gamma-ray Sky for Counterparts to Gravitational Wave Sources: Fermi GBM and LAT Observations of LVT151012 and GW151226," Racusin et al., with Andrea Albert, Roger Blandford, Elliott Bloom, Rob Cameron, Jim Chiang, Seth Digel, Mattia di Mauro, Warren Focke, Thomas Glanzman, Peter Michelson, Igor Moskalenko, Nicola Omodei, Elena Orlando, Troy Porter, Jana Thayer, Giacomo Vianello. arXiv.
+
+"Search for new phenomena in final states with large jet multiplicities and missing transverse momentum with ATLAS using √{ s} = 13 TeV proton-proton collisions," Aad et al., with Steve Kahn. PhLB.
+
+"High-Precision Forward Modeling of Large-Scale Structure: An open-source approach with Halotools," Hearin et al., with Yao-Yuan Mao. arXiv.
+
+"A Resonant Mode for Gravitational Wave Detectors based on Atom Interferometry," Peter Graham et al., with Mark Kasevich. arXiv.
+
+"Weighing the Giants V: Galaxy Cluster Scaling Relations," Adam Mantz et al., with Steve Allen, Glenn Morris, Anja von der Linden, David Burke. arXiv.
+
+"Extended VHE gamma-ray emission towards SGR1806-20, LBV1806-20, and stellar cluster Cl*1806-20," Abdalla et al., with Hirokazu Odaka. arXiv.
+
+"CMB lensing bispectrum from nonlinear growth of the large scale structure," Toshiya Namikawa. PhRvD.
+
+"An improved analysis of GW150914 using a fully spin-precessing waveform model," The LIGO Scientific Collaboration, with Robert Byer. arXiv.
+
+"String Theory Origin of Constrained Multiplets," Renata Kallosh et al. arXiv.
+
+"The XXL Survey. I. Scientific motivations - XMM-Newton observing plan - Follow-up observations and simulation programme," Pierre et al., with Eli Rykoff. A&amp;A.
+
+"Chemical enrichment in the hot intra-cluster medium seen with XMM-Newton/EPIC," Mernier et al., with Norbert Werner. xnnd.
+
+"The Electronics and Data Acquisition System for the DarkSide-50 Veto Detectors," Agnes et al., with Maria Elena Monzani. arXiv.
+
+"CHEERS: The Chemical Enrichment RGS Sample," de Plaa et al., with Norbert Werner. xnnd.
+
+"TASI lectures on cosmological observables and string theory," Eva Silverstein. arXiv.
+
+"A Dark Energy Camera Search for an Optical Counterpart to the First Advanced LIGO Gravitational Wave Event GW150914," Soares-Santos et al., with David Burke, Daniel Gruen, Aaron Roodman, Eli Rykoff, Rafe Schindler, Risa Wechsler. ApJ.
+
+"GW150914: First results from the search for binary black hole coalescence with Advanced LIGO," Abbott et al., with Robert Byer. PhRvD.
+
+"Perturbative approach to covariance matrix of the matter power spectrum," Mohammed et al., with Zvonimir Vlah. arXiv.
+
+"Mass-to-Light-Ratios of the galaxy clusters and groups observed with Suzaku," Sasaki et al., with Norbert Werner. xnnd.
+
+"Discovery of a z=0.65 Post-Starburst BAL Quasar in the DES Supernova Fields," Mudd et al., with Daniel Gruen. arXiv.
+
+"Tests of General Relativity with GW150914," Abbott et al., with Robert Byer. PhRvL.
+
+"High-energy neutrino follow-up search of gravitational wave event GW150914 with ANTARES and IceCube," Adrián-Martínez et al., with Robert Byer. PhRvD.
+
+"Minute-timescale 〉100 MeV γ-Ray Variability during the Giant Outburst of Quasar 3C 279 Observed by Fermi-LAT in 2015 June," Ackermann et al., with Richard Anantua, Roger Blandford, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Jim Chiang, Seth Digel, Mattia di Mauro, Greg Madejski, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Elena Orlando, Troy Porter, Jana Thayer. ApJ.
+
+"Cross-correlation of gravitational lensing from DES Science Verification data with SPT and Planck lensing," Kirk et al., with Matthew Becker, David Burke, Daniel Gruen, Aaron Roodman, Eli Rykoff, Risa Wechsler. MNRAS.
+
+"Spectroscopic Characterization of HD 95086 b with the Gemini Planet Imager," De Rosa et al., with Bruce Macintosh. ApJ.
+
+"A Dark Energy Camera Search for Missing Supergiants in the LMC after the Advanced LIGO Gravitational-wave Event GW150914," Annis et al., with David Burke, Daniel Gruen, Aaron Roodman, Eli Rykoff, Rafe Schindler, Risa Wechsler. ApJ.
+
+"The Spitzer-HETDEX Exploratory Large-area Survey," Papovich et al., with Marco Viero, Risa Wechsler. ApJS.
+
+"BICEP2 / Keck Array VIII: Measurement of gravitational lensing from large-scale B-mode polarization," Keck Array et al., with Zeeshan Ahmed, James Grayson, Kent Irwin, Ethan Karpel, Sarah Kernasovskiy, Chao-Lin Kuo, Toshiya Namikawa, Walter Ogburn, Keith Thompson, Jamie Tolan, Kimmy Wu, Ki Won Yoon. arXiv.
+
+"Suzaku observations of a shock front tracing the western edge of the giant radio halo in the Coma Cluster," Uchida et al., with Norbert Werner, Steve Allen, Ondrej Urban. PASJ.
+
+"Strong CMB Constraint On P-Wave Annihilating Dark Matter," Hongjun An et al. arXiv.
+
+"Productive Interactions: heavy particles and non-Gaussianity," Flauger et al., with Leonardo Senatore, Eva Silverstein. arXiv.
+
+"Solar energetic particle access to distant longitudes through turbulent field-line meandering," Laitinen et al., with Frederic Effenberger. A&amp;A.
+
+"Search for light scalar dark matter with atomic gravitational wave detectors," Arvanitaki et al., with Peter Graham. arXiv.
+
+"The Evolution of Active Galactic Nuclei in Clusters of Galaxies from the Dark Energy Survey," Bufanda et al., with Eli Rykoff, Daniel Gruen. arXiv.
+
+"Quantum phase magnification," Hosten et al., with Rajiv Krishnakumar, Mark Kasevich. Sci.
+
+"Measurement of D⁎±, D± and Ds± meson production cross sections in pp collisions at √{ s} = 7 TeV with the ATLAS detector," Aad et al., with Steve Kahn. NuPhB.
+
+"Compact symmetric objects and supermassive binary black holes in the VLBA Imaging and Polarimetry Survey," Tremblay et al., with Roger Romani. MNRAS.
+
+"The distribution of dark and luminous matter in the unique galaxy cluster merger Abell 2146," King et al., with Rebecca Canning. MNRAS.
+
+"Properties of the Binary Black Hole Merger GW150914," Abbott et al., with Robert Byer. PhRvL.
+
+"Conceptual design of X band waveguide dual circular polarizer," Xu et al., with Sami Tantawi. PhRvS.
+
+"Nulling Data Reduction and On-sky Performance of the Large Binocular Telescope Interferometer," Defrère et al., with Vanessa Bailey. ApJ.
+
+"Sensitivity projections for dark matter searches with the Fermi large area telescope," Charles et al., with Mattia di Mauro, Andrea Albert, Elliott Bloom, Seth Digel. PhR.
+
+"H0LiCOW I. H0 Lenses in COSMOGRAIL's Wellspring: Program Overview," Suyu et al., with Phil Marshall, Roger Blandford. arXiv.
+
+"Modeling the distribution of dark matter and its connection to galaxies," Yao-Yuan Mao. PhDT.
+
+"Search for transient gravitational waves in coincidence with short-duration radio transients during 2007-2013," Abbott et al., with Robert Byer. PhRvD.
+
+"Supplement: The Rate of Binary Black Hole Mergers Inferred from Advanced LIGO Observations Surrounding GW150914," The LIGO Scientific Collaboration, with Robert Byer. arXiv.
+
+"GW151226: Observation of Gravitational Waves from a 22-Solar-Mass Binary Black Hole Coalescence," Abbott et al., with Robert Byer. PhRvL.
+
+"Compact rf polarizer and its application to pulse compression systems," Franzi et al., with Sami Tantawi. PhRvS.
+
+"Bayesian Analysis of Cosmic Ray Propagation: Evidence against Homogeneous Diffusion," Jóhannesson et al., with Igor Moskalenko, Elena Orlando, Troy Porter. ApJ.
+
+"Cosmological attractors and asymptotic freedom of the inflaton field," Renata Kallosh, Andrei Linde. JCAP.
+
+"Measurement of the neutral D meson mixing parameters in a time-dependent amplitude analysis of the D0→π+π-π0 decay," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Patricia Burchat. PhRvD.
+
+"Science Impacts of the SPHEREx All-Sky Optical to Near-Infrared Spectral Survey: Report of a Community Workshop Examining Extragalactic, Galactic, Stellar and Planetary Science," Doré et al., with Elisabeth Krause, Marco Viero. arXiv.
+
+"Sussing merger trees: stability and convergence," Wang et al., with Yao-Yuan Mao. MNRAS.
+
+"Readout of two-kilopixel transition-edge sensor arrays for Advanced ACTPol," Henderson et al., with Saptarshi Chaudhuri, Kent Irwin, Dale Li. arXiv.
+
+"A search for very high-energy flares from the microquasars GRS 1915+105, Circinus X-1, and V4641 Sgr using contemporaneous H.E.S.S. and RXTE observations," H. E. S. S. Collaboration, with Hirokazu Odaka. arXiv.
+
+"Quasiparticle Transport in Thick Aluminum Films Coupled to Tungsten Transition Edge Sensors," Yen et al., with Blas Cabrera, Paul Brink. JLTP.
+
+"Development of a Microwave SQUID-Multiplexed TES Array for MUSTANG-2," Stanchfield et al., with Kent Irwin. JLTP.
+
+"Simultaneous Constraints on Cosmology and Photometric Redshift Bias from Weak Lensing and Galaxy Clustering," Samuroff et al., with Elisabeth Krause. arXiv.
+
+"The DarkSide Program," Rossi et al., with Maria Elena Monzani. EPJWC.
+
+"Revision of the LHCb Limit on Majorana Neutrinos," Shuve, Michael Peskin. arXiv.
+
+"Search for single production of a vector-like quark via a heavy gluon in the 4b final state with the ATLAS detector in pp collisions at √{ s} = 8 TeV," Aad et al., with Steve Kahn. PhLB.
+
+"Galaxy bias from the Dark Energy Survey Science Verification data: combining galaxy density maps and weak lensing maps," Chang et al., with Matthew Becker, David Burke, Daniel Gruen, Kevin Reil, Aaron Roodman, Eli Rykoff. MNRAS.
+
+"Optical Demonstration of THz, Dual-Polarization Sensitive Microwave Kinetic Inductance Detectors," Dober et al., with Kent Irwin. JLTP.
+
+"Local Helioseismology of Emerging Active Regions: A Case Study," Sasha Kosovichev et al. arXiv.
+
+"BICEP3 focal plane design and detector performance," Hui et al., with Zeeshan Ahmed, James Grayson, Kent Irwin, Ethan Karpel, Sarah Kernasovskiy, Chao-Lin Kuo, Toshiya Namikawa, Walter Ogburn, Keith Thompson, Jamie Tolan, Kimmy Wu, Ki Won Yoon. arXiv.
+
+"Implications of the 750 GeV gamma-gamma Resonance as a Case Study for the International Linear Collider," Fujii et al., with Michael Peskin. arXiv.
+
+"VDES J2325-5229 a z=2.7 gravitationally lensed quasar discovered using morphology independent supervised machine learning," Ostrovski et al., with Daniel Gruen, Kevin Reil. arXiv.
+
+"Polarization Sensitive Multi-Chroic MKIDs," Johnson et al., with Kent Irwin, Sarah Kernasovskiy, Dale Li. arXiv.
+
+"Detection of the pairwise kinematic Sunyaev-Zel'dovich effect with BOSS DR11 and the Atacama Cosmology Telescope," De Bernardis et al., with Kent Irwin. arXiv.
+
+"Ground Testing and Flight Demonstration of Charge Management of Insulated Test Masses Using UV LED Electron Photoemission," Saraf et al., with Robert Byer. arXiv.
+
+"Theory of electromagnetic insertion devices and the corresponding synchrotron radiation," Shumail, Sami Tantawi. PhRvS.
+
+"Developments in Time-Division Multiplexing of X-ray Transition-Edge Sensors," Doriese et al., with Kent Irwin. JLTP.
+
+"Looking through the same lens: shear calibration for LSST, Euclid & WFIRST with stage 4 CMB lensing," Schaan et al., with Elisabeth Krause. arXiv.
+
+"Fermi Large Area Telescope Detection of Extended Gamma-Ray Emission from the Radio Galaxy Fornax A," Ackermann et al., with Roger Blandford, Elliott Bloom, Rob Cameron, Seth Digel, Mattia di Mauro, Warren Focke, Gary Godfrey, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Elena Orlando, Troy Porter, Jana Thayer, Giacomo Vianello. ApJ.
+
+"Cosmology from cosmic shear with Dark Energy Survey Science Verification data," Abbott et al., with Matthew Becker, David Burke, Elisabeth Krause, Aaron Roodman, Eli Rykoff, Risa Wechsler. PhRvD.
+
+"An optimal energy estimator to reduce correlated noise for the EXO-200 light readout," Davis et al., with Giorgio Gratta, James Russell. JInst.
+
+"The quiescent intracluster medium in the core of the Perseus cluster," Hitomi Collaboration, with Steve Allen, Roger Blandford, Ashley King, Greg Madejski, Norbert Werner, Irina Zhuravleva. Natur.
+
+"Localization and Broadband Follow-up of the Gravitational-wave Transient GW150914," Abbott et al., with Seth Digel, Elena Orlando. ApJ.
+
+"197 Candidates and 104 Validated Planets in K2's First Five Fields," Crossfield et al., with Vanessa Bailey. arXiv.
+
+"Cosmic shear measurements with Dark Energy Survey Science Verification data," Matthew Becker et al., with Elisabeth Krause, Eli Rykoff, Risa Wechsler, David Burke, Kevin Reil, Aaron Roodman. PhRvD.
+
+"Crowdsourcing quality control for Dark Energy Survey images," Melchior et al., with Eli Rykoff. A&amp;C.
+
+"On inflation, cosmological constant, and SUSY breaking," Andrei Linde. arXiv.
+
+"Supplement: “Localization and Broadband Follow-up of the Gravitational-wave Transient GW150914” (2016, ApJL, 826, L13)," Abbott et al., with Seth Digel, Elena Orlando. ApJS.
+
+"IC at IC: IceCube can constrain the intrinsic charm of the proton," Ranjan Laha et al. arXiv.
+
+"Searching for high-energy gamma-ray counterparts to Gravitational Wave sources with Fermi-LAT: a needle in a haystack," Giacomo Vianello, Nicola Omodei, Jim Chiang. arXiv.
+
+"All orders results for self-crossing Wilson loops mimicking double parton scattering," Lance Dixon et al. JHEP.
+
+"H0LiCOW IV. Lens mass model of HE 0435-1223 and blind measurement of its time-delay distance for cosmology," Wong et al., with Phil Marshall. arXiv.
+
+"Optical Characterization of the BICEP3 CMB Polarimeter at the South Pole," Karkare et al., with Zeeshan Ahmed, James Grayson, Kent Irwin, Ethan Karpel, Sarah Kernasovskiy, Chao-Lin Kuo, Toshiya Namikawa, Walter Ogburn, Keith Thompson, Jamie Tolan, Kimmy Wu, Ki Won Yoon. arXiv.
+
+"Mechanical design and development of TES bolometer detector arrays for the Advanced ACTPol experiment," Ward et al., with Dale Li. arXiv.
+
+"The International Deep Planet Survey II: The frequency of directly imaged giant exoplanets with stellar mass," Galicher et al., with Bruce Macintosh. arXiv.
+
+"A statistical investigation of the mass discrepancy-acceleration relation," Harry Desmond. arXiv.
+
+"Search for a muonic dark force at BaBar," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Patricia Burchat. PhRvD.
+
+"Hitomi constraints on the 3.5 keV line in the Perseus galaxy cluster," Hitomi Collaboration, with Steve Allen, Roger Blandford, Ashley King, Greg Madejski, Hirokazu Odaka, Norbert Werner, Irina Zhuravleva. arXiv.
+
+"Response to "Verifying quantum superpositions at metre scales"," Kovachy et al., with Mark Kasevich. arXiv.
+
+"Tests of C P T symmetry in B0-B̄ 0 mixing and in B0→c c ̄K0 decays," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Patricia Burchat. PhRvD.
+
+"Spacetime Dynamics of a Higgs Vacuum Instability During Inflation," William East et al. arXiv.
+
+"The Primordial Inflation Polarization Explorer (PIPER)," Gandilo et al., with Kent Irwin. arXiv.
+
+"BICEP3 performance overview and planned Keck Array upgrade," James Grayson et al., with Zeeshan Ahmed, Kent Irwin, Ethan Karpel, Sarah Kernasovskiy, Chao-Lin Kuo, Toshiya Namikawa, Walter Ogburn, Keith Thompson, Jamie Tolan, Kimmy Wu, Ki Won Yoon. arXiv.
+
+"Characterization of transient noise in Advanced LIGO relevant to gravitational wave signal GW150914," Abbott et al., with Robert Byer. CQGra.
+
+"Exploring the Sensitivity of Next Generation Gravitational Wave Detectors," Evans et al., with Robert Byer. arXiv.
+
+"Binary Black Holes, Gas Sloshing, and Cold Fronts in the X-Ray Halo Hosting 4C+37.11," Andrade-Santos et al., with Roger Romani. ApJ.
+
+"TARGET 5: a new multi-channel digitizer with triggering capabilities for gamma-ray atmospheric Cherenkov telescopes," Andrea Albert et al. arXiv.
+
+"H0LiCOW V. New COSMOGRAIL time delays of HE0435-1223: $H_0$ to 3.8% precision from strong lensing in a flat $\Lambda$CDM model," Bonvin et al., with Phil Marshall. arXiv.
+
+"H0LiCOW III. Quantifying the effect of mass along the line of sight to the gravitational lens HE 0435-1223 through weighted galaxy counts," Rusu et al., with Phil Marshall. arXiv.
+
+"Off-Diagonal Deformations of Kerr Metrics and Black Ellipsoids in Heterotic Supergravity," Vacaru, Kent Irwin. arXiv.
+
+"Upper limits on the rates of binary neutron star and neutron-star--black-hole mergers from Advanced LIGO's first observing run," The LIGO Scientific Collaboration, with Robert Byer. arXiv.
+
+"Detecting black-hole binary clustering via the second-generation gravitational-wave detectors," Toshiya Namikawa et al. PhRvD.
+
+"Search for dark matter annihilations towards the inner Galactic halo from 10 years of observations with H.E.S.S," H. E. S. S. Collaboration, with Hirokazu Odaka. arXiv.
+
+"Detection of the Splashback Radius and Halo Assembly Bias of Massive Galaxy Clusters," More et al., with Eli Rykoff. ApJ.
+
+"NuSTAR, Swift, and GROND Observations of the Flaring MeV Blazar PMN J0641−0320," Ajello et al., with Greg Madejski. ApJ.
+
+"RHAPSODY-G simulations - II. Baryonic growth and metal enrichment in massive galaxy clusters," Martizzi et al., with Risa Wechsler. MNRAS.
+
+"AlMn Transition Edge Sensors for Advanced ACTPol," Dale Li et al. JLTP.
+
+"Search for continuous gravitational waves from neutron stars in globular cluster NGC 6544," Abbott et al., with Robert Byer. arXiv.
+
+"Sneutrino Inflation with $\alpha$-attractors," Renata Kallosh et al., with Andrei Linde. arXiv.
+
+"The Orbit and Transit Prospects for $\beta$ Pictoris b constrained with One Milliarcsecond Astrometry," Wang et al., with Jean-Baptiste Ruffio, Vanessa Bailey, Kate Follette, Bruce Macintosh. arXiv.
+
+"H0LiCOW II. Spectroscopic survey and galaxy-group identification of the strong gravitational lens system HE0435-1223," Sluse et al., with Phil Marshall. arXiv.
+
+"Optical modeling and polarization calibration for CMB measurements with ACTPol and Advanced ACTPol," Koopman et al., with Kent Irwin, Dale Li. arXiv.
+
+"Sensitivity of the Fe K-alpha Compton shoulder to the geometry and variability of the X-ray illumination of cosmic objects," Hirokazu Odaka et al. arXiv.
+
+"BICEP2/Keck Array. VII. Matrix Based E/B Separation Applied to Bicep2 and the Keck Array," BICEP2 Collaboration, with Zeeshan Ahmed, James Grayson, Kent Irwin, Ethan Karpel, Chao-Lin Kuo, Toshiya Namikawa, Walter Ogburn, Keith Thompson, Jamie Tolan, Kimmy Wu, Ki Won Yoon. ApJ.
+
+"On a New Approach for Constructing Wormholes in Einstein-Born-Infeld Gravity," Ji-Hoon Kim et al. arXiv.
+
+"Quantum Complexity and Negative Curvature," Brown et al., with Leonard Susskind. arXiv.
+
+"The evolution in the stellar mass of brightest cluster galaxies over the past 10 billion years," Bellstedt et al., with Noah Kurinsky. MNRAS.
+
+"Updated baseline for a staged Compact Linear Collider," CLIC et al., with Sami Tantawi. arXiv.
+
+"The DES Science Verification weak lensing shear catalogues," Jarvis et al., with Matthew Becker, Eli Rykoff, David Burke, Kevin Reil, Aaron Roodman, Risa Wechsler. MNRAS.
+
+"Tidal stripping as a test of satellite quenching in redMaPPer clusters," Fang et al., with Eli Rykoff. MNRAS.
+
+"Cosmology constraints from shear peak statistics in Dark Energy Survey Science Verification data," Kacprzak et al., with Matthew Becker, Elisabeth Krause, David Burke, Aaron Roodman, Eli Rykoff. MNRAS.
+
+"Dark Sectors 2016 Workshop: Community Report," Alexander et al., with Dan Akerib, Hongjun An, Concetta Cartaro, Saptarshi Chaudhuri, Kent Irwin, Noah Kurinsky, Ranjan Laha, Dale Li, Maria Elena Monzani, Michael Peskin. arXiv.
+
+"Observables Processing for the Helioseismic and Magnetic Imager Instrument on the Solar Dynamics Observatory," Couvidat et al., with Phil Scherrer. SoPh.
+
+"Testing statistics of the CMB B -mode polarization toward unambiguously establishing quantum fluctuation of the vacuum," Shiraishi et al., with Toshiya Namikawa. PhRvD.
+
+"Search for Neutrinos in Super-Kamiokande associated with Gravitational Wave Events GW150914 and GW151226," Abe et al., with Ji-Hoon Kim. arXiv.
+
+"Discovery of a Substellar Companion to the Nearby Debris Disk Host HR 2562," Konopacky et al., with Vanessa Bailey, Kate Follette, Bruce Macintosh. arXiv.
+
+"Characteristics of Four Upward-Pointing Cosmic-Ray-like Events Observed with ANITA," Gorham et al., with Kevin Reil. PhRvL.
+
+"Origin of central abundances in the hot intra-cluster medium - II. Chemical enrichment and supernova yield models," Mernier et al., with Norbert Werner. arXiv.
+
+"Astrometric Monitoring of the HR 8799 Planets: Orbit Constraints from Self-consistent Measurements," Konopacky et al., with Bruce Macintosh. AJ.
+
+"Universal bounds on charged states in 2d CFT and 3d gravity," Benjamin et al., with Shamit Kachru. JHEP.
+
+"Comprehensive all-sky search for periodic gravitational waves in the sixth science run LIGO data," Abbott et al., with Robert Byer. PhRvD.
+
+"Supernova Physics at DUNE," Ankowski et al., with Ranjan Laha. arXiv.
+
+"Performance of Backshort-Under-Grid Kilopixel TES Arrays for HAWC+," Staguhn et al., with Kent Irwin. JLTP.
+
+"The faint end of the 250 μm luminosity function at z 〈 0.5," Wang et al., with Marco Viero. A&amp;A.
+
+"Data-driven Radiative Hydrodynamic Modeling of the 2014 March 29 X1.0 Solar Flare," Fatima Rubio da Costa et al., with Vahe Petrosian. ApJ.
+
+"LiteBIRD: Mission Overview and Focal Plane Layout," Matsumura et al., with Kent Irwin, Chao-Lin Kuo. JLTP.
+
+"The Dark Energy Survey: more than dark energy - an overview," Dark Energy Survey Collaboration, with David Burke, Daniel Gruen, Aaron Roodman, Eli Rykoff, Risa Wechsler. MNRAS.
+
+"The Dark Energy Survey view of the Sagittarius stream: Discovery of two faint stellar system candidates," Luque et al., with David Burke, Daniel Gruen. arXiv.
+
+"Extreme asymmetry in the polarized disk of V1247 Orionis*," Ohta et al., with Kate Follette. PASJ.
+
+"Search for charged Higgs bosons produced in association with a top quark and decaying via H± → τν using pp collision data recorded at √{ s} = 13 TeV by the ATLAS detector," Aaboud et al., with Steve Kahn. PhLB.
+
+"Calibrating the Planck Cluster Mass Scale with CLASH," Penna-Lima et al., with Eli Rykoff. arXiv.
+
+"The Peculiar Debris Disk of HD 111520 as Resolved by the Gemini Planet Imager," Draper et al., with Kate Follette, Bruce Macintosh. ApJ.
+
+"Observation and Confirmation of Six Strong-lensing Systems in the Dark Energy Survey Science Verification Data," Nord et al., with Mandeep S. S. Gill, Eli Rykoff, David Burke. ApJ.
+
+"Inference from the small scales of cosmic shear with current and future Dark Energy Survey data," MacCrann et al., with Risa Wechsler, David Burke, Daniel Gruen, Elisabeth Krause, Eli Rykoff. arXiv.
+
+"SDSS-IV eBOSS emission-line galaxy pilot survey," Comparat et al., with Kevin Reil, Aaron Roodman, Eli Rykoff. A&amp;A.
+
+"Radio Detection Prospects for a Bulge Population of Millisecond Pulsars as Suggested by Fermi-LAT Observations of the Inner Galaxy," Calore et al., with Mattia di Mauro. ApJ.
+
+"Discrete knot ejection from the jet in a nearby low-luminosity active galactic nucleus, M81*," Ashley King et al. NatPh.
+
+"The basic physics of the binary black hole merger GW150914," The LIGO Scientific Collaboration, with Robert Byer. arXiv.
+
+"Results from a search for dark matter in LUX with 332 live days of exposure," Dan Akerib et al., with Tomasz Biesiadzinski, Rosemary Bramante, Christina Ignarra, Kimberly Jackson Palladino, Tom Shutt, Thomas Whitis. arXiv.
+
+"Search for resonances in the mass distribution of jet pairs with one or two jets identified as b-jets in proton-proton collisions at √{ s} = 13 TeV with the ATLAS detector," Aaboud et al., with Steve Kahn. PhLB.
+
+"Instrumental performance and results from testing of the BLAST-TNG receiver, submillimeter optics, and MKID arrays," Galitzki et al., with Kent Irwin, Dale Li. arXiv.
+
+"Kinetic Simulations of the Lowest-order Unstable Mode of Relativistic Magnetostatic Equilibria," Krzysztof Nalewajko, Jonathan Zrake, Yajie Yuan, William East, Roger Blandford. ApJ.
+
+"Origin of central abundances in the hot intra-cluster medium. I. Individual and average abundance ratios from XMM-Newton EPIC," Mernier et al., with Norbert Werner. A&amp;A.
+
+"ALMA Imaging and Gravitational Lens Models of South Pole Telescope—Selected Dusty, Star-Forming Galaxies at High Redshifts," Spilker et al., with Yashar Hezaveh. ApJ.
+
+"Comparing Dark Energy Survey and HST-CLASH observations of the galaxy cluster RXC J2248.7-4431: implications for stellar mass versus dark matter," Palmese et al., with Daniel Gruen, Eli Rykoff, David Burke, Aaron Roodman. MNRAS.
+
+"Testing the lognormality of the galaxy and weak lensing convergence distributions from Dark Energy Survey maps," Clerkin et al., with David Burke, Aaron Roodman. MNRAS.
+
+"Superconducting Pathways Through Kilopixel Backshort-Under-Grid Arrays," Jhabvala et al., with Kent Irwin. JLTP.
+
+"Spectral analysis of four 'hypervariable' AGN: a micro-needle in the haystack?," Bruce et al., with Phil Marshall. arXiv.
+
+"Initial Performance of Bicep3: A Degree Angular Scale 95 GHz Band Polarimeter," Kimmy Wu et al., with Zeeshan Ahmed, James Grayson, Kent Irwin, Ethan Karpel, Sarah Kernasovskiy, Chao-Lin Kuo, Walter Ogburn, Keith Thompson, Jamie Tolan, Ki Won Yoon. JLTP.
+
+"Arithmetic with X-ray images of galaxy clusters: effective equation of state for small-scale perturbations in the ICM," Churazov et al., with Irina Zhuravleva. MNRAS.
+
+"Galaxy cluster mass estimation from stacked spectroscopic analysis," Farahi et al., with Risa Wechsler. MNRAS.
+
+"A NuSTAR Observation of the Reflection Spectrum of the Low-mass X-Ray Binary 4U 1728-34," Sleator et al., with Ashley King. ApJ.
+
+"High fidelity point-spread function retrieval in the presence of electrostatic, hysteretic pixel response," Andrew Rasmussen et al., with Kirk Gilmore. arXiv.
+
+"Statistical Analysis of Acoustic Wave Parameters Near Solar Active Regions," Rabello-Soares et al., with Phil Scherrer. ApJ.
+
+"A DECam Search for an Optical Counterpart to the LIGO Gravitational-wave Event GW151226," Cowperthwaite et al., with Mandeep S. S. Gill, David Burke, Daniel Gruen, Elisabeth Krause, Kevin Reil. ApJ.
+
+"The SuperCDMS SNOLAB Detector Tower," Tsugio Aramaki. JLTP.
+
+"Advanced ACTPol Cryogenic Detector Arrays and Readout," Henderson et al., with Kent Irwin. JLTP.
+
+"Low-energy (0.7-74 keV) nuclear recoil calibration of the LUX dark matter experiment using D-D neutron scattering kinematics," LUX Collaboration, with Dan Akerib, Tomasz Biesiadzinski, Rosemary Bramante, Christina Ignarra, Kimberly Jackson Palladino, Tom Shutt, Thomas Whitis. arXiv.
+
+"Bosonization and Mirror Symmetry," Shamit Kachru et al. arXiv.
+
+"Deep Chandra study of the truncated cool core of the Ophiuchus cluster," Norbert Werner et al., with Irina Zhuravleva, Rebecca Canning, Steve Allen, Glenn Morris. MNRAS.

@@ -28,13 +28,13 @@
 
 "Supersymmetric dark matter in the harsh light of the Large Hadron Collider," Michael Peskin. PNAS.
 
-"Measurement of exclusive γγ →ℓ<SUP>+</SUP>ℓ<SUP>-</SUP> production in proton-proton collisions at √{ s} = 7 TeV with the ATLAS detector," Aad et al., with Steve Kahn. PhLB.
+"Measurement of exclusive γγ →ℓ+ℓ- production in proton-proton collisions at √{ s} = 7 TeV with the ATLAS detector," Aad et al., with Steve Kahn. PhLB.
 
 "The one-loop matter bispectrum in the Effective Field Theory of Large Scale Structures," Angulo et al., with Simon Foreman, Leonardo Senatore. JCAP.
 
 "Search for Extended Gamma-Ray Emission from the Virgo Galaxy Cluster with FERMI-LAT," Ackermann et al., with Andrea Albert, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Seth Digel, Warren Focke, Thomas Glanzman, Gary Godfrey, Tony Johnson, Peter Michelson, Maria Elena Monzani, Igor Moskalenko, Elena Orlando, Vahe Petrosian, Troy Porter, Jana Thayer, Giacomo Vianello. ApJ.
 
-"The Massive and Distant Clusters of WISE Survey: MOO J1142+1527, a 10<SUP>15</SUP> M<SUB>☉</SUB> Galaxy Cluster at z = 1.19," Gonzalez et al., with Adam Mantz. ApJ.
+"The Massive and Distant Clusters of WISE Survey: MOO J1142+1527, a 1015 M☉ Galaxy Cluster at z = 1.19," Gonzalez et al., with Adam Mantz. ApJ.
 
 "Non-Gaussian structure of B-mode polarization after delensing," Toshiya Namikawa et al. JCAP.
 
@@ -50,7 +50,7 @@
 
 "Measurements of the atmospheric neutrino flux by Super-Kamiokande: energy spectra, geomagnetic effects, and solar modulation," Richard et al., with Ji-Hoon Kim. arXiv.
 
-"Study of the e<SUP>+</SUP>e<SUP>-</SUP>→K<SUP>+</SUP>K<SUP>-</SUP> reaction in the energy range from 2.6 to 8.0 GeV," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+"Study of the e+e-→K+K- reaction in the energy range from 2.6 to 8.0 GeV," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
 
 "Separation of electrons and protons in the GAMMA-400 gamma-ray telescope," Leonov et al., with Igor Moskalenko. AdSpR.
 
@@ -74,7 +74,7 @@
 
 "Discovery and spectroscopy of the young jovian planet 51 Eri b with the Gemini Planet Imager," Bruce Macintosh et al., with Kate Follette, Jean-Baptiste Ruffio. Sci.
 
-"Measurement of initial-state-final-state radiation interference in the processes e<SUP>+</SUP>e<SUP>-</SUP>→μ<SUP>+</SUP>μ<SUP>-</SUP>γ and e<SUP>+</SUP>e<SUP>-</SUP>→π<SUP>+</SUP>π<SUP>-</SUP>γ," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+"Measurement of initial-state-final-state radiation interference in the processes e+e-→μ+μ-γ and e+e-→π+π-γ," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
 
 "Gemini Planet Imager Observations of the AU Microscopii Debris Disk: Asymmetries within One Arcsecond," Wang et al., with Bruce Macintosh. ApJ.
 
@@ -222,7 +222,7 @@
 
 "Searching for Dark Matter Annihilation from Milky Way Dwarf Spheroidal Galaxies with Six Years of Fermi Large Area Telescope Data," Ackermann et al., with Andrea Albert, Roger Blandford, Elliott Bloom, Eugenio Bottacini, Rob Cameron, Jim Chiang, Seth Digel, Warren Focke, Thomas Glanzman, Gary Godfrey, Peter Michelson, Maria Elena Monzani, Elena Orlando, Troy Porter, Jana Thayer, Giacomo Vianello. PhRvL.
 
-"Measurement of the branching ratio Γ (Λ<SUB>b</SUB><SUP>0</SUP> → ψ (2 S)Λ<SUP>0</SUP>) / Γ (Λ<SUB>b</SUB><SUP>0</SUP> → J / ψΛ<SUP>0</SUP>) with the ATLAS detector," Aad et al., with Steve Kahn. PhLB.
+"Measurement of the branching ratio Γ (Λb0 → ψ (2 S)Λ0) / Γ (Λb0 → J / ψΛ0) with the ATLAS detector," Aad et al., with Steve Kahn. PhLB.
 
 "Quantum superposition at the half-metre scale," Kovachy et al., with Mark Kasevich. Natur.
 
@@ -234,7 +234,7 @@
 
 "The Gemini Planet Imager Exoplanet Survey (GPIES) Campaign Initial Results," Patience et al., with Bruce Macintosh. ESS.
 
-"Collins asymmetries in inclusive charged K K and K π pairs produced in e<SUP>+</SUP>e<SUP>-</SUP> annihilation," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+"Collins asymmetries in inclusive charged K K and K π pairs produced in e+e- annihilation," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
 
 "Very High Energy γ-Rays from the Universe's Middle Age: Detection of the z = 0.940 Blazar PKS 1441+25 with MAGIC," Ahnen et al., with Roger Blandford, Rob Cameron, Jim Chiang, Maria Elena Monzani, Igor Moskalenko, Nicola Omodei, Elena Orlando, Troy Porter, Jana Thayer. ApJ.
 
@@ -286,7 +286,7 @@
 
 "A new ATLAS muon CSC readout system with system on chip technology on ATCA platform," Bartoldus et al., with James Russell. JInst.
 
-"Observation of B ̄ →D<SUP>(*)</SUP> π<SUP>+</SUP>π<SUP>-</SUP>ℓ<SUP>-</SUP>ν ̄ Decays in e<SUP>+</SUP>e<SUP>-</SUP> Collisions at the Υ (4 S ) Resonance," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvL.
+"Observation of B ̄ →D(*) π+π-ℓ-ν ̄ Decays in e+e- Collisions at the Υ (4 S ) Resonance," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvL.
 
 "Constraints on dark matter annihilation to fermions and a photon," Chowdhury et al., with Ranjan Laha. arXiv.
 
@@ -320,7 +320,7 @@
 
 "CosmoLike - Cosmological Likelihood Analyses for Photometric Galaxy Surveys," Elisabeth Krause et al. arXiv.
 
-"Measurement of the I =1 /2 K π S -wave amplitude from Dalitz plot analyses of η<SUB>c</SUB>→K K ̄π in two-photon interactions," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Patricia Burchat. PhRvD.
+"Measurement of the I =1 /2 K π S -wave amplitude from Dalitz plot analyses of ηc→K K ̄π in two-photon interactions," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Patricia Burchat. PhRvD.
 
 "Galaxies in X-Ray Selected Clusters and Groups in Dark Energy Survey Data. I. Stellar Mass Growth of Bright Central Galaxies since z~1.2," Zhang et al., with David Burke, Aaron Roodman, Eli Rykoff. ApJ.
 
@@ -388,13 +388,13 @@
 
 "Two Small Temperate Planets Transiting Nearby M Dwarfs in K2 Campaigns 0 and 1," Schlieder et al., with Vanessa Bailey. ApJ.
 
-"The 31 Deg<SUP>2</SUP> Release of the Stripe 82 X-Ray Survey: The Point Source Catalog," LaMassa et al., with Marco Viero. ApJ.
+"The 31 Deg2 Release of the Stripe 82 X-Ray Survey: The Point Source Catalog," LaMassa et al., with Marco Viero. ApJ.
 
 "New Results from the Search for Low-Mass Weakly Interacting Massive Particles with the CDMS Low Ionization Threshold Experiment," Agnese et al., with Tsugio Aramaki, Makoto Asai, Anders Borgland, Paul Brink, Blas Cabrera, Gary Godfrey, Richard Partridge, Kristi Schneck. PhRvL.
 
 "The PDS 66 Circumstellar Disk as Seen in Polarized Light with the Gemini Planet Imager," Wolff et al., with Bruce Macintosh. ApJ.
 
-"Search for mixing-induced C P violation using partial reconstruction of B<SUP>̄ 0</SUP>→D<SUP>*+</SUP>X ℓ<SUP>-</SUP>ν<SUB>̄ ℓ</SUB> and kaon tagging," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+"Search for mixing-induced C P violation using partial reconstruction of B̄ 0→D*+X ℓ-ν̄ ℓ and kaon tagging," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
 
 "The LEECH Exoplanet Imaging Survey: Orbit and Component Masses of the Intermediate-age, Late-type Binary NO UMa," Schlieder et al., with Vanessa Bailey. ApJ.
 
@@ -416,7 +416,7 @@
 
 "Galaxy clustering, photometric redshifts and diagnosis of systematics in the DES Science Verification data," Crocce et al., with Eli Rykoff, David Burke, Risa Wechsler. MNRAS.
 
-"Time-dependent analysis of B<SUP>0</SUP>→K<SUB>S</SUB><SUP>0</SUP>π<SUP>-</SUP>π<SUP>+</SUP>γ decays and studies of the K<SUP>+</SUP>π<SUP>-</SUP>π<SUP>+</SUP> system in B<SUP>+</SUP>→K<SUP>+</SUP>π<SUP>-</SUP>π<SUP>+</SUP>γ decays," Del Amo Sanchez et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+"Time-dependent analysis of B0→KS0π-π+γ decays and studies of the K+π-π+ system in B+→K+π-π+γ decays," Del Amo Sanchez et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
 
 "The veto system of the DarkSide-50 experiment," Agnes et al., with Maria Elena Monzani. JInst.
 
@@ -424,7 +424,7 @@
 
 "Isotropic at the Break? 3D Kinematics of Milky Way Halo Stars in the Foreground of M31," Cunningham et al., with Alis Deason. ApJ.
 
-"Search for 2 ν β β decay of <SUP>136</SUP>Xe to the 0<SUB>1</SUB><SUP>+</SUP> excited state of <SUP>136</SUP>Ba with the EXO-200 liquid xenon detector," Albert et al., with Giorgio Gratta, James Russell. PhRvC.
+"Search for 2 ν β β decay of 136Xe to the 01+ excited state of 136Ba with the EXO-200 liquid xenon detector," Albert et al., with Giorgio Gratta, James Russell. PhRvC.
 
 "Cosmology and astrophysics from relaxed galaxy clusters - III. Thermodynamic profiles and scaling relations," Adam Mantz et al., with Steve Allen, Glenn Morris. MNRAS.
 
@@ -468,7 +468,7 @@
 
 "The Phoenix Stream: A Cold Stream in the Southern Hemisphere," Balbinot et al., with David Burke. ApJ.
 
-"Measurement of angular asymmetries in the decays B →K<SUP>*</SUP>ℓ<SUP>+</SUP>ℓ<SUP>-</SUP>," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
+"Measurement of angular asymmetries in the decays B →K*ℓ+ℓ-," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Rafe Schindler, Patricia Burchat. PhRvD.
 
 "High power tests of an electroforming cavity operating at 11.424 GHz," Dolgashev et al., with Sami Tantawi. JInst.
 
@@ -692,7 +692,7 @@
 
 "The Solar Solution: Tracking the Sun with Low Energy Neutrinos," Nicole Hartman et al. arXiv.
 
-"Magellan AO System z′, Y <SUB> S </SUB>, and L′ Observations of the Very Wide 650 AU HD 106906 Planetary System," Wu et al., with Vanessa Bailey, Kate Follette. ApJ.
+"Magellan AO System z′, Y  S , and L′ Observations of the Very Wide 650 AU HD 106906 Planetary System," Wu et al., with Vanessa Bailey, Kate Follette. ApJ.
 
 "Evidence for the thermal Sunyaev-Zel'dovich effect associated with quasar feedback," Crichton et al., with Marco Viero. MNRAS.
 
@@ -812,7 +812,7 @@
 
 "Quantum phase magnification," Hosten et al., with Rajiv Krishnakumar, Mark Kasevich. Sci.
 
-"Measurement of D<SUP>⁎±</SUP>, D<SUP>±</SUP> and D<SUB>s</SUB><SUP>±</SUP> meson production cross sections in pp collisions at √{ s} = 7 TeV with the ATLAS detector," Aad et al., with Steve Kahn. NuPhB.
+"Measurement of D⁎±, D± and Ds± meson production cross sections in pp collisions at √{ s} = 7 TeV with the ATLAS detector," Aad et al., with Steve Kahn. NuPhB.
 
 "Compact symmetric objects and supermassive binary black holes in the VLBA Imaging and Polarimetry Survey," Tremblay et al., with Roger Romani. MNRAS.
 
@@ -842,7 +842,7 @@
 
 "Cosmological attractors and asymptotic freedom of the inflaton field," Renata Kallosh, Andrei Linde. JCAP.
 
-"Measurement of the neutral D meson mixing parameters in a time-dependent amplitude analysis of the D<SUP>0</SUP>→π<SUP>+</SUP>π<SUP>-</SUP>π<SUP>0</SUP> decay," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Patricia Burchat. PhRvD.
+"Measurement of the neutral D meson mixing parameters in a time-dependent amplitude analysis of the D0→π+π-π0 decay," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Patricia Burchat. PhRvD.
 
 "Science Impacts of the SPHEREx All-Sky Optical to Near-Infrared Spectral Survey: Report of a Community Workshop Examining Extragalactic, Galactic, Stellar and Planetary Science," Doré et al., with Elisabeth Krause, Marco Viero. arXiv.
 
@@ -930,7 +930,7 @@
 
 "Response to "Verifying quantum superpositions at metre scales"," Kovachy et al., with Mark Kasevich. arXiv.
 
-"Tests of C P T symmetry in B<SUP>0</SUP>-B<SUP>̄ 0</SUP> mixing and in B<SUP>0</SUP>→c c ̄K<SUP>0</SUP> decays," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Patricia Burchat. PhRvD.
+"Tests of C P T symmetry in B0-B̄ 0 mixing and in B0→c c ̄K0 decays," Lees et al., with Concetta Cartaro, Walter Innes, Aaron Roodman, Patricia Burchat. PhRvD.
 
 "Spacetime Dynamics of a Higgs Vacuum Instability During Inflation," William East et al. arXiv.
 
@@ -1030,7 +1030,7 @@
 
 "Extreme asymmetry in the polarized disk of V1247 Orionis*," Ohta et al., with Kate Follette. PASJ.
 
-"Search for charged Higgs bosons produced in association with a top quark and decaying via H<SUP>±</SUP> → τν using pp collision data recorded at √{ s} = 13 TeV by the ATLAS detector," Aaboud et al., with Steve Kahn. PhLB.
+"Search for charged Higgs bosons produced in association with a top quark and decaying via H± → τν using pp collision data recorded at √{ s} = 13 TeV by the ATLAS detector," Aaboud et al., with Steve Kahn. PhLB.
 
 "Calibrating the Planck Cluster Mass Scale with CLASH," Penna-Lima et al., with Eli Rykoff. arXiv.
 
@@ -1044,7 +1044,7 @@
 
 "Radio Detection Prospects for a Bulge Population of Millisecond Pulsars as Suggested by Fermi-LAT Observations of the Inner Galaxy," Calore et al., with Mattia di Mauro. ApJ.
 
-"Discrete knot ejection from the jet in a nearby low-luminosity active galactic nucleus, M81<SUP>*</SUP>," Ashley King et al. NatPh.
+"Discrete knot ejection from the jet in a nearby low-luminosity active galactic nucleus, M81*," Ashley King et al. NatPh.
 
 "The basic physics of the binary black hole merger GW150914," The LIGO Scientific Collaboration, with Robert Byer. arXiv.
 
@@ -1091,4 +1091,3 @@
 "Bosonization and Mirror Symmetry," Shamit Kachru et al. arXiv.
 
 "Deep Chandra study of the truncated cool core of the Ophiuchus cluster," Norbert Werner et al., with Irina Zhuravleva, Rebecca Canning, Steve Allen, Glenn Morris. MNRAS.
-
