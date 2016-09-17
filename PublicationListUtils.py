@@ -175,8 +175,10 @@ class Articles():
 
 
 
-def load_members_from_google_sheets(url):
-    url = 'https://docs.google.com/spreadsheets/d/1Ok5i25gibuLTHoRhGhmNMqTplMh--0-i4L_8cxzkUxI/export?format=csv&gid=0'
+def load_members_from_google_sheets(url=None):
+    if url is None:
+        # Default to 2014 member list
+        url = 'https://docs.google.com/spreadsheets/d/1Ok5i25gibuLTHoRhGhmNMqTplMh--0-i4L_8cxzkUxI/export?format=csv&gid=0'
     lines = urlopen(url).readlines()
     header = lines.pop(0).strip().split(',')
     members = Members()
@@ -259,4 +261,3 @@ def entry_formatter_html(bib, entry, formatted_authors):
         link += '[<a href="http://arxiv.org/abs/{}">arXiv</a>]'.format(bib[k]['eprint'])
     link += '[<a href="https://ui.adsabs.harvard.edu/#abs/{}/abstract">ADS</a>]'.format(k)
     return u'<li><i>"{},"</i> {}. {}</li>'.format(d['t'], formatted_authors, link)
-
