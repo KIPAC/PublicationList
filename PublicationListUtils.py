@@ -108,15 +108,15 @@ class Articles():
     def remove(self, bibcodes):
         if _isstring(bibcodes):
             bibcodes = [bibcodes]
-        bibcodes = set(bibcodes)
         keys = self._d.keys()
-        for k in keys:
-            del self._d[k]
+        for k in set(bibcodes):
+            if k in keys:
+                del self._d[k]
 
     def white_list(self, bibcodes):
         if _isstring(bibcodes):
             bibcodes = [bibcodes]
-        for k in bibcodes:
+        for k in set(bibcodes):
             if k in self._d:
                 self._d[k]['q'].clear()
 
