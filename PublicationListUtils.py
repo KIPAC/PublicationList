@@ -177,7 +177,7 @@ class Articles():
 
 def load_members_from_google_sheets(url=None):
     if url is None:
-        # Default to 2014 member list
+        # Default to 2014 member list (gid=0):
         url = 'https://docs.google.com/spreadsheets/d/1Ok5i25gibuLTHoRhGhmNMqTplMh--0-i4L_8cxzkUxI/export?format=csv&gid=0'
     lines = urlopen(url).readlines()
     header = lines.pop(0).strip().split(',')
