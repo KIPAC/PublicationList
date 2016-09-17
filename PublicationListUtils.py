@@ -1,5 +1,5 @@
 __all__ = ['AffliationChecker', 'Members', 'Articles', 'load_members_from_google_sheets', 'uft8_char_to_tex',\
-        'name_formatter_html', 'name_formatter_tex', 'AuthorsFormatter', 'entry_formatter_tex', 'entry_formatter_html']
+        'name_formatter_text', 'name_formatter_html', 'name_formatter_tex', 'AuthorsFormatter', 'entry_formatter_tex', 'entry_formatter_html', 'entry_formatter_text']
 
 import cPickle as pickle
 from operator import itemgetter
@@ -198,6 +198,9 @@ def load_members_from_google_sheets(url=None):
     return members
 
 
+def name_formatter_text(n):
+    return n
+
 def name_formatter_html(n):
     return '<b>{}</b>'.format(n)
 
@@ -261,3 +264,11 @@ def entry_formatter_html(bib, entry, formatted_authors):
         link += '[<a href="http://arxiv.org/abs/{}">arXiv</a>]'.format(bib[k]['eprint'])
     link += '[<a href="https://ui.adsabs.harvard.edu/#abs/{}/abstract">ADS</a>]'.format(k)
     return u'<li><i>"{},"</i> {}. {}</li>'.format(d['t'], formatted_authors, link)
+
+
+def entry_formatter_text(bib, entry, formatted_authors):
+    d = entry
+    k = entry['key']
+    journal = k[4:9].strip('.').replace('&', '&amp;')
+    return u'"{}," {}. {}.\n'.format(d['t'], formatted_authors, journal)
+
